@@ -2294,6 +2294,14 @@ include_once ('session.php');
                         }
                     }
 
+                    .print-button.disabled-button {
+                        background-color: #d3d3d3;
+                        /* Light gray color */
+                        color: #888;
+                        /* Lighter text color */
+                        cursor: not-allowed;
+                    }
+
                     /* Button styling */
                     .print-button {
                         background-color: #007bff;
@@ -2418,10 +2426,23 @@ if (!isset($_POST['Submit'])) {
 
 
                     <!-- Button to trigger printing -->
-                    <button class="print-button" style="display: block; margin: 20px auto; text-align: center;"
-                        onclick="printDiv()">
+                    <!-- Button with disabled attribute initially set -->
+                    <button class="print-button disabled-button"
+                        style="display: block; margin: 20px auto; text-align: center;" onclick="printDiv()"
+                        id="printButton" title="Please wait a few seconds..." disabled>
                         <i class="fa fa-print"></i> Print Results
                     </button>
+
+                    <script>
+                    window.onload = function() {
+                        setTimeout(function() {
+                            var printButton = document.getElementById("printButton");
+                            printButton.disabled = false;
+                            printButton.classList.remove("disabled-button"); // Remove faint styling
+                        }, 5000); // 10000 milliseconds = 10 seconds
+                    };
+                    </script>
+
 
                     <script>
                     function printDiv() {
