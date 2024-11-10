@@ -1,0 +1,251 @@
+{
+  "id": 2470,
+  "date": "2019-03-19T08:28:26",
+  "date_gmt": "2019-03-19T12:28:26",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2470" },
+  "modified": "2023-09-11T09:47:54",
+  "modified_gmt": "2023-09-11T13:47:54",
+  "slug": "which-is-the-best-decking-material-treated-wood-vs-composite",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/",
+  "title": {
+    "rendered": "Which is the Best Decking Material? Treated Wood vs. Composite"
+  },
+  "content": {
+    "rendered": "<p>Spring is on the way and that means <a href=\"https://<?php echo $row['url']; ?>/3-factors-to-guide-your-decision/\">decking</a> is on everyone\u2019s mind! Of course, you want your deck to look great and perform well for the coming barbecue season. But which decking material will you choose? For the most part, treated lumber almost always makes up the deck\u2019s structure\u2014although some brands,&nbsp;<a href=\"https://<?php echo $row['url']; ?>/discover-trex/\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://<?php echo $row['url']; ?>/discover-trex/\">like Trex</a>, do make composite framing specifically for decks. When it comes to decking boards, the <a href=\"https://www.angieslist.com/articles/which-best-decking-material-wood-or-composite.htm\" target=\"_blank\" rel=\"noopener noreferrer\">primary choice</a>s are between treated wood and composite decking boards. Here are the pros and cons of both to help you decide! <!--more--></p>\n<h3><strong>Composite Pros</strong></h3>\n<p>Composite decking needs a lot less maintenance than wood, which means that even though the initial cost to purchase and install is higher, the deck will end up costing less over its lifetime since you won\u2019t need to spend money on staining, sealing, refinishing and so on. Another great benefit to composite compared to wood is that products like Trex decking boards are much more durable than treated lumber. Trex products, in particular, are stain, scratch, fade and mold resistant. These boards won\u2019t warp or crack like wood can, and you won\u2019t have to worry about things like splinters cropping up after years of use. Homeowners often have concerns about sustainability and eco-friendliness, and that is one reason why they often turn to composite decking. These products are often made with recycled materials. For example, the<a href=\"https://www.trex.com/products/decking/enhance/\" target=\"_blank\" rel=\"noopener noreferrer\"> Trex Enhance</a> and Transcend lines of decking materials are made with 95% recycled products.</p>\n<h3><strong>Treated Wood Pros</strong></h3>\n<p>Most decks today are made with wood, including the <a href=\"https://<?php echo $row['url']; ?>/3-factors-to-guide-your-decision/\">decking boards</a> that make up the surface. The reason behind this is that initially, wood decking boards cost less to purchase and install. So, if you\u2019re looking for a less expensive way to put a surface on your deck, treated lumber might be the way to go. Just keep in mind that over the life of a wood deck, you\u2019ll end up spending more on maintenance. The look and feel of real wood is another reason why many go with treated lumber over composite decking. While some composites beautifully replicate the look of natural wood grain, color choices are often limited. With wood, you can choose from dozens of stains to get a deck color in the exact shade you desire.</p>\n<h3><strong>How to Make the Choice</strong></h3>\n<p>While you\u2019re trying to decide which decking material is right for you, it helps to think about several factors.</p>\n<ul>\n<li>How will you use the deck? For decks that don\u2019t see a lot of traffic, wood could be the right choice, but if you do a lot of entertaining or if various activities expose the deck to a lot of moisture (poolside, for instance), then composite might be the better alternative.</li>\n<li>If you plan to sell your home soon, then ongoing maintenance is less of a concern, which means that you can safely choose treated lumber.</li>\n<li>If you don\u2019t plan to sell your home, how will you tackle maintenance? Hiring a contractor to maintain the deck makes wood decking more manageable but will end up costing you more in the long term.</li>\n</ul>\n<p>In the end, the choice all comes down to your needs for the deck. Maintenance throughout the deck\u2019s life is something you\u2019ll need to consider, and you\u2019ll also need to think about your budget, both now and in the future. Wood decking will save you money in the short term, but composites like Trex can save on staining, sealing and maintenance throughout the years. &nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Spring is on the way and that means decking is on everyone\u2019s mind! Of course, you want your deck to look great and perform well for the coming barbecue season. But which decking material will you choose? For the most part, treated lumber almost always makes up the deck\u2019s structure\u2014although some brands,&nbsp;like Trex, do make\u2026</p>\n",
+    "protected": false
+  },
+  "author": 6,
+  "featured_media": 2471,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [209, 37, 5, 6, 30, 40, 28, 8, 100],
+  "tags": [9, 104, 38, 55, 10, 170, 158, 232, 14, 15, 16, 231, 46],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Which is the Best Decking Material? Treated Wood vs. Composite - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Which is the Best Decking Material? Treated Wood vs. Composite - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Spring is on the way and that means decking is on everyone\u2019s mind! Of course, you want your deck to look great and perform well for the coming barbecue season. But which decking material will you choose? For the most part, treated lumber almost always makes up the deck\u2019s structure\u2014although some brands,&nbsp;like Trex, do make\u2026\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2019-03-19T12:28:26+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:47:54+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2019/03/Treated-Wood-vs.-Composite-1024x687.png\" />\n\t<meta property=\"og:image:width\" content=\"1024\" />\n\t<meta property=\"og:image:height\" content=\"687\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"author\" content=\"Richie\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Richie\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/\"},\"author\":{\"name\":\"Richie\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77\"},\"headline\":\"Which is the Best Decking Material? Treated Wood vs. Composite\",\"datePublished\":\"2019-03-19T12:28:26+00:00\",\"dateModified\":\"2023-09-11T13:47:54+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/\"},\"wordCount\":600,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"<?php echo $row['country']; ?> Building\",\"<?php echo $row['country']; ?> Condo\",\"<?php echo $row['country']; ?> Homeowner\",\"Builder\",\"Composite Deck\",\"Deck Materials\",\"decking\",\"Downtown <?php echo $row['country']; ?>\",\"Lumber and Building Materials\",\"Remodeler\",\"treated wood deck\",\"Triple Decker\"],\"articleSection\":[\"Architect\",\"<?php echo $row['country']; ?> Condo\",\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Building Trends\",\"Contractor\",\"Homeowner\",\"Remodeler\",\"Triple Decker\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/\",\"url\":\"https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/\",\"name\":\"Which is the Best Decking Material? Treated Wood vs. Composite - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2019-03-19T12:28:26+00:00\",\"dateModified\":\"2023-09-11T13:47:54+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77\",\"name\":\"Richie\",\"url\":\"https://<?php echo $row['url']; ?>/author/richie/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Which is the Best Decking Material? Treated Wood vs. Composite - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Which is the Best Decking Material? Treated Wood vs. Composite - <?php echo $row['name']; ?> ",
+    "og_description": "Spring is on the way and that means decking is on everyone\u2019s mind! Of course, you want your deck to look great and perform well for the coming barbecue season. But which decking material will you choose? For the most part, treated lumber almost always makes up the deck\u2019s structure\u2014although some brands,&nbsp;like Trex, do make\u2026",
+    "og_url": "https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2019-03-19T12:28:26+00:00",
+    "article_modified_time": "2023-09-11T13:47:54+00:00",
+    "og_image": [
+      {
+        "width": 1024,
+        "height": 687,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2019/03/Treated-Wood-vs.-Composite-1024x687.png",
+        "type": "image/png"
+      }
+    ],
+    "author": "Richie",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "Richie",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/"
+          },
+          "author": {
+            "name": "Richie",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77"
+          },
+          "headline": "Which is the Best Decking Material? Treated Wood vs. Composite",
+          "datePublished": "2019-03-19T12:28:26+00:00",
+          "dateModified": "2023-09-11T13:47:54+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/"
+          },
+          "wordCount": 600,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "<?php echo $row['country']; ?> Building",
+            "<?php echo $row['country']; ?> Condo",
+            "<?php echo $row['country']; ?> Homeowner",
+            "Builder",
+            "Composite Deck",
+            "Deck Materials",
+            "decking",
+            "Downtown <?php echo $row['country']; ?>",
+            "Lumber and Building Materials",
+            "Remodeler",
+            "treated wood deck",
+            "Triple Decker"
+          ],
+          "articleSection": [
+            "Architect",
+            "<?php echo $row['country']; ?> Condo",
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Building Trends",
+            "Contractor",
+            "Homeowner",
+            "Remodeler",
+            "Triple Decker"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/",
+          "url": "https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/",
+          "name": "Which is the Best Decking Material? Treated Wood vs. Composite - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2019-03-19T12:28:26+00:00",
+          "dateModified": "2023-09-11T13:47:54+00:00",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/which-is-the-best-decking-material-treated-wood-vs-composite/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77",
+          "name": "Richie",
+          "url": "https://<?php echo $row['url']; ?>/author/richie/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2470" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/6"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2470"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2470/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2471"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2470"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2470"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2470"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

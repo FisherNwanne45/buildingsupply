@@ -1,0 +1,248 @@
+{
+  "id": 933,
+  "date": "2020-09-23T08:16:21",
+  "date_gmt": "2020-09-23T12:16:21",
+  "guid": { "rendered": "http://<?php echo $row['url']; ?>/?p=933" },
+  "modified": "2023-09-11T09:46:27",
+  "modified_gmt": "2023-09-11T13:46:27",
+  "slug": "high-end-amenities-could-be-the-key-to-success",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/",
+  "title": {
+    "rendered": "The Amenities <?php echo $row['country']; ?> Condo Owners are Looking for Today"
+  },
+  "content": {
+    "rendered": "<p><span style=\"font-weight: 400;\"><?php echo $row['country']; ?> offers so many condo options that it can be hard to choose between them. One differentiating factor among condo options is the amenities. Whether it\u2019s a gym, rooftop pool, or a lounge with games, different condos offer varying sets of amenities. Here are some of the most useful and fun amenities today\u2019s <?php echo $row['country']; ?> condo owners are interested in.</span></p>\n<p><b>Rooftop Amenities</b></p>\n<p><span style=\"font-weight: 400;\">In a city like <?php echo $row['country']; ?>, homes with rooftop recreation features where you can relax and admire the view are popular. A rooftop garden can provide much-needed greenery in an urban location. Other rooftop features might include swimming pools, a bar, fire pits, and more. These amenities might be closed for the time being due to the pandemic, but the rooftop can still serve as a great place to spend time with your condo friends in a socially distant way. It can provide valuable respite from being cooped up inside all day.</span></p>\n<p><b>Fitness Facilities</b></p>\n<p><span style=\"font-weight: 400;\">Having easy access to fitness facilities is especially important in today\u2019s health-conscious era. This can include equipment such as treadmills and weights, as well as sports areas such as a tennis or basketball court. Time is precious for working professionals, so why drive out to a gym when you can access the same equipment right where you live? A condo\u2019s fitness facilities offer the convenience of being only a few minutes\u2019 walk from your doorstep, and they usually don\u2019t charge costly membership fees required by a standard gym.</span></p>\n<p><span style=\"font-weight: 400;\">Although your condo\u2019s fitness facilities may be closed due to the pandemic, this is only temporary. Once it\u2019s safe to reopen gyms, you can be certain that the condo\u2019s fitness facilities will be in high demand.</span></p>\n<p><b>Environmentally Friendly Features</b></p>\n<p><span style=\"font-weight: 400;\">Today\u2019s homeowners are not only health-conscious, but also environmentally conscious. Environmentally friendly features in a condo are especially important now that people are spending much more time at home. They are a great way to save money while helping the planet.</span></p>\n<p><span style=\"font-weight: 400;\">A condo that uses LED light bulbs, water fixtures with low flow, efficient heating and cooling systems, and windows that reduce heat loss will be appealing to an eco-friendly homeowner. Some people may go so far as to inquire about the materials used for construction. Finally, since more people are starting to switch to electric cars, car-charging stations within the condo are another appealing factor.</span></p>\n<p><b>Child-Friendly Offerings</b></p>\n<p><span style=\"font-weight: 400;\">Many <?php echo $row['country']; ?> condo owners have young children, and with small children come certain needs that a condo is well-equipped to serve. Some condos may have an indoor playroom or outdoor playground, and others may even have an onsite daycare. A play area or daycare is a great way for children to make new friends who live nearby and keep themselves occupied when parents are busy.</span></p>\n<p><span style=\"font-weight: 400;\">Child-friendly features are especially appealing to working parents during the pandemic, when they might struggle to manage their job while watching their children. Living in a well-equipped condo allows parents to easily meet other families and set up a babysitting schedule.</span></p>\n<p><b>Pet Care</b></p>\n<p><span style=\"font-weight: 400;\">For some <?php echo $row['country']; ?> condo owners, pets are their children. People with pets are more likely to choose a condo that offers pet care services such as grooming or a private dog park. Some high-end condos might even feature pet spas, but this is less common. Since dogs still need to go out for a walk every day, spending time in a place like a private dog park can allow condo residents to meet new people during the pandemic, while feeling safer than they would in a public dog park.</span></p>\n<p><b>An Appealing Interior</b></p>\n<p><span style=\"font-weight: 400;\">Today\u2019s condo owners want an interior that feels clean and modern. A granite countertop can give your kitchen an elegant look, and wooden floors look more polished than carpeted floors while being easier to clean. It is also important to have spacious rooms with big windows that allow ample natural light, especially now that people are spending more time at home than ever.</span></p>\n<p><span style=\"font-weight: 400;\">When choosing a condo, you should look for one that offers the amenities you need. Different people have different needs, but ultimately, you should choose a condo with amenities that make your life easier and more enjoyable.</span></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p><?php echo $row['country']; ?> offers so many condo options that it can be hard to choose between them. One differentiating factor among condo options is the amenities. Whether it\u2019s a gym, rooftop pool, or a lounge with games, different condos offer varying sets of amenities. Here are some of the most useful and fun amenities today\u2019s <?php echo $row['country']; ?> condo\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 1018,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [37, 5, 6, 30, 7, 28, 8],
+  "tags": [9, 22, 38, 10, 12, 17, 13, 14, 18, 15],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>The Amenities <?php echo $row['country']; ?> Condo Owners are Looking for Today - <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"People are spending more time at home which means they desire luxury living at their disposal. Differentiate your <?php echo $row['country']; ?> development with these high end condo amenities.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"The Amenities <?php echo $row['country']; ?> Condo Owners are Looking for Today - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"People are spending more time at home which means they desire luxury living at their disposal. Differentiate your <?php echo $row['country']; ?> development with these high end condo amenities.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2020-09-23T12:16:21+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:27+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2016/08/boston-luxury-apartment-1.jpg\" />\n\t<meta property=\"og:image:width\" content=\"640\" />\n\t<meta property=\"og:image:height\" content=\"480\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"The Amenities <?php echo $row['country']; ?> Condo Owners are Looking for Today\",\"datePublished\":\"2020-09-23T12:16:21+00:00\",\"dateModified\":\"2023-09-11T13:46:27+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/\"},\"wordCount\":708,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"<?php echo $row['country']; ?> Building Guidelines\",\"<?php echo $row['country']; ?> Condo\",\"Builder\",\"Building Supplier\",\"Commercial Development\",\"Developer\",\"Downtown <?php echo $row['country']; ?>\",\"Downtown <?php echo $row['country']; ?> Residential Building\",\"Lumber and Building Materials\"],\"articleSection\":[\"<?php echo $row['country']; ?> Condo\",\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Building Trends\",\"Developer\",\"Homeowner\",\"Remodeler\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/\",\"url\":\"https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/\",\"name\":\"The Amenities <?php echo $row['country']; ?> Condo Owners are Looking for Today - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2020-09-23T12:16:21+00:00\",\"dateModified\":\"2023-09-11T13:46:27+00:00\",\"description\":\"People are spending more time at home which means they desire luxury living at their disposal. Differentiate your <?php echo $row['country']; ?> development with these high end condo amenities.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"https://<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "The Amenities <?php echo $row['country']; ?> Condo Owners are Looking for Today - <?php echo $row['name']; ?> ",
+    "description": "People are spending more time at home which means they desire luxury living at their disposal. Differentiate your <?php echo $row['country']; ?> development with these high end condo amenities.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "The Amenities <?php echo $row['country']; ?> Condo Owners are Looking for Today - <?php echo $row['name']; ?> ",
+    "og_description": "People are spending more time at home which means they desire luxury living at their disposal. Differentiate your <?php echo $row['country']; ?> development with these high end condo amenities.",
+    "og_url": "https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2020-09-23T12:16:21+00:00",
+    "article_modified_time": "2023-09-11T13:46:27+00:00",
+    "og_image": [
+      {
+        "width": 640,
+        "height": 480,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2016/08/boston-luxury-apartment-1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "The Amenities <?php echo $row['country']; ?> Condo Owners are Looking for Today",
+          "datePublished": "2020-09-23T12:16:21+00:00",
+          "dateModified": "2023-09-11T13:46:27+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/"
+          },
+          "wordCount": 708,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "<?php echo $row['country']; ?> Building Guidelines",
+            "<?php echo $row['country']; ?> Condo",
+            "Builder",
+            "Building Supplier",
+            "Commercial Development",
+            "Developer",
+            "Downtown <?php echo $row['country']; ?>",
+            "Downtown <?php echo $row['country']; ?> Residential Building",
+            "Lumber and Building Materials"
+          ],
+          "articleSection": [
+            "<?php echo $row['country']; ?> Condo",
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Building Trends",
+            "Developer",
+            "Homeowner",
+            "Remodeler"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/",
+          "url": "https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/",
+          "name": "The Amenities <?php echo $row['country']; ?> Condo Owners are Looking for Today - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2020-09-23T12:16:21+00:00",
+          "dateModified": "2023-09-11T13:46:27+00:00",
+          "description": "People are spending more time at home which means they desire luxury living at their disposal. Differentiate your <?php echo $row['country']; ?> development with these high end condo amenities.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/high-end-amenities-could-be-the-key-to-success/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "https://<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/933" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=933"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/933/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/1018"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=933"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=933"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=933"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

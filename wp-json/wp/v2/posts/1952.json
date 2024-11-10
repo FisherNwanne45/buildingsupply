@@ -1,0 +1,250 @@
+{
+  "id": 1952,
+  "date": "2018-10-02T14:12:57",
+  "date_gmt": "2018-10-02T14:12:57",
+  "guid": { "rendered": "http://<?php echo $row['url']; ?>/?p=1952" },
+  "modified": "2023-09-11T09:48:16",
+  "modified_gmt": "2023-09-11T13:48:16",
+  "slug": "canadian-lumber-tariffs-for-boston-building-industry",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/",
+  "title": {
+    "rendered": "The Impact of Canadian Lumber Tariffs for the <?php echo $row['country']; ?> Building Industry"
+  },
+  "content": {
+    "rendered": "<p>Over recent months, the lumber industry has been in a&nbsp;<a href=\"https://<?php echo $row['url']; ?>/why-strong-demand-and-tight-supply-have-caused-lumber-prices-to-soar-2/\" target=\"_blank\" rel=\"noopener noreferrer\">bit of a pinch</a>: Production prices have risen across the board while supplies are shrinking due to wildfires and wood-destroying insects. This is coupled with labor shortages and rising wages, all of which has combined to drive the cost of lumber sky-high. And, there\u2019s another factor at play here, too. The recent Canadian lumber tariffs are having a big impact on lumber prices \u2014 and the construction industry as a whole. Let\u2019s take a look at the specifics.</p>\n<p><!--more--></p>\n<h3><strong>A Brief Overview of Canadian Lumber Tariffs</strong></h3>\n<p>Tariffs are taxes on imported goods, a cost that the purchaser must pay in order to import the goods \u2014 in this case, lumber from Canada. In January 2018, the Trump administration&nbsp;<a href=\"https://www.cbsnews.com/news/lumber-tariffs-are-making-new-homes-even-more-costly/\" target=\"_blank\" rel=\"noopener noreferrer\">imposed a 20%</a>&nbsp;tariff on imported Canadian softwood lumber. This represents a large portion of the lumber used in the U.S., particularly the lumber used to build new homes. Canadian softwoods make up about 28% of all softwoods sold in the U.S. (Read the latest news regarding <a href=\"https://www.washingtonpost.com/business/2018/10/01/us-canada-mexico-just-reached-sweeping-new-nafta-deal-heres-whats-it/?noredirect=on&amp;utm_term=.13413af49400\" target=\"_blank\" rel=\"noopener noreferrer\">USMCA trade deal agreement</a> and Chapter 19 Dispute Resolution Process which affects&nbsp;<a href=\"https://ottawacitizen.com/news/canada/usmca-canada/wcm/1771bce4-c669-4380-aca4-98c8a2dbb8b3\" target=\"_blank\" rel=\"noopener noreferrer\">U.S. tariffs on softwood lumber</a>).&nbsp;</p>\n<h3><strong>Is the Tariff Driving Up Housing Prices?</strong></h3>\n<p>Experts say that yes, these tariffs are absolutely influencing housing prices. In fact, even the anticipation of the proposed tariffs drove prices up nationwide by 7% prior to December 2017. Currently, the <a href=\"https://www.housingwire.com/articles/43788-cbc-canadian-lumber-producers-tell-us-consumers-you-can-take-your-tariffs-back-eh\" target=\"_blank\" rel=\"noopener noreferrer\">National Association of Homebuilders</a> says that Canadian lumber tariffs are adding an average of $9,000 to the price of a new home. The tariffs, coupled with other supply problems, have led to a 40% increase in the cost of lumber for 2018, and an 80% year-over-year increase overall. Even the rental market is affected: Multi-family units have increased in price by up to $3,000.</p>\n<h3><strong>Will This Have a Chilling Effect on the Housing Industry?</strong></h3>\n<p>Builders and the housing industry are already experiencing a squeeze. For new homeowners, the added cost to build a home often proves to be too much. Many buyers are turning toward older homes, but inventory across the country is already lean, which means the price of real estate is going up as people compete for the few houses available. Currently, the median cost of a home in the U.S. is $312,000, a price that many first-time buyers simply can\u2019t afford. To make ends meet, builders are increasing costs on entry-level homes that are more likely to sell, and many are reporting a sharp decline in sales as a result.</p>\n<p>In the future, builders are expecting to see a wave of job loss throughout the construction industry. As more and more Americans choose to buy or rent older homes, housing starts will go down as will the demand for builders to complete those projects.</p>\n<h3><strong>Solution in Sight, But Could Be Slow</strong></h3>\n<p>So what is the solution? Many are looking toward American lumber production to increase supply, but it\u2019s a slow process and experts anticipate that it could be years before American lumber producers are able to meet the supply that Canada can provide. Right now, manufacturers are increasing production at a rate of 4.4% yearly, which is not fast enough to stave off increasing prices.</p>\n<p>In the meantime, industry experts hope that the tariffs will come down to help ease the strain on the construction industry. Some may start looking at steel framing as a replacement for stick framing, but this comes with its share of problems, too. Steel is expensive, faces rising tariffs of its own, and availability is sometimes a challenge.</p>\n<p>Politicians on both sides of the aisle, as well as lobbyists and political think tanks, are urging the current administration to reconsider Canadian lumber tariffs. If these tariffs are renegotiated, then prices could come back down.</p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Over recent months, the lumber industry has been in a&nbsp;bit of a pinch: Production prices have risen across the board while supplies are shrinking due to wildfires and wood-destroying insects. This is coupled with labor shortages and rising wages, all of which has combined to drive the cost of lumber sky-high. And, there\u2019s another factor\u2026</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 1953,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [5, 6, 40, 7, 8, 100],
+  "tags": [9, 104, 38, 55, 10, 12, 18, 61, 182, 15, 208, 207, 16],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>The Impact of Canadian Lumber Tariffs for the <?php echo $row['country']; ?> Building Industry - <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"Over recent months, the canadian lumber industry has been in a bit of a pinch: Production prices have risen across the board while supplies are shrinking due to wildfires and wood-destroying insects.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"The Impact of Canadian Lumber Tariffs for the <?php echo $row['country']; ?> Building Industry - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Over recent months, the canadian lumber industry has been in a bit of a pinch: Production prices have risen across the board while supplies are shrinking due to wildfires and wood-destroying insects.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2018-10-02T14:12:57+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:48:16+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2018/10/The-Impact-of-Canadian-Lumber-Tariffs-for-the-boston-Building-Industry.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1280\" />\n\t<meta property=\"og:image:height\" content=\"853\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"mflood\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"mflood\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/\"},\"author\":{\"name\":\"mflood\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46\"},\"headline\":\"The Impact of Canadian Lumber Tariffs for the <?php echo $row['country']; ?> Building Industry\",\"datePublished\":\"2018-10-02T14:12:57+00:00\",\"dateModified\":\"2023-09-11T13:48:16+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/\"},\"wordCount\":632,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"<?php echo $row['country']; ?> Building\",\"<?php echo $row['country']; ?> Condo\",\"<?php echo $row['country']; ?> Homeowner\",\"Builder\",\"Building Supplier\",\"Downtown <?php echo $row['country']; ?> Residential Building\",\"Home Improvement Contractor\",\"lumber\",\"Lumber and Building Materials\",\"lumber dealer\",\"lumber tariffs\",\"Remodeler\"],\"articleSection\":[\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Contractor\",\"Developer\",\"Remodeler\",\"Triple Decker\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/\",\"url\":\"https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/\",\"name\":\"The Impact of Canadian Lumber Tariffs for the <?php echo $row['country']; ?> Building Industry - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2018-10-02T14:12:57+00:00\",\"dateModified\":\"2023-09-11T13:48:16+00:00\",\"description\":\"Over recent months, the canadian lumber industry has been in a bit of a pinch: Production prices have risen across the board while supplies are shrinking due to wildfires and wood-destroying insects.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46\",\"name\":\"mflood\",\"url\":\"https://<?php echo $row['url']; ?>/author/mflood/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "The Impact of Canadian Lumber Tariffs for the <?php echo $row['country']; ?> Building Industry - <?php echo $row['name']; ?> ",
+    "description": "Over recent months, the canadian lumber industry has been in a bit of a pinch: Production prices have risen across the board while supplies are shrinking due to wildfires and wood-destroying insects.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "The Impact of Canadian Lumber Tariffs for the <?php echo $row['country']; ?> Building Industry - <?php echo $row['name']; ?> ",
+    "og_description": "Over recent months, the canadian lumber industry has been in a bit of a pinch: Production prices have risen across the board while supplies are shrinking due to wildfires and wood-destroying insects.",
+    "og_url": "https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2018-10-02T14:12:57+00:00",
+    "article_modified_time": "2023-09-11T13:48:16+00:00",
+    "og_image": [
+      {
+        "width": 1280,
+        "height": 853,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2018/10/The-Impact-of-Canadian-Lumber-Tariffs-for-the-boston-Building-Industry.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "mflood",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "mflood",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/"
+          },
+          "author": {
+            "name": "mflood",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46"
+          },
+          "headline": "The Impact of Canadian Lumber Tariffs for the <?php echo $row['country']; ?> Building Industry",
+          "datePublished": "2018-10-02T14:12:57+00:00",
+          "dateModified": "2023-09-11T13:48:16+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/"
+          },
+          "wordCount": 632,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "<?php echo $row['country']; ?> Building",
+            "<?php echo $row['country']; ?> Condo",
+            "<?php echo $row['country']; ?> Homeowner",
+            "Builder",
+            "Building Supplier",
+            "Downtown <?php echo $row['country']; ?> Residential Building",
+            "Home Improvement Contractor",
+            "lumber",
+            "Lumber and Building Materials",
+            "lumber dealer",
+            "lumber tariffs",
+            "Remodeler"
+          ],
+          "articleSection": [
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Contractor",
+            "Developer",
+            "Remodeler",
+            "Triple Decker"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/",
+          "url": "https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/",
+          "name": "The Impact of Canadian Lumber Tariffs for the <?php echo $row['country']; ?> Building Industry - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2018-10-02T14:12:57+00:00",
+          "dateModified": "2023-09-11T13:48:16+00:00",
+          "description": "Over recent months, the canadian lumber industry has been in a bit of a pinch: Production prices have risen across the board while supplies are shrinking due to wildfires and wood-destroying insects.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46",
+          "name": "mflood",
+          "url": "https://<?php echo $row['url']; ?>/author/mflood/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/1952" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=1952"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/1952/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/1953"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=1952"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=1952"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=1952"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

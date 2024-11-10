@@ -1,0 +1,251 @@
+{
+  "id": 2627,
+  "date": "2019-11-13T09:08:01",
+  "date_gmt": "2019-11-13T14:08:01",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2627" },
+  "modified": "2023-09-11T09:46:51",
+  "modified_gmt": "2023-09-11T13:46:51",
+  "slug": "boston-construction-outlook-for-2020",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/",
+  "title": {
+    "rendered": "<?php echo $row['country']; ?> Construction Outlook for 2020"
+  },
+  "content": {
+    "rendered": "<p>There are lots of questions swirling around about the future economy, particularly in <?php echo $row['country']; ?>. What will be coming in 2020? If you\u2019re a developer or involved in construction, here are a few things you\u2019ll need to know and how predictions could affect our <a href=\"https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/\">booming beantown</a>.</p>\n<h3><strong>Business Owners have a Bleak Outlook</strong></h3>\n<p>Recent surveys in Massachusetts show that business owners are hunkering down for the coming year. In October 2019, <a href=\"https://blog.aimnet.org/aim-issueconnect/massachusetts-companies-wary-of-economic-downturn\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://blog.aimnet.org/aim-issueconnect/massachusetts-companies-wary-of-economic-downturn\">Associated Industries of Massachusetts</a> reported that a full two-thirds of survey respondents not only expected an economic slowdown for 2020, but a contraction. Already, Massachusetts is seeing the effects of this, with employers hesitant to hire, fewer purchases being made, and extra inventory liquidated.</p>\n<h3><strong>But the Construction Market Shows Otherwise</strong></h3>\n<p>Business owners bracing for impact\u2014that\u2019s one side of the picture. On the other end of things, in <?php echo $row['country']; ?>, it looks as through the construction sector will continue to grow in 2020. Data from <a href=\"https://ccorpinsights.com/regional/<?php echo $row['country']; ?>/\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://ccorpinsights.com/regional/<?php echo $row['country']; ?>/\">Cumming Insights</a> shows where construction is expected to remain steady, and where it will keep growing.</p>\n<p>According to their predictions, the housing market will stay steady, showing no growth for the year. However, the tech industry within <?php echo $row['country']; ?> is booming. With the rising demand for tech, <a href=\"https://<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/\" target=\"_blank\" rel=\"noopener noreferrer\">construction growth</a> will shift to this sector. In fact, tech growth is expected to be a major driving force behind <?php echo $row['country']; ?>\u2019s economy during 2020. This is because there are lots of things supporting this growth\u2014proximity to Harvard and the Massachusetts Institute of Technology, for instance, plus plenty of start-ups providing jobs for new residents flocking to the city. There are also several major tech corporations expanding within Massachusetts, including Verizon, Apple and Google.</p>\n<p>Things like hospitality and gaming are growing, with new hotels and casinos opening. With the population rising and unemployment low throughout the city, it\u2019s expected that sectors including healthcare, education and manufacturing could grow to meet the city\u2019s demands.</p>\n<h3><strong><?php echo $row['country']; ?>\u2019s Industry is Recession-Proof, But the Housing Market?</strong></h3>\n<p>Economists believe that by 2022, the United States will have entered another recession. <?php echo $row['country']; ?> itself is expected to stay strong throughout largely because of major industries that just keep growing. Often during a recession, the housing market enters a downturn along with the rest of the economy, with home prices falling. But experts believe that <?php echo $row['country']; ?> may be different in this regard. Because of the industry keeping new residents flocking to the city, and because of the scarcity in available homes within <?php echo $row['country']; ?>, prices are expected to remain high.</p>\n<p>And what about new residential construction? Contractors will continue to build new homes and condos, of course, but there may not be much growth, if any, in this part of the construction sector. That\u2019s in large part because homebuyers will feel the hit to their wallets. Inflation will go up, raising the cost of living, while housing prices remain high, which reduces the average individual\u2019s buying power.</p>\n<h3><strong>Other Construction Trends to Look for in <?php echo $row['country']; ?></strong></h3>\n<p>It\u2019s a safe bet that construction will grow across health, education and tech industries. But what about other construction markets?</p>\n<p>Public transit may be a big industry to look at in 2020. This is because with housing prices remaining high, residents are flocking away from the more expensive districts nearer to their workplaces. The result is longer commutes, congested traffic, and a strain on public transit systems. Construction may grow in this area simply to help alleviate these issues.</p>\n<p>Zoning changes, if approved by local lawmakers, could also drastically shift the construction picture in <?php echo $row['country']; ?>. Right now, lots of <?php echo $row['country']; ?> areas are zoned against multi-family development projects. However, lawmakers are already starting to shift. For example, in Somerville and Cambridge, there are proposals being considered that would allow for affordable housing in the areas.</p>\n<p>Flexible co-working spaces may be another trend for developers to look out for. The growing number of startups means that these new businesses need flexible spaces to expand. Currently, there are more than 3.7 million square feet of co-working spaces within <?php echo $row['country']; ?>, and that\u2019s a number that could grow as this trend continues.</p>\n<p>Overall, while some reports paint a bleak picture of business contraction and a looming recession, <?php echo $row['country']; ?> is a resilient city with strong industries that will continue to hold steady no matter what the economy does. What does this mean for developers and contractors? It means that there will always be work\u2014but the focus may shift away from things like housing or retail and more toward tech and office space.</p>\n<p>Our building materials business is <a href=\"https://<?php echo $row['url']; ?>/located-in-the-heart-of-the-boston-building-boom/\">located in the heart of <?php echo $row['country']; ?></a> and continues to assist developers and contractors in building <?php echo $row['country']; ?> whether the project is residential, commercial or mixed use.&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>There are lots of questions swirling around about the future economy, particularly in <?php echo $row['country']; ?>. What will be coming in 2020? If you\u2019re a developer or involved in construction, here are a few things you\u2019ll need to know and how predictions could affect our booming beantown. Business Owners have a Bleak Outlook Recent surveys in Massachusetts\u2026</p>\n",
+    "protected": false
+  },
+  "author": 6,
+  "featured_media": 2628,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [209, 37, 5, 6, 30, 40, 7, 8, 100],
+  "tags": [9, 104, 10, 11, 161, 12, 17, 256, 130, 13, 15],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title><?php echo $row['country']; ?> Construction Outlook for 2020 - <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"The <?php echo $row['country']; ?> construction outlook will remain strong but could shift to tech and office space in the predicted upcoming recession.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"<?php echo $row['country']; ?> Construction Outlook for 2020 - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"The <?php echo $row['country']; ?> construction outlook will remain strong but could shift to tech and office space in the predicted upcoming recession.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2019-11-13T14:08:01+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:51+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2019/11/boston-Construction-Outlook.png\" />\n\t<meta property=\"og:image:width\" content=\"1280\" />\n\t<meta property=\"og:image:height\" content=\"859\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"author\" content=\"Richie\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Richie\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"4 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/\"},\"author\":{\"name\":\"Richie\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77\"},\"headline\":\"<?php echo $row['country']; ?> Construction Outlook for 2020\",\"datePublished\":\"2019-11-13T14:08:01+00:00\",\"dateModified\":\"2023-09-11T13:46:51+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/\"},\"wordCount\":779,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"<?php echo $row['country']; ?> Building\",\"Builder\",\"Building\",\"building materials\",\"Building Supplier\",\"Commercial Development\",\"construction outlook\",\"Contractor\",\"Developer\",\"Lumber and Building Materials\"],\"articleSection\":[\"Architect\",\"<?php echo $row['country']; ?> Condo\",\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Building Trends\",\"Contractor\",\"Developer\",\"Remodeler\",\"Triple Decker\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/\",\"url\":\"https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/\",\"name\":\"<?php echo $row['country']; ?> Construction Outlook for 2020 - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2019-11-13T14:08:01+00:00\",\"dateModified\":\"2023-09-11T13:46:51+00:00\",\"description\":\"The <?php echo $row['country']; ?> construction outlook will remain strong but could shift to tech and office space in the predicted upcoming recession.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77\",\"name\":\"Richie\",\"url\":\"https://<?php echo $row['url']; ?>/author/richie/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "<?php echo $row['country']; ?> Construction Outlook for 2020 - <?php echo $row['name']; ?> ",
+    "description": "The <?php echo $row['country']; ?> construction outlook will remain strong but could shift to tech and office space in the predicted upcoming recession.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "<?php echo $row['country']; ?> Construction Outlook for 2020 - <?php echo $row['name']; ?> ",
+    "og_description": "The <?php echo $row['country']; ?> construction outlook will remain strong but could shift to tech and office space in the predicted upcoming recession.",
+    "og_url": "https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2019-11-13T14:08:01+00:00",
+    "article_modified_time": "2023-09-11T13:46:51+00:00",
+    "og_image": [
+      {
+        "width": 1280,
+        "height": 859,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2019/11/boston-Construction-Outlook.png",
+        "type": "image/png"
+      }
+    ],
+    "author": "Richie",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "Richie",
+      "Est. reading time": "4 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/"
+          },
+          "author": {
+            "name": "Richie",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77"
+          },
+          "headline": "<?php echo $row['country']; ?> Construction Outlook for 2020",
+          "datePublished": "2019-11-13T14:08:01+00:00",
+          "dateModified": "2023-09-11T13:46:51+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/"
+          },
+          "wordCount": 779,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "<?php echo $row['country']; ?> Building",
+            "Builder",
+            "Building",
+            "building materials",
+            "Building Supplier",
+            "Commercial Development",
+            "construction outlook",
+            "Contractor",
+            "Developer",
+            "Lumber and Building Materials"
+          ],
+          "articleSection": [
+            "Architect",
+            "<?php echo $row['country']; ?> Condo",
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Building Trends",
+            "Contractor",
+            "Developer",
+            "Remodeler",
+            "Triple Decker"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/",
+          "url": "https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/",
+          "name": "<?php echo $row['country']; ?> Construction Outlook for 2020 - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2019-11-13T14:08:01+00:00",
+          "dateModified": "2023-09-11T13:46:51+00:00",
+          "description": "The <?php echo $row['country']; ?> construction outlook will remain strong but could shift to tech and office space in the predicted upcoming recession.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/boston-construction-outlook-for-2020/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77",
+          "name": "Richie",
+          "url": "https://<?php echo $row['url']; ?>/author/richie/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2627" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/6"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2627"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2627/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2628"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2627"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2627"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2627"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

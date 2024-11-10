@@ -1,0 +1,243 @@
+{
+  "id": 2064,
+  "date": "2018-11-21T09:26:21",
+  "date_gmt": "2018-11-21T14:26:21",
+  "guid": { "rendered": "<?php echo $row['url']; ?>/?p=2064" },
+  "modified": "2023-09-11T09:48:01",
+  "modified_gmt": "2023-09-11T13:48:01",
+  "slug": "3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2",
+  "status": "publish",
+  "type": "post",
+  "link": "<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/",
+  "title": {
+    "rendered": "3 Barriers Blocking <?php echo $row['country']; ?>&#8217;s Housing Start Initiative"
+  },
+  "content": {
+    "rendered": "<p>It\u2019s no secret that <?php echo $row['country']; ?> is facing a serious housing shortage, and in fact, one mayor in the area has <a href=\"https://www.<?php echo $row['country']; ?>globe.com/business/2018/10/02/citing-housing-emergency-local-mayors-pledge-dramatically-boost-construction/plYlzBr3OoM6W6la3L1zTL/story.php\" target=\"_blank\" rel=\"noopener noreferrer\">called the situation</a> an \u201cemergency.\u201d In some areas of this city, rent and home prices are skyrocketing, making it one of the most expensive places to live in the United States. This has led to a <a href=\"https://www.bdcnetwork.com/boston-%E2%80%98housing-emergency%E2%80%99-prompts-regional-initiative-new-residential-construction\" target=\"_blank\" rel=\"noopener noreferrer\">coalition of mayors</a> in 15 cities around <?php echo $row['country']; ?> to make a pledge to increase the number of homes built in the area. According to the housing start initiative pledge, these 15 communities are hoping to add 185,000 new homes in just over a decade. A housing increase on this scale is forecasted to be enough to keep up with area job growth and <?php echo $row['country']; ?>\u2019s current population boom.</p>\n<p><!--more--></p>\n<h3><strong><?php echo $row['country']; ?> Housing Challenges</strong></h3>\n<p>When you take a look at recent statistics, this number seems incredibly optimistic. Between 2010 and 2018, only 32,500 residential units were granted building permits in these same 15 communities, so these areas are looking to more than quadruple the number of housing units built in roughly the same amount of time.</p>\n<p>Further, these cities will have challenges to overcome from the residents already living and working there. For instance, many people are concerned about what an increase in residential units will do to an already clogged traffic situation. In some communities, officials are trying to plan around this to help alleviate these concerns. One possible solution is to build new residential units near existing mass transit hubs, which helps keep cars off the street. In Newton, for instance, officials are hoping to build housing near to existing MBTA stops, which will help make public transit more appealing to new residents.</p>\n<p>As more people move into these densely populated areas, people are steadily growing more concerned about the impact to area schools. In the future, developers may very well see contracts for school buildings as the number of school-aged children rises.</p>\n<p>And then there is the overall quality of life in these areas, which has some residents worried. Densely populated neighborhoods can be noisy, difficult to navigate, and amenities like grocery stores and entertainment venues may be far enough away as to be inconvenient. This is where stellar neighborhood design will come into play. More and more, new renters and homebuyers are looking for that <a href=\"<?php echo $row['url']; ?>/4-characteristics-millennials-desire-in-a-surban-neighborhood/\" target=\"_blank\" rel=\"noopener noreferrer\">ideal mix of suburban and urban living</a>. The most attractive new housing developments in <?php echo $row['country']; ?> will be those that feature amenities as part of their design, with shopping and entertainment mixed in with new living spaces.</p>\n<h3><strong>Build Up, Not Out</strong></h3>\n<p>And, of course, space is at a premium in <?php echo $row['country']; ?>, which means many new housing developments will need to build up, not out. This means an increase in the number of multifamily units, but here again, officials are facing challenges in the form of <a href=\"http://www.wbur.org/cognoscenti/2018/07/23/affordable-housing-boston-rachel-heller-marc-draisen\" target=\"_blank\" rel=\"noopener noreferrer\">zoning laws</a>. In many communities, there are zoning rules against building new multifamily housing units, and in some areas, even single-family homes don\u2019t fit zoning requirements. Earlier this year, legislators proposed a new law that would reduce a city council\u2019s requirement to change zoning laws from a two-thirds vote to a simple majority, instead. Unfortunately, the law didn\u2019t pass through the Massachusetts state legislature, but lawmakers remain hopeful that changes will be made so that communities are able to build new homes.</p>\n<p>In the meantime, experts forecast that housing will stay at a premium in <?php echo $row['country']; ?>, with available properties scarce and costs on the rise. However, lawmakers are still working on solutions that will increase housing initiative starts while alleviating concerns about traffic, strained public schools and quality of life. Within the next decade, developers can expect an increase in demand for new residential units throughout the <?php echo $row['country']; ?> area.</p>\n<p><a href=\"<?php echo $row['url']; ?>/contact-us/\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter wp-image-472 size-full\" src=\"<?php echo $row['url']; ?>/wp-content/uploads/2016/10/NEBS-CTA.png\" alt=\"heart of building boom <?php echo $row['country']; ?>\" width=\"664\" height=\"441\"></a></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>It\u2019s no secret that <?php echo $row['country']; ?> is facing a serious housing shortage, and in fact, one mayor in the area has called the situation an \u201cemergency.\u201d In some areas of this city, rent and home prices are skyrocketing, making it one of the most expensive places to live in the United States. This has led to\u2026</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 2065,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [209, 37, 5, 6, 7, 28, 100],
+  "tags": [9, 104, 38, 21, 10, 11, 217, 17, 79, 13, 18, 162, 218, 15, 46],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>3 Barriers Blocking <?php echo $row['country']; ?>&#039;s Housing Start Initiative - <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"Experts forecast that housing will stay at a premium in <?php echo $row['country']; ?>. Lawmakers are working on solutions that will increase housing start initiatives while alleviating concerns about traffic, strained public schools and quality of life. 15 communities are hoping to add 185,000 new homes in the next decade.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"3 Barriers Blocking <?php echo $row['country']; ?>&#039;s Housing Start Initiative - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Experts forecast that housing will stay at a premium in <?php echo $row['country']; ?>. Lawmakers are working on solutions that will increase housing start initiatives while alleviating concerns about traffic, strained public schools and quality of life. 15 communities are hoping to add 185,000 new homes in the next decade.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2018-11-21T14:26:21+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:48:01+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2018/11/3-Barriers-Blocking-<?php echo $row['country']; ?>s-Housing-Start-Initiative.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2048\" />\n\t<meta property=\"og:image:height\" content=\"1365\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"mflood\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"mflood\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/#article\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/\"},\"author\":{\"name\":\"mflood\",\"@id\":\"<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46\"},\"headline\":\"3 Barriers Blocking <?php echo $row['country']; ?>&#8217;s Housing Start Initiative\",\"datePublished\":\"2018-11-21T14:26:21+00:00\",\"dateModified\":\"2023-09-11T13:48:01+00:00\",\"mainEntityOfPage\":{\"@id\":\"<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/\"},\"wordCount\":619,\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"<?php echo $row['country']; ?> Building\",\"<?php echo $row['country']; ?> Condo\",\"<?php echo $row['country']; ?> Redevelopment Authority\",\"Builder\",\"Building\",\"building in <?php echo $row['country']; ?>\",\"Commercial Development\",\"Condo\",\"Developer\",\"Downtown <?php echo $row['country']; ?> Residential Building\",\"homeowner\",\"housing start initiative\",\"Lumber and Building Materials\",\"Triple Decker\"],\"articleSection\":[\"Architect\",\"<?php echo $row['country']; ?> Condo\",\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Developer\",\"Homeowner\",\"Triple Decker\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/\",\"url\":\"<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/\",\"name\":\"3 Barriers Blocking <?php echo $row['country']; ?>'s Housing Start Initiative - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2018-11-21T14:26:21+00:00\",\"dateModified\":\"2023-09-11T13:48:01+00:00\",\"description\":\"Experts forecast that housing will stay at a premium in <?php echo $row['country']; ?>. Lawmakers are working on solutions that will increase housing start initiatives while alleviating concerns about traffic, strained public schools and quality of life. 15 communities are hoping to add 185,000 new homes in the next decade.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>/#website\",\"url\":\"<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46\",\"name\":\"mflood\",\"url\":\"<?php echo $row['url']; ?>/author/mflood/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "3 Barriers Blocking <?php echo $row['country']; ?>'s Housing Start Initiative - <?php echo $row['name']; ?> ",
+    "description": "Experts forecast that housing will stay at a premium in <?php echo $row['country']; ?>. Lawmakers are working on solutions that will increase housing start initiatives while alleviating concerns about traffic, strained public schools and quality of life. 15 communities are hoping to add 185,000 new homes in the next decade.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "3 Barriers Blocking <?php echo $row['country']; ?>'s Housing Start Initiative - <?php echo $row['name']; ?> ",
+    "og_description": "Experts forecast that housing will stay at a premium in <?php echo $row['country']; ?>. Lawmakers are working on solutions that will increase housing start initiatives while alleviating concerns about traffic, strained public schools and quality of life. 15 communities are hoping to add 185,000 new homes in the next decade.",
+    "og_url": "<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2018-11-21T14:26:21+00:00",
+    "article_modified_time": "2023-09-11T13:48:01+00:00",
+    "og_image": [
+      {
+        "width": 2048,
+        "height": 1365,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2018/11/3-Barriers-Blocking-<?php echo $row['country']; ?>s-Housing-Start-Initiative.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "mflood",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "mflood",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/#article",
+          "isPartOf": {
+            "@id": "<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/"
+          },
+          "author": {
+            "name": "mflood",
+            "@id": "<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46"
+          },
+          "headline": "3 Barriers Blocking <?php echo $row['country']; ?>&#8217;s Housing Start Initiative",
+          "datePublished": "2018-11-21T14:26:21+00:00",
+          "dateModified": "2023-09-11T13:48:01+00:00",
+          "mainEntityOfPage": {
+            "@id": "<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/"
+          },
+          "wordCount": 619,
+          "publisher": { "@id": "<?php echo $row['url']; ?>/#organization" },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "<?php echo $row['country']; ?> Building",
+            "<?php echo $row['country']; ?> Condo",
+            "<?php echo $row['country']; ?> Redevelopment Authority",
+            "Builder",
+            "Building",
+            "building in <?php echo $row['country']; ?>",
+            "Commercial Development",
+            "Condo",
+            "Developer",
+            "Downtown <?php echo $row['country']; ?> Residential Building",
+            "homeowner",
+            "housing start initiative",
+            "Lumber and Building Materials",
+            "Triple Decker"
+          ],
+          "articleSection": [
+            "Architect",
+            "<?php echo $row['country']; ?> Condo",
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Developer",
+            "Homeowner",
+            "Triple Decker"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/",
+          "url": "<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/",
+          "name": "3 Barriers Blocking <?php echo $row['country']; ?>'s Housing Start Initiative - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2018-11-21T14:26:21+00:00",
+          "dateModified": "2023-09-11T13:48:01+00:00",
+          "description": "Experts forecast that housing will stay at a premium in <?php echo $row['country']; ?>. Lawmakers are working on solutions that will increase housing start initiatives while alleviating concerns about traffic, strained public schools and quality of life. 15 communities are hoping to add 185,000 new homes in the next decade.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>/3-barriers-blocking-<?php echo $row['country']; ?>s-housing-start-initiative-2/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>/#website",
+          "url": "<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": { "@id": "<?php echo $row['url']; ?>/#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>/#/schema/logo/image/" },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46",
+          "name": "mflood",
+          "url": "<?php echo $row['url']; ?>/author/mflood/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2064" }],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2064"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2064/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/2065"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2064" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2064"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2064"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

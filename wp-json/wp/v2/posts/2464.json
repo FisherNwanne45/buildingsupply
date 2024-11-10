@@ -1,0 +1,249 @@
+{
+  "id": 2464,
+  "date": "2019-03-06T09:28:58",
+  "date_gmt": "2019-03-06T14:28:58",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2464" },
+  "modified": "2023-09-11T09:47:54",
+  "modified_gmt": "2023-09-11T13:47:54",
+  "slug": "the-rising-popularity-of-wood-clad-windows-and-doors",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/",
+  "title": {
+    "rendered": "The Rising Popularity of Wood-Clad Windows and Doors"
+  },
+  "content": {
+    "rendered": "<p>Clad windows and doors are becoming ever more popular, especially in places like <?php echo $row['country']; ?>, where diverse home styles require a broad range of window styles, interior finishes, and exterior finishes. What\u2019s more, <a href=\"https://www.thisoldhouse.com/ideas/taking-look-aluminum-clad-windows\" target=\"_blank\" rel=\"noopener noreferrer\">clad windows are durable</a>, which is a must in places like <?php echo $row['country']; ?>, where the weather isn\u2019t always kind to exterior wood. Want to learn more about clad windows? Read on, and you\u2019ll see why they make a great choice for <?php echo $row['country']; ?> homes, and you\u2019ll learn a little bit about Jeld-Wen\u2019s Siteline series of clad windows, too!</p>\n<p><!--more--></p>\n<h3><strong>Wood-Clad Windows and Doors: What Are They?</strong></h3>\n<p>Before we get into the benefits of clad wood windows and doors, it\u2019ll help to learn a little bit about how these windows are designed. A clad wood window is one with a wooden frame, but the exterior surfaces of the window are clad with another material\u2014typically either vinyl or aluminum. This is true for clad doors, too. A door with cladding will have a wooden frame in which the wood is exposed indoors, but on the outdoor side, the wood is covered with vinyl or aluminum.</p>\n<p>And just so you know the difference, a vinyl wood-clad window differs from a vinyl window in that the wood clad version has a wooden frame, whereas a traditional vinyl window does not have a wood frame or any wooden components. The same goes for aluminum wood-clad windows versus solid aluminum windows\u2014aluminum clad will have wooden framework where regular aluminum windows will not.</p>\n<h3><strong>Why Choose Clad Wood Windows and Doors?</strong></h3>\n<p>Solid vinyl, <a href=\"https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/\" target=\"_blank\" rel=\"noopener noreferrer\">fiberglass</a> and aluminum windows rose in popularity over wood for a long time because of their durability against the elements. These materials don\u2019t warp the way that wood can, they\u2019re much easier to maintain, and they can handle everything that <?php echo $row['country']; ?> weather has to throw at them.</p>\n<p>But, if you love the warm, rich look of wood indoors, then aluminum, fiberglass and vinyl windows are problematic. That\u2019s one of the biggest reasons why more and more people are choosing clad windows and doors\u2014because on the outside, the cladding gives these windows the durability of a vinyl or aluminum window, but inside, the homeowner still gets to enjoy the look of real wood.</p>\n<p>Additionally, clad windows offer energy savings over traditional wood windows. Wood windows can be drafty, whereas clad windows resist air infiltration, which keeps the home warmer in the winter and cooler in the summer.</p>\n<h3><strong>Using Clad Windows in <?php echo $row['country']; ?> Homes</strong></h3>\n<p>One reason why clad windows are becoming popular in <?php echo $row['country']; ?> is because of their design versatility. <?php echo $row['country']; ?>, in particular, has a diverse array of homes\u2014everything from brownstones and triple deckers to newer, more modern condos. In older homes, natural woodwork inside is a great selling point, and outside, the sky is the limit as far as colors and material choices go. More modern homes may require eye-catching colors or sleek finishes, while brownstones and triple deckers will look great with windows in traditional styles with more muted colors.</p>\n<p>And that\u2019s where&nbsp;<a href=\"https://www.jeld-wen.com/en-us/featured/siteline-wood-windows-and-patio-doors\" target=\"_blank\" rel=\"noopener noreferrer\" data-cke-saved-href=\"https://www.jeld-wen.com/en-us/featured/siteline-wood-windows-and-patio-doors\">Jeld-Wen\u2019s Siteline</a>&nbsp;windows come in. This is a line of clad windows that offers the utmost in design versatility. There is a wide variety of window and door styles\u2014everything from double-hung windows to casement windows and even geometric shapes. On top of that, this line features a broad range of interior and exterior colors, which means you\u2019ll have no trouble finding the perfect clad windows in exactly the colors you need for your home.</p>\n<p>If you\u2019d like to learn more about Jeld-Wen\u2019s Siteline clad windows and doors, feel free to head over to their website and give their brochure a look! With a wide selection of windows and doors to choose from, they are certain to have the perfect windows for your <?php echo $row['country']; ?> home.</p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Clad windows and doors are becoming ever more popular, especially in places like <?php echo $row['country']; ?>, where diverse home styles require a broad range of window styles, interior finishes, and exterior finishes. What\u2019s more, clad windows are durable, which is a must in places like <?php echo $row['country']; ?>, where the weather isn\u2019t always kind to exterior wood. Want to\u2026</p>\n",
+    "protected": false
+  },
+  "author": 6,
+  "featured_media": 2431,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [30, 40, 7, 28, 8],
+  "tags": [9, 104, 38, 55, 161, 12, 142, 14, 18, 220, 15, 16, 123],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>The Rising Popularity of Wood-Clad Windows and Doors - <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"A clad wood window has a wooden frame, but exterior surfaces of the window are clad with typically either vinyl or aluminum. Clad windows offer energy savings vs traditional wood windows because they resist air infiltration,\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"The Rising Popularity of Wood-Clad Windows and Doors - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"A clad wood window has a wooden frame, but exterior surfaces of the window are clad with typically either vinyl or aluminum. Clad windows offer energy savings vs traditional wood windows because they resist air infiltration,\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2019-03-06T14:28:58+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:47:54+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2019/02/jeld-wen-siteline-window.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1\" />\n\t<meta property=\"og:image:height\" content=\"1\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"Richie\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Richie\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/\"},\"author\":{\"name\":\"Richie\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77\"},\"headline\":\"The Rising Popularity of Wood-Clad Windows and Doors\",\"datePublished\":\"2019-03-06T14:28:58+00:00\",\"dateModified\":\"2023-09-11T13:47:54+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/\"},\"wordCount\":651,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"<?php echo $row['country']; ?> Building\",\"<?php echo $row['country']; ?> Condo\",\"<?php echo $row['country']; ?> Homeowner\",\"building materials\",\"Building Supplier\",\"Design Trends\",\"Downtown <?php echo $row['country']; ?>\",\"Downtown <?php echo $row['country']; ?> Residential Building\",\"Energy Efficient windows\",\"Lumber and Building Materials\",\"Remodeler\",\"Windows\"],\"articleSection\":[\"Building Trends\",\"Contractor\",\"Developer\",\"Homeowner\",\"Remodeler\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/\",\"url\":\"https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/\",\"name\":\"The Rising Popularity of Wood-Clad Windows and Doors - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2019-03-06T14:28:58+00:00\",\"dateModified\":\"2023-09-11T13:47:54+00:00\",\"description\":\"A clad wood window has a wooden frame, but exterior surfaces of the window are clad with typically either vinyl or aluminum. Clad windows offer energy savings vs traditional wood windows because they resist air infiltration,\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77\",\"name\":\"Richie\",\"url\":\"https://<?php echo $row['url']; ?>/author/richie/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "The Rising Popularity of Wood-Clad Windows and Doors - <?php echo $row['name']; ?> ",
+    "description": "A clad wood window has a wooden frame, but exterior surfaces of the window are clad with typically either vinyl or aluminum. Clad windows offer energy savings vs traditional wood windows because they resist air infiltration,",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "The Rising Popularity of Wood-Clad Windows and Doors - <?php echo $row['name']; ?> ",
+    "og_description": "A clad wood window has a wooden frame, but exterior surfaces of the window are clad with typically either vinyl or aluminum. Clad windows offer energy savings vs traditional wood windows because they resist air infiltration,",
+    "og_url": "https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2019-03-06T14:28:58+00:00",
+    "article_modified_time": "2023-09-11T13:47:54+00:00",
+    "og_image": [
+      {
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2019/02/jeld-wen-siteline-window.jpg",
+        "width": 1,
+        "height": 1,
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "Richie",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "Richie",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/"
+          },
+          "author": {
+            "name": "Richie",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77"
+          },
+          "headline": "The Rising Popularity of Wood-Clad Windows and Doors",
+          "datePublished": "2019-03-06T14:28:58+00:00",
+          "dateModified": "2023-09-11T13:47:54+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/"
+          },
+          "wordCount": 651,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "<?php echo $row['country']; ?> Building",
+            "<?php echo $row['country']; ?> Condo",
+            "<?php echo $row['country']; ?> Homeowner",
+            "building materials",
+            "Building Supplier",
+            "Design Trends",
+            "Downtown <?php echo $row['country']; ?>",
+            "Downtown <?php echo $row['country']; ?> Residential Building",
+            "Energy Efficient windows",
+            "Lumber and Building Materials",
+            "Remodeler",
+            "Windows"
+          ],
+          "articleSection": [
+            "Building Trends",
+            "Contractor",
+            "Developer",
+            "Homeowner",
+            "Remodeler"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/",
+          "url": "https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/",
+          "name": "The Rising Popularity of Wood-Clad Windows and Doors - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2019-03-06T14:28:58+00:00",
+          "dateModified": "2023-09-11T13:47:54+00:00",
+          "description": "A clad wood window has a wooden frame, but exterior surfaces of the window are clad with typically either vinyl or aluminum. Clad windows offer energy savings vs traditional wood windows because they resist air infiltration,",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/the-rising-popularity-of-wood-clad-windows-and-doors/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77",
+          "name": "Richie",
+          "url": "https://<?php echo $row['url']; ?>/author/richie/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2464" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/6"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2464"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2464/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2431"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2464"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2464"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2464"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

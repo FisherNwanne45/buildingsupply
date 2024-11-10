@@ -1,0 +1,231 @@
+{
+  "id": 1573,
+  "date": "2017-07-12T09:18:18",
+  "date_gmt": "2017-07-12T13:18:18",
+  "guid": { "rendered": "<?php echo $row['url']; ?>/?p=1573" },
+  "modified": "2023-09-11T09:49:38",
+  "modified_gmt": "2023-09-11T13:49:38",
+  "slug": "micro-condo-answer-to-boston-millennial-housing-crisis",
+  "status": "publish",
+  "type": "post",
+  "link": "<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/",
+  "title": {
+    "rendered": "The Micro-Condo Could Be the Answer to <?php echo $row['country']; ?> Millennial Housing Crisis"
+  },
+  "content": {
+    "rendered": "<p>For the <?php echo $row['country']; ?> <a href=\"<?php echo $row['url']; ?>/why-the-millennial-village-might-be-the-answer-to-<?php echo $row['country']; ?>s-housing-shortage/\">millennial</a>, the housing market isn\u2019t exactly the greatest. In fact, many <a href=\"http://bostinno.streetwise.co/2016/06/16/can-micro-apartments-become-a-macro-housing-solution-for-<?php echo $row['country']; ?>/\" target=\"_blank\" rel=\"noopener noreferrer\">refer to it</a> as the \u201c<?php echo $row['country']; ?> housing crisis\u201d because for millennials, opportunities for affordable housing are few and far between. This is a generation that by and large is not making as much money as its predecessors. Lured to cities like <?php echo $row['country']; ?> for the opportunity, millennials often find themselves unable to make housing payments as costs go up.<br />\n<!--more-->Let\u2019s take an in-depth look at <?php echo $row['country']; ?>\u2019s millennial housing problem \u2014 and <a href=\"https://www.<?php echo $row['country']; ?>globe.com/business/2015/07/15/demand-surges-for-small-condos-prime-boston-locations/ZK6kppvzP8DFQAar6qSG9K/story.php\" target=\"_blank\" rel=\"noopener noreferrer\">one possible solution</a> for this housing crunch: the micro-condo.</p>\n<h3><strong>The <?php echo $row['country']; ?> Millennial: Facts and Figures</strong></h3>\n<p>A lot of<a href=\"http://lenovotips.net/news/boston-Area-Millennials-Face-Affordable-Housing-Shortage,-Study-Finds/\" target=\"_blank\" rel=\"noopener noreferrer\"> research</a> has been done to learn how the <?php echo $row['country']; ?> housing crisis can be alleviated. Here are some statistics:</p>\n<ul>\n<li>Research from 2015 shows that roughly 35% of people living in <?php echo $row['country']; ?> are aged between 20 and 34 years old. Nationally, millennials make up about 21% of the population.</li>\n<li>The majority of these millennials are highly educated with at least 65% possessing a bachelor\u2019s degree.</li>\n<li>A report from<a href=\"http://www.tbf.org/~/media/23AC9BDB3A7A4D3788A94B7E1BDFF1A0.pdf\" target=\"_blank\" rel=\"noopener noreferrer\"> <?php echo $row['country']; ?> Indicators in partnership with the <?php echo $row['country']; ?> Chamber of Commerce</a> shows that while children born in 1940 had a 92% chance of earning more than their parents, millennials only have a 50% chance of earning more.</li>\n<li>Surveys have shown that affordable housing \u2014 or the lack of it \u2014 is the top concern for the <?php echo $row['country']; ?> millennial, with 32% reporting it as a priority.</li>\n</ul>\n<p>As you can see, millennials have flocked to <?php echo $row['country']; ?> in huge numbers but with less economic opportunity than their forebears, they are struggling to find housing that is priced within their affordable range.</p>\n<h3><strong>Is the Micro-Condo the Solution to the <?php echo $row['country']; ?> Housing Crisis?</strong></h3>\n<p>Micro-condos are an up and coming trend in <?php echo $row['country']; ?> because they pose a possible solution to the housing crisis. Right now, the cost of a condo averages $920,000 within the city \u2014 much too expensive for the average millennial to afford. However, smaller units, below 450 square feet, are averaging around $350,000 which is a little bit easier for a cash-strapped young adult to afford.</p>\n<p>Many of these pint-sized units are even less expensive, with some listing for under $100,000 for just a couple of hundred square feet. While this does not seem like a lot of space, it does allow younger people that are making less money to gain a foothold in the city. Moreover, prices on micro-condos are rising, with the average selling price going up 54% between 2011 and 2015. In other words, a millennial that invests now will not only have a small home of their own, but also the potential to profit on the sale when it comes time to upgrade.</p>\n<h3><strong>Creating the Perfect Micro-Condo</strong></h3>\n<p>For many millennials, the idea of living in 200 square feet or less seems cramped. That is why, in order to attract buyers, the top priority for designers and developers is to create an <a href=\"https://www.<?php echo $row['country']; ?>globe.com/lifestyle/real-estate/2016/12/14/tiny-exhibit-big-ideas-solve-boston-affordable-housing-shortage/ZQKdDDTp4tSJPrZOntc4GN/story.php\" target=\"_blank\" rel=\"noopener noreferrer\">intelligent space.</a> Small but well-designed kitchens and bathrooms are a must and floor plans need to be comfortable without wasting the limited space. Storage is also essential \u2014 particularly smart cabinets and drawer units that are capable of holding necessities while remaining compact.</p>\n<p>Life isn\u2019t easy for <?php echo $row['country']; ?> millennials but the micro-condo might help alleviate this age group\u2019s primary concern. For developers that are planning to build smaller units such as these, the key thing to remember is that a lack of space doesn\u2019t mean that one should skimp on the essentials \u2014 or the luxury!</p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>For the <?php echo $row['country']; ?> millennial, the housing market isn\u2019t exactly the greatest. In fact, many refer to it as the \u201c<?php echo $row['country']; ?> housing crisis\u201d because for millennials, opportunities for affordable housing are few and far between. This is a generation that by and large is not making as much money as its predecessors. Lured to cities like\u2026</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 1574,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [6, 1],
+  "tags": [9, 22, 38, 55, 12, 17, 13, 14, 18, 31, 15, 119, 120],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>The Micro-Condo Could Be the Answer to <?php echo $row['country']; ?> Millennial Housing Crisis - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"The Micro-Condo Could Be the Answer to <?php echo $row['country']; ?> Millennial Housing Crisis - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"For the <?php echo $row['country']; ?> millennial, the housing market isn\u2019t exactly the greatest. In fact, many refer to it as the \u201c<?php echo $row['country']; ?> housing crisis\u201d because for millennials, opportunities for affordable housing are few and far between. This is a generation that by and large is not making as much money as its predecessors. Lured to cities like\u2026\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2017-07-12T13:18:18+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:49:38+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2017/07/mico-condo-boston-.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1024\" />\n\t<meta property=\"og:image:height\" content=\"682\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"mflood\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"mflood\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/#article\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/\"},\"author\":{\"name\":\"mflood\",\"@id\":\"<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46\"},\"headline\":\"The Micro-Condo Could Be the Answer to <?php echo $row['country']; ?> Millennial Housing Crisis\",\"datePublished\":\"2017-07-12T13:18:18+00:00\",\"dateModified\":\"2023-09-11T13:49:38+00:00\",\"mainEntityOfPage\":{\"@id\":\"<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/\"},\"wordCount\":570,\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"<?php echo $row['country']; ?> Building Guidelines\",\"<?php echo $row['country']; ?> Condo\",\"<?php echo $row['country']; ?> Homeowner\",\"Building Supplier\",\"Commercial Development\",\"Developer\",\"Downtown <?php echo $row['country']; ?>\",\"Downtown <?php echo $row['country']; ?> Residential Building\",\"Interior\",\"Lumber and Building Materials\",\"Micro Condo\",\"Millennial\"],\"articleSection\":[\"Building in <?php echo $row['country']; ?>\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/\",\"url\":\"<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/\",\"name\":\"The Micro-Condo Could Be the Answer to <?php echo $row['country']; ?> Millennial Housing Crisis - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2017-07-12T13:18:18+00:00\",\"dateModified\":\"2023-09-11T13:49:38+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>/#website\",\"url\":\"<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46\",\"name\":\"mflood\",\"url\":\"<?php echo $row['url']; ?>/author/mflood/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "The Micro-Condo Could Be the Answer to <?php echo $row['country']; ?> Millennial Housing Crisis - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "The Micro-Condo Could Be the Answer to <?php echo $row['country']; ?> Millennial Housing Crisis - <?php echo $row['name']; ?> ",
+    "og_description": "For the <?php echo $row['country']; ?> millennial, the housing market isn\u2019t exactly the greatest. In fact, many refer to it as the \u201c<?php echo $row['country']; ?> housing crisis\u201d because for millennials, opportunities for affordable housing are few and far between. This is a generation that by and large is not making as much money as its predecessors. Lured to cities like\u2026",
+    "og_url": "<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2017-07-12T13:18:18+00:00",
+    "article_modified_time": "2023-09-11T13:49:38+00:00",
+    "og_image": [
+      {
+        "width": 1024,
+        "height": 682,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2017/07/mico-condo-boston-.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "mflood",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "mflood",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/#article",
+          "isPartOf": {
+            "@id": "<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/"
+          },
+          "author": {
+            "name": "mflood",
+            "@id": "<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46"
+          },
+          "headline": "The Micro-Condo Could Be the Answer to <?php echo $row['country']; ?> Millennial Housing Crisis",
+          "datePublished": "2017-07-12T13:18:18+00:00",
+          "dateModified": "2023-09-11T13:49:38+00:00",
+          "mainEntityOfPage": {
+            "@id": "<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/"
+          },
+          "wordCount": 570,
+          "publisher": { "@id": "<?php echo $row['url']; ?>/#organization" },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "<?php echo $row['country']; ?> Building Guidelines",
+            "<?php echo $row['country']; ?> Condo",
+            "<?php echo $row['country']; ?> Homeowner",
+            "Building Supplier",
+            "Commercial Development",
+            "Developer",
+            "Downtown <?php echo $row['country']; ?>",
+            "Downtown <?php echo $row['country']; ?> Residential Building",
+            "Interior",
+            "Lumber and Building Materials",
+            "Micro Condo",
+            "Millennial"
+          ],
+          "articleSection": ["Building in <?php echo $row['country']; ?>"],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/",
+          "url": "<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/",
+          "name": "The Micro-Condo Could Be the Answer to <?php echo $row['country']; ?> Millennial Housing Crisis - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2017-07-12T13:18:18+00:00",
+          "dateModified": "2023-09-11T13:49:38+00:00",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>/micro-condo-answer-to-boston-millennial-housing-crisis/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>/#website",
+          "url": "<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": { "@id": "<?php echo $row['url']; ?>/#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>/#/schema/logo/image/" },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46",
+          "name": "mflood",
+          "url": "<?php echo $row['url']; ?>/author/mflood/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/posts/1573" }],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=1573"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/posts/1573/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/1574"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=1573" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=1573"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=1573"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

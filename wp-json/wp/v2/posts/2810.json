@@ -1,0 +1,233 @@
+{
+  "id": 2810,
+  "date": "2021-08-13T11:38:00",
+  "date_gmt": "2021-08-13T15:38:00",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2810" },
+  "modified": "2023-09-11T09:46:10",
+  "modified_gmt": "2023-09-11T13:46:10",
+  "slug": "type-x-type-c-drywall",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/type-x-type-c-drywall/",
+  "title": {
+    "rendered": "Type X &#038; Type C Drywall: What You Need to Know About Fire-Rated Drywall"
+  },
+  "content": {
+    "rendered": "<p><span data-mce-type=\"bookmark\" style=\"width: 0px;overflow: hidden;line-height: 0\" class=\"mce_SELRES_start\"><span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">\ufeff</span><span data-mce-type=\"bookmark\" style=\"width: 0px;overflow: hidden;line-height: 0\" class=\"mce_SELRES_start\">\ufeff</span>\ufeff</span> Whether you\u2019re doing a renovation or building something new, it\u2019s important to understand types of drywall, the drywall installation process, and the types of fire-rated products you can use.</p>\n<p>\nAlthough all types of drywall resist fire to some degree, Type C and Type X are specifically made to do so, making them a popular choice in the building materials industry due to their increased safety offers. However, this does not mean you can use the pair interchangeably\u2014there are differences, and whether you\u2019re a starting out in the drywall business or a DIYer, it\u2019s important to learn to distinguish between the two to use them correctly. </p>\n<h2>Type X</h2>\n<p>The first fire code product is called type X drywall, which is made from gypsum that has noncombustible glass fibers. The material used for this product increases its fire rating to a minimum of an hour and is usually installed in projects such as area separation firewalls, shaft walls, and stairwell walls. </p>\n<h2>Type C</h2>\n<p>Type C drywall is known as the more durable version of Type X\u2014there are more glass fibers in this product as well as more vermiculite components, giving it a fire resistance of 2-4 hours. You can find this product at your local drywall and insulation store in 1/2\u201d and 5/8\u201d thickness.</p>\n<h2>Difference Between Type X and Type C</h2>\n<p>Although Type X and Type C might only seem slightly different, it is still important to understand the differences between the two, especially when it comes to uses and applications and fire resistance. The primary differences include the following:</p>\n<ul>\n1. Type C comes in thinner boards and is easier to install;<br />\n2. Type X meets international standards;<br />\n3. Type C is more expensive;<br />\n4. Type X has longer structural life; and<br />\n5. Type C is better to use when installed horizontally, making it great for ceiling projects.\n</ul>\n<p>Type C and Type X drywall both have different strengths and deficiencies based on the project you are using them for. When building or renovating always ensure you\u2019re basing your purchase off of application and fire rating.</p>\n<h2>Why is Fire-Rated Drywall Important?</h2>\n<p>No matter where you\u2019re or what you\u2019re building, using quality fire-rated drywall is essential. Not only is it simply good practice, but it is also usually <a href=\"https://www.mass.gov/massachusetts-state-building-code-780-cmr\" target=\"_blank\" rel=\"noopener\">required by state codes and local building codes</a>. When dealing with residential buildings and homes, fire rated drywall is often found in the following areas:</p>\n<ul>\n\u2022 Utility rooms,<br />\n\u2022 Basements,<br />\n\u2022 Furnace rooms,<br />\n\u2022 Wood stove rooms, and<br />\n\u2022 Attached ceilings and walls near living areas.\n</ul>\n<p>For commercial buildings, fire rated drywall will usually be a requirement for most of the building\u2019s ceilings and walls for fire partitions and assemblies, a staple for safety. </p>\n<h2>Quality Fire Rated Drywall at <?php echo $row['name']; ?> </h2>\n<p>Now that you know what type of fire rated drywall you need for your project, it\u2019s time to start looking for options. At <?php echo $row['name']; ?> , we offer <a href=\"https://<?php echo $row['url']; ?>/builder/quality\"> Type X and Type C drywall</a> in a variety of thicknesses to ensure your building is safe and well-built.</p>\n<p>\nTo learn more about the types of drywall we offer, <a href=\"https://<?php echo $row['url']; ?>/contact-us/\">contact us today</a> or <a href=\"https://goo.gl/maps/x6wT35D1AFqYZEf4A\" target=\"_blank\" rel=\"noopener\">stop by our downtown <?php echo $row['country']; ?> showroom</a> to speak with an experienced drywall professional. Happy drywalling!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>\ufeff\ufeff\ufeff Whether you\u2019re doing a renovation or building something new, it\u2019s important to understand types of drywall, the drywall installation process, and the types of fire-rated products you can use. Although all types of drywall resist fire to some degree, Type C and Type X are specifically made to do so, making them a popular\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 2811,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [5, 6, 40, 7],
+  "tags": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Type X vs. Type C Drywall \u2192 Quality Fire Rated Drywall from NEBS</title>\n<meta name=\"description\" content=\"Whether you\u2019re doing a renovation or building something new, it\u2019s important to understand the difference between type x and type c drywall.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/type-x-type-c-drywall/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Type X vs. Type C Drywall \u2192 Quality Fire Rated Drywall from NEBS\" />\n<meta property=\"og:description\" content=\"Whether you\u2019re doing a renovation or building something new, it\u2019s important to understand the difference between type x and type c drywall.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/type-x-type-c-drywall/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2021-08-13T15:38:00+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:10+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2021/08/shutterstock_1326321488-scaled-1.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1707\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/type-x-type-c-drywall/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/type-x-type-c-drywall/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"Type X &#038; Type C Drywall: What You Need to Know About Fire-Rated Drywall\",\"datePublished\":\"2021-08-13T15:38:00+00:00\",\"dateModified\":\"2023-09-11T13:46:10+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/type-x-type-c-drywall/\"},\"wordCount\":546,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"articleSection\":[\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Contractor\",\"Developer\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/type-x-type-c-drywall/\",\"url\":\"https://<?php echo $row['url']; ?>/type-x-type-c-drywall/\",\"name\":\"Type X vs. Type C Drywall \u2192 Quality Fire Rated Drywall from NEBS\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2021-08-13T15:38:00+00:00\",\"dateModified\":\"2023-09-11T13:46:10+00:00\",\"description\":\"Whether you\u2019re doing a renovation or building something new, it\u2019s important to understand the difference between type x and type c drywall.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/type-x-type-c-drywall/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"https://<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Type X vs. Type C Drywall \u2192 Quality Fire Rated Drywall from NEBS",
+    "description": "Whether you\u2019re doing a renovation or building something new, it\u2019s important to understand the difference between type x and type c drywall.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/type-x-type-c-drywall/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Type X vs. Type C Drywall \u2192 Quality Fire Rated Drywall from NEBS",
+    "og_description": "Whether you\u2019re doing a renovation or building something new, it\u2019s important to understand the difference between type x and type c drywall.",
+    "og_url": "https://<?php echo $row['url']; ?>/type-x-type-c-drywall/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2021-08-13T15:38:00+00:00",
+    "article_modified_time": "2023-09-11T13:46:10+00:00",
+    "og_image": [
+      {
+        "width": 2560,
+        "height": 1707,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2021/08/shutterstock_1326321488-scaled-1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/type-x-type-c-drywall/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/type-x-type-c-drywall/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "Type X &#038; Type C Drywall: What You Need to Know About Fire-Rated Drywall",
+          "datePublished": "2021-08-13T15:38:00+00:00",
+          "dateModified": "2023-09-11T13:46:10+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/type-x-type-c-drywall/"
+          },
+          "wordCount": 546,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "articleSection": [
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Contractor",
+            "Developer"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/type-x-type-c-drywall/",
+          "url": "https://<?php echo $row['url']; ?>/type-x-type-c-drywall/",
+          "name": "Type X vs. Type C Drywall \u2192 Quality Fire Rated Drywall from NEBS",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2021-08-13T15:38:00+00:00",
+          "dateModified": "2023-09-11T13:46:10+00:00",
+          "description": "Whether you\u2019re doing a renovation or building something new, it\u2019s important to understand the difference between type x and type c drywall.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/type-x-type-c-drywall/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "https://<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2810" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2810"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2810/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2811"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2810"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2810"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2810"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

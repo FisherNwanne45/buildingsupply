@@ -1,0 +1,146 @@
+{
+  "id": 60,
+  "date": "2023-03-15T20:57:36",
+  "date_gmt": "2023-03-15T20:57:36",
+  "guid": {
+    "rendered": "https://nebldgsupply.wpengine.com/?post_type=bs_service&#038;p=60"
+  },
+  "modified": "2023-09-06T17:24:43",
+  "modified_gmt": "2023-09-06T21:24:43",
+  "slug": "delivery",
+  "status": "publish",
+  "type": "bs_service",
+  "link": "https://<?php echo $row['url']; ?>/service/delivery/",
+  "title": { "rendered": "Delivery" },
+  "content": {
+    "rendered": "\n<div class=\"wp-block-group alignfull pattern-intro-banner is-layout-constrained wp-block-group-is-layout-constrained\">\n<div class=\"wp-block-cover alignfull\" style=\"min-height:50vh\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-transparent-background-color has-background-dim-0 has-background-dim\"></span><img loading=\"lazy\" decoding=\"async\" width=\"2560\" height=\"752\" class=\"wp-block-cover__image-background wp-image-3844\" alt=\"\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Picture-2-1-1.jpg\" style=\"object-position:44% 50%\" data-object-fit=\"cover\" data-object-position=\"44% 50%\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Picture-2-1-1.jpg 2560w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Picture-2-1-1-768x226.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Picture-2-1-1-1024x301.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Picture-2-1-1-1536x451.jpg 1536w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Picture-2-1-1-2048x602.jpg 2048w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" /><div class=\"wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow\">\n<p class=\"has-text-align-center has-large-font-size\"></p>\n</div></div>\n\n\n\n<div class=\"wp-block-group alignwide intro-content is-vertical is-layout-flex wp-container-core-group-layout-1 wp-block-group-is-layout-flex\">\n<h1 class=\"wp-block-heading alignwide has-primary-color has-text-color has-h-2-font-size\">Delivery</h1>\n\n\n\n<p class=\"has-primary-color has-text-color has-h-3-font-size\"><strong>Our fleet consists of boom trucks, moffett trucks, box and flatbed trucks to allow building materials to get delivered efficiently and in a timely manner.</strong></p>\n</div>\n</div>\n\n\n\n<div class=\"wp-block-columns alignwide pattern-3-columns is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.34%\">\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" decoding=\"async\" width=\"900\" height=\"515\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/08/nebs-delivery-1.jpg\" alt=\"\" class=\"wp-image-3833\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/08/nebs-delivery-1.jpg 900w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/08/nebs-delivery-1-768x439.jpg 768w\" sizes=\"(max-width: 900px) 100vw, 900px\" /></figure>\n</div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.34%\">\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" decoding=\"async\" width=\"900\" height=\"515\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/08/nebs-delivery-2.jpg\" alt=\"\" class=\"wp-image-3834\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/08/nebs-delivery-2.jpg 900w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/08/nebs-delivery-2-768x439.jpg 768w\" sizes=\"(max-width: 900px) 100vw, 900px\" /></figure>\n</div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.33%\">\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" decoding=\"async\" width=\"900\" height=\"515\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/08/nebs-delivery-3.jpg\" alt=\"\" class=\"wp-image-3835\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/08/nebs-delivery-3.jpg 900w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/08/nebs-delivery-3-768x439.jpg 768w\" sizes=\"(max-width: 900px) 100vw, 900px\" /></figure>\n</div>\n</div>\n\n\n\n<figure class=\"wp-block-pullquote alignwide\"><blockquote><p>With a location in the heart of <?php echo $row['country']; ?>, our fleet and team can get your products to you quickly anywhere in the boston-metro area. <?php echo $row['name']; ?> has you covered with our smooth scheduling process, experienced fleet drivers, delivery notifications, and fast in-store pick-up.</p></blockquote></figure>\n\n\n\n<figure class=\"wp-block-image alignwide size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"441\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/delivery-1024x441.jpg\" alt=\"\" class=\"wp-image-3842\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/delivery-1024x441.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/delivery-768x331.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/delivery.jpg 1200w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<div class=\"wp-block-group alignwide pattern-section-intro is-layout-constrained wp-block-group-is-layout-constrained\">\n<h2 class=\"wp-block-heading has-text-align-center alignnarrow has-h-3-font-size\">Interested in a quote?</h2>\n\n\n\n<p class=\"has-text-align-center alignnarrow has-large-font-size\">Just let us know what you\u2019re looking for and we\u2019ll let you know how we can help.</p>\n</div>\n\n\n<div class=\"frm_forms  with_frm_style frm_style_formidable-style-2\" id=\"frm_form_2_container\" data-token=\"84996c1be150096231b1a78288bbff6f\">\n<form enctype=\"multipart/form-data\" method=\"post\" class=\"frm-show-form  frm_pro_form \" id=\"form_getaquote\"  data-token=\"84996c1be150096231b1a78288bbff6f\">\n<div class=\"frm_form_fields \">\n<fieldset>\n<legend class=\"frm_screen_reader\">Get a Quote</legend>\r\n\r\n<div class=\"frm_fields_container\">\n<input type=\"hidden\" name=\"frm_action\" value=\"create\" />\n<input type=\"hidden\" name=\"form_id\" value=\"2\" />\n<input type=\"hidden\" name=\"frm_hide_fields_2\" id=\"frm_hide_fields_2\" value=\"\" />\n<input type=\"hidden\" name=\"form_key\" value=\"getaquote\" />\n<input type=\"hidden\" name=\"item_meta[0]\" value=\"\" />\n<input type=\"hidden\" id=\"frm_submit_entry_2\" name=\"frm_submit_entry_2\" value=\"1b393115d0\" /><input type=\"hidden\" name=\"_wp_http_referer\" value=\"/wp-json/wp/v2/bs_service/60\" /><div id=\"frm_field_6_container\" class=\"frm_form_field form-field  frm_required_field frm_top_container frm_half\">\r\n    <label for=\"field_77dea\" id=\"field_77dea_label\" class=\"frm_primary_label\">First Name\r\n        <span class=\"frm_required\" aria-hidden=\"true\">*</span>\r\n    </label>\r\n    <input type=\"text\" id=\"field_77dea\" name=\"item_meta[6]\" value=\"\"  data-reqmsg=\"This field cannot be blank.\" aria-required=\"true\" data-invmsg=\"Text is invalid\" aria-invalid=\"false\"  />\r\n    \r\n    \r\n</div>\n<div id=\"frm_field_7_container\" class=\"frm_form_field form-field  frm_top_container frm_half\">\r\n    <label for=\"field_vk2u8\" id=\"field_vk2u8_label\" class=\"frm_primary_label\">Last Name\r\n        <span class=\"frm_required\" aria-hidden=\"true\"></span>\r\n    </label>\r\n    <input type=\"text\" id=\"field_vk2u8\" name=\"item_meta[7]\" value=\"\"  data-invmsg=\"Text is invalid\" aria-invalid=\"false\"  />\r\n    \r\n    \r\n</div>\n<div id=\"frm_field_8_container\" class=\"frm_form_field form-field  frm_required_field frm_top_container frm_half\">\r\n    <label for=\"field_te5f8\" id=\"field_te5f8_label\" class=\"frm_primary_label\">Email\r\n        <span class=\"frm_required\" aria-hidden=\"true\">*</span>\r\n    </label>\r\n    <input type=\"email\" id=\"field_te5f8\" name=\"item_meta[8]\" value=\"\"  data-reqmsg=\"This field cannot be blank.\" aria-required=\"true\" data-invmsg=\"Email is invalid\" aria-invalid=\"false\"  />\r\n    \r\n    \r\n</div>\n<div id=\"frm_field_9_container\" class=\"frm_form_field form-field  frm_top_container frm_half\">\r\n    <label for=\"field_g28st\" id=\"field_g28st_label\" class=\"frm_primary_label\">Phone Number\r\n        <span class=\"frm_required\" aria-hidden=\"true\"></span>\r\n    </label>\r\n    <input type=\"tel\" id=\"field_g28st\" name=\"item_meta[9]\" value=\"\"  data-frmmask=\"(999)-999-9999\" data-invmsg=\"Phone is invalid\" aria-invalid=\"false\" pattern=\"\\(\\d\\d\\d\\)-\\d\\d\\d-\\d\\d\\d\\d$\"  />\r\n    \r\n    \r\n</div>\n<div id=\"frm_field_28_container\" class=\"frm_form_field form-field  frm_required_field frm_top_container frm6 frm_first\">\r\n    <label for=\"field_6l4ev\" id=\"field_6l4ev_label\" class=\"frm_primary_label\">Customer Type\r\n        <span class=\"frm_required\" aria-hidden=\"true\">*</span>\r\n    </label>\r\n    \t\t<select name=\"item_meta[28]\" id=\"field_6l4ev\"  data-reqmsg=\"This field cannot be blank.\" aria-required=\"true\" data-invmsg=\"Customer Type is invalid\" aria-invalid=\"false\"  >\n\t\t<option  value=\"\" selected='selected'> </option><option  value=\"Builder &amp; Developer\">Builder &amp; Developer</option><option  value=\"Architect\">Architect</option><option  value=\"Homeowner\">Homeowner</option>\t</select>\n\t\r\n    \r\n    \r\n</div>\n<div id=\"frm_field_10_container\" class=\"frm_form_field form-field  frm_required_field frm_top_container frm6\">\r\n    <label for=\"field_p41ym\" id=\"field_p41ym_label\" class=\"frm_primary_label\">Project Type\r\n        <span class=\"frm_required\" aria-hidden=\"true\">*</span>\r\n    </label>\r\n    \t\t<select name=\"item_meta[10]\" id=\"field_p41ym\"  data-reqmsg=\"This field cannot be blank.\" aria-required=\"true\" data-invmsg=\"Project Type is invalid\" aria-invalid=\"false\"  >\n\t\t<option  value=\"\" selected='selected'>Choose a Project Type</option><option  value=\"Single Family\">Single Family</option><option  value=\"Multi-Family\">Multi-Family</option><option  value=\"Renovation\">Renovation</option>\t</select>\n\t\r\n    \r\n    \r\n</div>\n<div id=\"frm_field_29_container\" class=\"frm_form_field form-field  frm_required_field frm_top_container frm6 frm_first\">\r\n    <label for=\"field_cwrwk\" id=\"field_cwrwk_label\" class=\"frm_primary_label\">Service Type\r\n        <span class=\"frm_required\" aria-hidden=\"true\">*</span>\r\n    </label>\r\n    \t\t<select name=\"item_meta[29]\" id=\"field_cwrwk\"  data-reqmsg=\"This field cannot be blank.\" aria-required=\"true\" data-invmsg=\"Service Type is invalid\" aria-invalid=\"false\"  >\n\t\t<option  value=\"\" selected='selected'>Choose a Service Type</option><option  value=\"Estimating\">Estimating</option><option  value=\"Kitchen Design\">Kitchen Design</option><option  value=\"Windows\">Windows</option>\t</select>\n\t\r\n    \r\n    \r\n</div>\n<div id=\"frm_field_27_container\" class=\"frm_form_field form-field  frm_required_field frm_top_container frm6\">\r\n    <label for=\"field_kir9\" id=\"field_kir9_label\" class=\"frm_primary_label\">Project Zip Code\r\n        <span class=\"frm_required\" aria-hidden=\"true\">*</span>\r\n    </label>\r\n    <input type=\"text\" id=\"field_kir9\" name=\"item_meta[27]\" value=\"\"  data-reqmsg=\"This field cannot be blank.\" aria-required=\"true\" data-invmsg=\"Text is invalid\" aria-invalid=\"false\"  />\r\n    \r\n    \r\n</div>\n<div id=\"frm_field_12_container\" class=\"frm_form_field form-field  frm_required_field frm_top_container\">\r\n    <label for=\"field_xf3de\" id=\"field_xf3de_label\" class=\"frm_primary_label\">Project Details\r\n        <span class=\"frm_required\" aria-hidden=\"true\">*</span>\r\n    </label>\r\n    <textarea name=\"item_meta[12]\" id=\"field_xf3de\" rows=\"5\"  data-reqmsg=\"This field cannot be blank.\" aria-required=\"true\" data-invmsg=\"Text is invalid\" aria-invalid=\"false\"  ></textarea>\r\n    \r\n    \r\n</div>\n\t<input type=\"hidden\" name=\"item_key\" value=\"\" />\n\t\t\t\t<div class=\"frm__65b7b6a65c2d4\">\n\t\t\t\t<label for=\"frm_email_2\" >\n\t\t\t\t\tIf you are human, leave this field blank.\t\t\t\t</label>\n\t\t\t\t<input  id=\"frm_email_2\" type=\"text\" class=\"frm_verify\" name=\"frm__65b7b6a65c2d4\" value=\"\" autocomplete=\"false\"  />\n\t\t\t</div>\n\t\t<input name=\"frm_state\" type=\"hidden\" value=\"ilWEYtX6L+XWyzW+eKC0gHi3wd3gCqt10YAcUhuA950=\" /><div class=\"frm_submit\">\r\n\r\n<button class=\"frm_button_submit frm_final_submit\" type=\"submit\"   formnovalidate=\"formnovalidate\">Submit</button>\r\n\r\n\r\n</div></div>\n</fieldset>\n</div>\n</form>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Delivery Our fleet consists of boom trucks, moffett trucks, box and flatbed trucks to allow building materials to get delivered efficiently and in a timely manner. With a location in the heart of <?php echo $row['country']; ?>, our fleet and team can get your products to you quickly anywhere in the boston-metro area. <?php echo $row['name']; ?> has you covered with\u2026</p>\n",
+    "protected": false
+  },
+  "featured_media": 0,
+  "menu_order": 0,
+  "template": "",
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Delivery - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/service/delivery/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Delivery - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Delivery Our fleet consists of boom trucks, moffett trucks, box and flatbed trucks to allow building materials to get delivered efficiently and in a timely manner. With a location in the heart of <?php echo $row['country']; ?>, our fleet and team can get your products to you quickly anywhere in the boston-metro area. <?php echo $row['name']; ?> has you covered with\u2026\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/service/delivery/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2023-09-06T21:24:43+00:00\" />\n<meta property=\"og:image\" content=\"https://nebldgsupply.wpengine.com/wp-content/uploads/2023/03/Picture-2-1-1.jpg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/service/delivery/\",\"url\":\"https://<?php echo $row['url']; ?>/service/delivery/\",\"name\":\"Delivery - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2023-03-15T20:57:36+00:00\",\"dateModified\":\"2023-09-06T21:24:43+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/service/delivery/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Delivery - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/service/delivery/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Delivery - <?php echo $row['name']; ?> ",
+    "og_description": "Delivery Our fleet consists of boom trucks, moffett trucks, box and flatbed trucks to allow building materials to get delivered efficiently and in a timely manner. With a location in the heart of <?php echo $row['country']; ?>, our fleet and team can get your products to you quickly anywhere in the boston-metro area. <?php echo $row['name']; ?> has you covered with\u2026",
+    "og_url": "https://<?php echo $row['url']; ?>/service/delivery/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_modified_time": "2023-09-06T21:24:43+00:00",
+    "og_image": [
+      {
+        "url": "https://nebldgsupply.wpengine.com/wp-content/uploads/2023/03/Picture-2-1-1.jpg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/service/delivery/",
+          "url": "https://<?php echo $row['url']; ?>/service/delivery/",
+          "name": "Delivery - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2023-03-15T20:57:36+00:00",
+          "dateModified": "2023-09-06T21:24:43+00:00",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["https://<?php echo $row['url']; ?>/service/delivery/"]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/bs_service/60"
+      }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/bs_service" }
+    ],
+    "about": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/bs_service"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=60"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

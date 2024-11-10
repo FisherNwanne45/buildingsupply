@@ -1,0 +1,234 @@
+{
+  "id": 2874,
+  "date": "2022-02-21T12:26:02",
+  "date_gmt": "2022-02-21T17:26:02",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2874" },
+  "modified": "2023-09-11T09:46:07",
+  "modified_gmt": "2023-09-11T13:46:07",
+  "slug": "lumber-prices-canadian-tariff",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/",
+  "title": {
+    "rendered": "Lumber Prices on the Rise: How the Canadian Softwood Tariff Affects <?php echo $row['country']; ?> Builders"
+  },
+  "content": {
+    "rendered": "<figure class=\"alignwide wp-block-post-featured-image\"><img loading=\"lazy\" decoding=\"async\" width=\"2560\" height=\"1707\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2022/02/shutterstock_1470717023-scaled-1.jpg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"lumber prices\" style=\"object-fit:cover;\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2022/02/shutterstock_1470717023-scaled-1.jpg 2560w, https://<?php echo $row['url']; ?>/wp-content/uploads/2022/02/shutterstock_1470717023-scaled-1-768x512.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2022/02/shutterstock_1470717023-scaled-1-1024x683.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2022/02/shutterstock_1470717023-scaled-1-1536x1024.jpg 1536w, https://<?php echo $row['url']; ?>/wp-content/uploads/2022/02/shutterstock_1470717023-scaled-1-2048x1366.jpg 2048w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" /></figure>\n\n\n<p>Since COVID-19 hit two years ago, lumber prices have skyrocketed to heights that America has never seen before. Besides the pandemic, wildfires, and other factors, the building materials and housing industry is now dealing with an added tariff on Canadian softwood imports.</p>\n\n\n\n<p>After a few months of regularity, high lumber prices are now back. Americans are wondering: is there an end in sight?</p>\n\n\n\n<h2 class=\"wp-block-heading has-h-3-font-size\">Understanding the New Lumber Tariff</h2>\n\n\n\n<p>In November, the U.S. Department of Commerce announced its intent to impose a 17.9% tariff on Canadian softwood lumber\u2014a tariff <a href=\"https://<?php echo $row['url']; ?>/canadian-lumber-tariffs-for-boston-building-industry/\">twice as high as the previous tariff</a>. Recently, industry organizations like the NLMBDA (National Lumber &amp; Building Materials Dealers Association) lobbied to decrease the tariff and were successful. As of early this month, the tariff is now 11.64%.</p>\n\n\n\n<p>Although the lower tariff is good news, American lumber companies and builders are still struggling with increased costs, impacting new home builds and developments across the nation. According to the U.S. Bureau of Labor Statistics, lumber and wood products have climbed <a href=\"https://fred.stlouisfed.org/series/WPS081\" target=\"_blank\" rel=\"noreferrer noopener\">30% since last September</a>.</p>\n\n\n\n<p>The new tariff encourages American consumers to buy American lumber, but can the sawmills keep up?</p>\n\n\n\n<h2 class=\"wp-block-heading has-h-3-font-size\">Impact on <?php echo $row['country']; ?> Renters &amp; Buyers</h2>\n\n\n\n<p>As a fast-growing city, <?php echo $row['country']; ?> relies on the local lumberyards, contractors, and builders to bring economic growth to the area. Because of its proximity, the U.S. imports roughly 70% of all its lumber for the year from Canada, causing prices to rise quickly due to any increased tariff.</p>\n\n\n\n<p>Who suffers from high lumber prices? Builders, lumberyards, buyers, and renters.</p>\n\n\n\n<ul>\n<li><strong>Lumberyards and companies</strong>. American lumber companies will now pay an extra $99 in tariffs for every thousand feet of Canadian softwood lumber.</li>\n</ul>\n\n\n\n<ul>\n<li><strong>Buyers and builders</strong>. As material prices increase and supply decreases, supply and demand sets in. The average new build is now priced $18,600 compared to recent years due to lumber prices.</li>\n</ul>\n\n\n\n<ul>\n<li><strong>Renters</strong>. The housing industry impacts everyone\u2014for renters, housing affordability is climbing and so are poverty levels.</li>\n</ul>\n\n\n\n<p>There\u2019s a push for buying American-made, but that push has a severe impact on the American penny and the American family. As lumber companies hike up their prices, American consumers pay the price.</p>\n\n\n\n<h2 class=\"wp-block-heading has-h-3-font-size\">The Comeback of Lower Lumber Prices</h2>\n\n\n\n<p>Lower lumber prices are in sight, but not anytime soon. Due to the rise of summer construction and building projects, lumber usually sees a sharp incline in the spring with a decline in the fall. This year, expect lumber prices to level off as winter approaches, but plan to not see savings or a decline until fall of 2023.</p>\n\n\n\n<h2 class=\"wp-block-heading has-h-3-font-size\">Build <?php echo $row['country']; ?> with Trusted Lumber Experts from NEBS</h2>\n\n\n\n<p>In the midst of a frenzied economy and a strained industry, demand is high and product is tight\u2014you need a trusted local partner to ensure you get your materials at a fair price with timely delivery.</p>\n\n\n\n<p>At <?php echo $row['name']; ?> , we pride ourselves on supplying you with quality lumber, loyal partnerships, and up-to-date industry experts to bring value to all your <?php echo $row['country']; ?> building projects. <a href=\"https://<?php echo $row['url']; ?>/contact-us/\">Give us a call today</a> or <a href=\"https://goo.gl/maps/x8siBpFrxPWzwXjB6\" target=\"_blank\" rel=\"noreferrer noopener\">stop by our downtown <?php echo $row['country']; ?> showroom</a> to speak with a team member and start your project with NEBS.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Since COVID-19 hit two years ago, lumber prices have skyrocketed to heights that America has never seen before. Besides the pandemic, wildfires, and other factors, the building materials and housing industry is now dealing with an added tariff on Canadian softwood imports. After a few months of regularity, high lumber prices are now back. Americans\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 2875,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [5, 6, 40, 7, 28],
+  "tags": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Lumber Prices on the Rise: The Affect on <?php echo $row['country']; ?> Builders \u2192 NEBS</title>\n<meta name=\"description\" content=\"After a few months of regularity, high lumber prices are now back. Americans are wondering: is there an end in sight?\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Lumber Prices on the Rise: The Affect on <?php echo $row['country']; ?> Builders \u2192 NEBS\" />\n<meta property=\"og:description\" content=\"After a few months of regularity, high lumber prices are now back. Americans are wondering: is there an end in sight?\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2022-02-21T17:26:02+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:07+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2022/02/shutterstock_1470717023-scaled-1.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1707\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"Lumber Prices on the Rise: How the Canadian Softwood Tariff Affects <?php echo $row['country']; ?> Builders\",\"datePublished\":\"2022-02-21T17:26:02+00:00\",\"dateModified\":\"2023-09-11T13:46:07+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/\"},\"wordCount\":529,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"articleSection\":[\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Contractor\",\"Developer\",\"Homeowner\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/\",\"url\":\"https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/\",\"name\":\"Lumber Prices on the Rise: The Affect on <?php echo $row['country']; ?> Builders \u2192 NEBS\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2022-02-21T17:26:02+00:00\",\"dateModified\":\"2023-09-11T13:46:07+00:00\",\"description\":\"After a few months of regularity, high lumber prices are now back. Americans are wondering: is there an end in sight?\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"https://<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Lumber Prices on the Rise: The Affect on <?php echo $row['country']; ?> Builders \u2192 NEBS",
+    "description": "After a few months of regularity, high lumber prices are now back. Americans are wondering: is there an end in sight?",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Lumber Prices on the Rise: The Affect on <?php echo $row['country']; ?> Builders \u2192 NEBS",
+    "og_description": "After a few months of regularity, high lumber prices are now back. Americans are wondering: is there an end in sight?",
+    "og_url": "https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2022-02-21T17:26:02+00:00",
+    "article_modified_time": "2023-09-11T13:46:07+00:00",
+    "og_image": [
+      {
+        "width": 2560,
+        "height": 1707,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2022/02/shutterstock_1470717023-scaled-1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "Lumber Prices on the Rise: How the Canadian Softwood Tariff Affects <?php echo $row['country']; ?> Builders",
+          "datePublished": "2022-02-21T17:26:02+00:00",
+          "dateModified": "2023-09-11T13:46:07+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/"
+          },
+          "wordCount": 529,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "articleSection": [
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Contractor",
+            "Developer",
+            "Homeowner"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/",
+          "url": "https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/",
+          "name": "Lumber Prices on the Rise: The Affect on <?php echo $row['country']; ?> Builders \u2192 NEBS",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2022-02-21T17:26:02+00:00",
+          "dateModified": "2023-09-11T13:46:07+00:00",
+          "description": "After a few months of regularity, high lumber prices are now back. Americans are wondering: is there an end in sight?",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/lumber-prices-canadian-tariff/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "https://<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2874" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2874"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2874/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2875"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2874"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2874"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2874"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

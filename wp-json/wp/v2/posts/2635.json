@@ -1,0 +1,244 @@
+{
+  "id": 2635,
+  "date": "2019-12-11T09:25:07",
+  "date_gmt": "2019-12-11T14:25:07",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2635" },
+  "modified": "2023-09-11T09:46:49",
+  "modified_gmt": "2023-09-11T13:46:49",
+  "slug": "the-construction-pros-guide-to-fasteners",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/",
+  "title": { "rendered": "The Construction Pro\u2019s Guide to Fasteners" },
+  "content": {
+    "rendered": "<p>Can there be a more essential building component than construction fasteners? Screws, nails, nuts and bolts\u2014they\u2019re what holds everything together. But there are so many different types that sometimes, choosing the right ones for different parts of a project gets a little bit confusing. Particularly since large scale projects are going to require thousands of fasteners in all different types. Let\u2019s get started with the considerations you\u2019ll need to factor when you choose fasteners, and then we\u2019ll show you some of the types available.</p>\n<h3><strong>Considerations to Make When Choosing Fasteners</strong></h3>\n<p>Every building project requires a variety of fasteners. The choices you make will be determined on lots of different factors. As you\u2019re creating lists of supplies to order, make sure to think about the following as you order fasteners:</p>\n<ul>\n<li><strong>Building Materials:</strong> Are you working with wood, concrete, drywall, metal, or another material? They\u2019ll all require a different kind of fastener.</li>\n<li><strong>Material Weights:</strong> Heavier materials will require heavier duty fasteners!</li>\n<li><strong>Environment:</strong> Make sure to choose fasteners based on the indoor and outdoor environment they\u2019ll be exposed to.</li>\n<li><strong>Finish:</strong> Will the fasteners need to be exposed? Decorative finishes may be needed, or you may need easily concealed fasteners.</li>\n<li><strong>Accessibility:</strong> How hard will it be to place the fasteners? For instance, screws may be a better choice where workers won\u2019t have space to hammer nails.</li>\n</ul>\n<h3><strong>Fastener Types</strong></h3>\n<p>The next choice to make is which fastener types you\u2019ll need. Here\u2019s a quick overview of the fasteners available at our <a href=\"https://<?php echo $row['url']; ?>/located-in-the-heart-of-the-boston-building-boom/\">downtown <?php echo $row['country']; ?></a> construction store to help you choose!</p>\n<ul>\n<li><strong>Nails:</strong> These are typically the least expensive fasteners, and they\u2019re the simplest, too. Best used for wood, nails don\u2019t have the holding power that screws or bolts have, but depending on how you intend to use them, they have advantages of their own. Those installed with nail guns are easy to use, for instance, and finishing nails are easily concealed when hanging trim.</li>\n<li><strong>Screws:</strong> These are the fasteners you\u2019ll most often use for wood, metal and drywall\u2014or masonry screws for screws embedded into concrete. They\u2019re not as easy to install as nails, and typically cost a little more, but the threaded shanks have a lot more holding power.</li>\n<li><strong>Bolts:</strong> Bolts aren\u2019t used as commonly as nails and screws, but they do have their uses. Use them in anything that has pre-drilled holes, like metal and wood components where screws or nails won\u2019t hold. And then, of course, you\u2019ll need nuts and washers to match so that the bolts can be properly tightened.</li>\n<li><strong>Studs:</strong> These operate similar to bolts, but without the bolt head. Instead, you\u2019ll fasten a nut to either end of the threaded rod.</li>\n</ul>\n<h3><strong>Fastener Materials and Finishes</strong></h3>\n<p>Nails, screws, nuts and bolts all come in different materials and different coatings. Screws and bolts, for instance, are commonly found in stainless steel, aluminum or brass. Stainless is corrosion and oxidation resistant, but doesn\u2019t have the strength of other materials, for instance. For each material type you intend to use, make sure to choose fasteners in the correct material.</p>\n<p>Coatings, too, are important. For instance, some fasteners have an electro-galvanized coating, which means that a thin layer of zinc has been bonded to the fastener\u2019s surface. This helps it resist corrosion and oxidization. On the other end of the spectrum, there are epoxy and ceramic coatings that seriously increase the fastener\u2019s resistance to oxidization\u2014but these can be more expensive.</p>\n<p>Choose coatings and materials both based on environmental conditions. Oxidization resistant for humid areas, for instance, and less expensive fasteners for interiors that will stay dry.</p>\n<p>Need fasteners for your construction projects? At NEBS, we have thousands of types available\u2014everything you\u2019ll need no matter the project. Check out the video below to preview our selection!</p>\n<p>[yotuwp type=&#8221;videos&#8221; id=&#8221;RKLqrOgStgs&#8221; ]</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Can there be a more essential building component than construction fasteners? Screws, nails, nuts and bolts\u2014they\u2019re what holds everything together. But there are so many different types that sometimes, choosing the right ones for different parts of a project gets a little bit confusing. Particularly since large scale projects are going to require thousands of\u2026</p>\n",
+    "protected": false
+  },
+  "author": 7,
+  "featured_media": 2636,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [5, 19, 40, 8],
+  "tags": [264, 9, 118, 12, 260, 261, 15, 263, 16, 262, 265],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>The Construction Pro\u2019s Guide to Fasteners - <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"Every construction projects requires a variety of fasteners. The fastener choice you make will be determined by building material and material weight.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"The Construction Pro\u2019s Guide to Fasteners - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Every construction projects requires a variety of fasteners. The fastener choice you make will be determined by building material and material weight.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2019-12-11T14:25:07+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:49+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2019/12/Construction-Fasteners.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1024\" />\n\t<meta property=\"og:image:height\" content=\"683\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"Justin\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Justin\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/\"},\"author\":{\"name\":\"Justin\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/6e63ef9f98cf37362099fa270f43c591\"},\"headline\":\"The Construction Pro\u2019s Guide to Fasteners\",\"datePublished\":\"2019-12-11T14:25:07+00:00\",\"dateModified\":\"2023-09-11T13:46:49+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/\"},\"wordCount\":655,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"bolts\",\"<?php echo $row['country']; ?>\",\"<?php echo $row['country']; ?> Builder\",\"Building Supplier\",\"construction fasteners\",\"fasteners\",\"Lumber and Building Materials\",\"nuts\",\"Remodeler\",\"screws\",\"studs\"],\"articleSection\":[\"Builder\",\"Construction Crew\",\"Contractor\",\"Remodeler\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/\",\"url\":\"https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/\",\"name\":\"The Construction Pro\u2019s Guide to Fasteners - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2019-12-11T14:25:07+00:00\",\"dateModified\":\"2023-09-11T13:46:49+00:00\",\"description\":\"Every construction projects requires a variety of fasteners. The fastener choice you make will be determined by building material and material weight.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/6e63ef9f98cf37362099fa270f43c591\",\"name\":\"Justin\",\"url\":\"https://<?php echo $row['url']; ?>/author/justin/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "The Construction Pro\u2019s Guide to Fasteners - <?php echo $row['name']; ?> ",
+    "description": "Every construction projects requires a variety of fasteners. The fastener choice you make will be determined by building material and material weight.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "The Construction Pro\u2019s Guide to Fasteners - <?php echo $row['name']; ?> ",
+    "og_description": "Every construction projects requires a variety of fasteners. The fastener choice you make will be determined by building material and material weight.",
+    "og_url": "https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2019-12-11T14:25:07+00:00",
+    "article_modified_time": "2023-09-11T13:46:49+00:00",
+    "og_image": [
+      {
+        "width": 1024,
+        "height": 683,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2019/12/Construction-Fasteners.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "Justin",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "Justin",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/"
+          },
+          "author": {
+            "name": "Justin",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/6e63ef9f98cf37362099fa270f43c591"
+          },
+          "headline": "The Construction Pro\u2019s Guide to Fasteners",
+          "datePublished": "2019-12-11T14:25:07+00:00",
+          "dateModified": "2023-09-11T13:46:49+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/"
+          },
+          "wordCount": 655,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": [
+            "bolts",
+            "<?php echo $row['country']; ?>",
+            "<?php echo $row['country']; ?> Builder",
+            "Building Supplier",
+            "construction fasteners",
+            "fasteners",
+            "Lumber and Building Materials",
+            "nuts",
+            "Remodeler",
+            "screws",
+            "studs"
+          ],
+          "articleSection": [
+            "Builder",
+            "Construction Crew",
+            "Contractor",
+            "Remodeler"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/",
+          "url": "https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/",
+          "name": "The Construction Pro\u2019s Guide to Fasteners - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2019-12-11T14:25:07+00:00",
+          "dateModified": "2023-09-11T13:46:49+00:00",
+          "description": "Every construction projects requires a variety of fasteners. The fastener choice you make will be determined by building material and material weight.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/the-construction-pros-guide-to-fasteners/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/6e63ef9f98cf37362099fa270f43c591",
+          "name": "Justin",
+          "url": "https://<?php echo $row['url']; ?>/author/justin/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2635" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/7"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2635"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2635/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2636"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2635"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2635"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2635"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

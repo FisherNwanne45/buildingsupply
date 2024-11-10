@@ -1,0 +1,239 @@
+{
+  "id": 819,
+  "date": "2016-06-01T23:37:25",
+  "date_gmt": "2016-06-01T23:37:25",
+  "guid": { "rendered": "http://<?php echo $row['url']; ?>/?p=819" },
+  "modified": "2023-09-11T09:51:23",
+  "modified_gmt": "2023-09-11T13:51:23",
+  "slug": "beantown-has-become-boom-town-for-developers",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/",
+  "title": { "rendered": "Beantown Has Become Boom Town for Developers" },
+  "content": {
+    "rendered": "<p>Beantown has become Boom Town. <?php echo $row['country']; ?> is in the news lately as much for the sheer volume of development as for the exciting discovery of a <a href=\"http://www.theguardian.com/us-news/2016/may/26/boston-19th-century-ship-found-archaeologists\" target=\"_blank\" rel=\"noopener noreferrer\">19th Century shipwreck</a> at a commercial construction site in the Seaport district. Of course, the archeological work will delay that building project a bit, but that&#8217;s another story!</p>\n<p>The big news is that downtown <?php echo $row['country']; ?> has become the <a href=\"http://<?php echo $row['country']; ?>.curbed.com/2015/11/10/9903236/boston-building-boom\" target=\"_blank\" rel=\"noopener noreferrer\">new place to be</a>, and both commercial and residential development have begun in the city&#8217;s core neighborhoods at a pace not seen for at least a decade. Much of the new development is multi-phase and <a href=\"https://<?php echo $row['url']; ?>/3-challenges-facing-boston-mixed-use-development-projects/\">mixed use,</a> with combined retail, residential, office, commercial and entertainment space designed to build a sort of instant &#8220;community.&#8221; While much of the new development is concentrated around the Seaport and Back Bay, the faces of Downtown, Fenway and Southie are also changing. New apartment and condominium construction is pricey, but there are hopes that the current trends will also result in more moderately-priced residential development in other city neighborhoods.</p>\n<h2>A Developing Trend</h2>\n<p>Recently, <a href=\"http://<?php echo $row['country']; ?>.curbed.com/2016/2/26/11119284/major-boston-developments-2016\" target=\"_blank\" rel=\"noopener noreferrer\">new projects have been approved</a> in areas as diverse as West Roxbury, Brighton, Dorchester and along Beacon Street near Brookline. The projected number of planned new units grows almost daily. That&#8217;s all great news for a city that is seeing increasing population growth as well as an expansion of its business base. More building permits were issued during 2015 than had been written in any year since 2006. And the trend shows no signs of slowing. Although the fast pace of development may worry officials in some ways, particularly in terms of traffic, current zoning and demand fuel <?php echo $row['country']; ?>&#8217;s growth at fever pitch.</p>\n<p>For anyone involved in the building trades, that growth is welcome and exciting. What is the best way to take advantage of the current market?</p>\n<p>A new generation of young professionals is the target market for much of the new growth. They want to be close to the centers of business and influence, and enjoy the advantages of a vibrant lifestyle in a world-class city. They are also discerning and apt to want the best products, the best design and the best amenities that money can buy. Homing in on <a href=\"https://<?php echo $row['url']; ?>/attract-young-professionals-to-your-condo-development/\">Millennial and Generation X preferences</a> is one way to stay ahead of the curve.</p>\n<h2>Catering to Diverse Needs</h2>\n<p><?php echo $row['name']; ?>  is perfectly situated to supply the <a href=\"/builder/\" target=\"_blank\" rel=\"noopener noreferrer\">building materials</a> and turn-key services to make much of this inner-city <a href=\"/developer/\" target=\"_blank\" rel=\"noopener noreferrer\">development</a> a reality over the coming years. Our philosophy and expertise mesh easily with the needs of professional developers, architects, designers, engineers and specifiers, and general contractors. Our Roxbury location near Downtown is a great advantage, and we have a showroom that will appeal to clients who want to see and touch the latest products.</p>\n<p>Begun in 2009 with the goal of offering a distinctive product line and impressive service to the central <?php echo $row['country']; ?> community, <?php echo $row['name']; ?> has become a leading supplier of lumber and building materials, including millwork, trim and siding, windows and doors, insulation and gypsum, roofing and flooring, cabinets and hardware. We also have professional kitchen and bath designers on staff, as well as trained estimators to serve the needs of architects, remodelers and professional builders large and small.</p>\n<p>Our dedication and service are without equal, and we recently partnered with the Kodiak organization to lend even greater support to our vision of excellence across all facets of building material supply and distribution.</p>\n<p>With both inside and outside sales teams and a fleet of five 90 ft. boom trucks, knowledgeable staff and loading personnel, and a dedicated team from office support to yard loaders, we are positioned well to meet the demands of the current <?php echo $row['country']; ?> building boom.</p>\n<p>For a better view of the current scene, <?php echo $row['name']; ?> encourages you to visit us in Roxbury. Let&#8217;s build <?php echo $row['country']; ?>&#8217;s future together.</p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Beantown has become Boom Town. <?php echo $row['country']; ?> is in the news lately as much for the sheer volume of development as for the exciting discovery of a 19th Century shipwreck at a commercial construction site in the Seaport district. Of course, the archeological work will delay that building project a bit, but that&#8217;s another story! The\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 1063,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [5, 6, 7, 8],
+  "tags": [9, 10, 11, 12, 13, 14, 15, 16],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Beantown Has Become Boom Town for Developers - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Beantown Has Become Boom Town for Developers - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Beantown has become Boom Town. <?php echo $row['country']; ?> is in the news lately as much for the sheer volume of development as for the exciting discovery of a 19th Century shipwreck at a commercial construction site in the Seaport district. Of course, the archeological work will delay that building project a bit, but that&#8217;s another story! The\u2026\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2016-06-01T23:37:25+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:51:23+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2016/06/boom-town-for-developers-1.jpg\" />\n\t<meta property=\"og:image:width\" content=\"560\" />\n\t<meta property=\"og:image:height\" content=\"315\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"Beantown Has Become Boom Town for Developers\",\"datePublished\":\"2016-06-01T23:37:25+00:00\",\"dateModified\":\"2023-09-11T13:51:23+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/\"},\"wordCount\":646,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"Builder\",\"Building\",\"Building Supplier\",\"Developer\",\"Downtown <?php echo $row['country']; ?>\",\"Lumber and Building Materials\",\"Remodeler\"],\"articleSection\":[\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Developer\",\"Remodeler\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/\",\"url\":\"https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/\",\"name\":\"Beantown Has Become Boom Town for Developers - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2016-06-01T23:37:25+00:00\",\"dateModified\":\"2023-09-11T13:51:23+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"https://<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Beantown Has Become Boom Town for Developers - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Beantown Has Become Boom Town for Developers - <?php echo $row['name']; ?> ",
+    "og_description": "Beantown has become Boom Town. <?php echo $row['country']; ?> is in the news lately as much for the sheer volume of development as for the exciting discovery of a 19th Century shipwreck at a commercial construction site in the Seaport district. Of course, the archeological work will delay that building project a bit, but that&#8217;s another story! The\u2026",
+    "og_url": "https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2016-06-01T23:37:25+00:00",
+    "article_modified_time": "2023-09-11T13:51:23+00:00",
+    "og_image": [
+      {
+        "width": 560,
+        "height": 315,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2016/06/boom-town-for-developers-1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "Beantown Has Become Boom Town for Developers",
+          "datePublished": "2016-06-01T23:37:25+00:00",
+          "dateModified": "2023-09-11T13:51:23+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/"
+          },
+          "wordCount": 646,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "Builder",
+            "Building",
+            "Building Supplier",
+            "Developer",
+            "Downtown <?php echo $row['country']; ?>",
+            "Lumber and Building Materials",
+            "Remodeler"
+          ],
+          "articleSection": [
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Developer",
+            "Remodeler"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/",
+          "url": "https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/",
+          "name": "Beantown Has Become Boom Town for Developers - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2016-06-01T23:37:25+00:00",
+          "dateModified": "2023-09-11T13:51:23+00:00",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/beantown-has-become-boom-town-for-developers/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "https://<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/819" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=819"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/819/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/1063"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=819"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=819"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=819"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

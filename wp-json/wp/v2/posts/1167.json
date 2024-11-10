@@ -1,0 +1,249 @@
+{
+  "id": 1167,
+  "date": "2020-11-21T00:00:43",
+  "date_gmt": "2020-11-21T05:00:43",
+  "guid": { "rendered": "http://<?php echo $row['url']; ?>/?p=1167" },
+  "modified": "2023-09-11T09:46:25",
+  "modified_gmt": "2023-09-11T13:46:25",
+  "slug": "laminate-vs-quartz",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/laminate-vs-quartz/",
+  "title": {
+    "rendered": "Kitchen Countertops for Your <?php echo $row['country']; ?> Home: Laminate vs. Quartz"
+  },
+  "content": {
+    "rendered": "<p><span style=\"font-weight: 400;\">Options for kitchen countertops have never been more plentiful. But while having many options to choose from can be exciting, it can also make the decision more difficult. You could choose from </span><span style=\"font-weight: 400;\">n</span><span style=\"font-weight: 400;\">atural stone, poured concrete, recycled glass or cardboard, tile, manufactured materials or sustainable alternatives, but two of the most popular </span><a href=\"http://homerenovations.about.com/od/LaminateCounters/fl/Quartz-vs-Laminate-Countertops-Which-Is-Best-For-You.htm\"><span style=\"font-weight: 400;\">countertop options</span></a><span style=\"font-weight: 400;\"> are laminate and quartz. To choose between them, it is important to understand the pros and cons of laminate versus quartz.</span></p>\n<p><b>All About Laminate Countertops</b></p>\n<p><span style=\"font-weight: 400;\">Laminate is looking better than ever before, considering that the material so popular for kitchen countertops has been around for more than 100 years! Formica laminate was </span><a href=\"http://amhistory.si.edu/archives/AC0565.htm\"><span style=\"font-weight: 400;\">invented</span></a><span style=\"font-weight: 400;\"> in 1912 by two Westinghouse employees who were looking for a manufactured product to replace mica as electrical insulation. Today, it is commonly considered a budget-friendly, stylish and functional countertop. Residential and commercial applications for laminate have spawned numerous other brands of laminate, but all feature a base of \u201csandwiched\u201d material covered by a thin topping of colored or patterned synthetic sheeting.</span></p>\n<p><span style=\"font-weight: 400;\">Technological advances in the manufacture of laminate countertops have enhanced not only its performance, but also its appearance. Seamless and rolled-edge laminates simulate natural stone, while trendy looks are achieved with vibrant colors, inlays, and \u201ccolor-through\u201d options. New edge treatments allow great versatility and eliminate unsightly seams of early counters.</span></p>\n<p><span style=\"font-weight: 400;\">Laminate is heat resistant and non-porous, but it can be damaged by sharp knives and the surface is subject to tears and delaminating in some cases. However, with reasonable care, modern laminate is a long-lasting, cost-effective option\u2014and the design choices are virtually limitless. While it is possible to purchase pre-formed laminate countertops for DIY installation, high-quality laminate countertops and unique counter treatments should be installed by a professional.</span></p>\n<p><b>All About Quartz Countertops</b></p>\n<p><span style=\"font-weight: 400;\">A viable option for granite today is an engineered product often known as quartz. Quartz countertops are commonly manufactured with bits of quartz and cast-off bits of stone, ceramic, glass and other materials, bound together with a glue-like resin. The process was developed and patented in the mid-1960s and, like laminate, the intervening years have seen the birth of a variety of \u201cmanufactured stone\u201d companies, each offering a slightly different take on the product.</span></p>\n<p><span style=\"font-weight: 400;\">Early quartz countertops were durable, but not terribly attractive. Not so, today. </span><a href=\"https://www.thisoldhouse.com/ideas/all-about-quartz-countertops\"><span style=\"font-weight: 400;\">Quartz counters</span></a><span style=\"font-weight: 400;\"> mimic granite and marble so well that the differences are sometimes hard to detect. Because the pattern and color is not just on the surface, quartz slabs can be as thick \u2014 or as thin \u2014 as you wish. Trendy colors are all the rage, and clean-lined quartz in black or white is a natural choice for trendy Euro-tech or pro-style kitchens.</span></p>\n<p><span style=\"font-weight: 400;\">Quartz countertops are available in both polished and matte finishes; they never need sealing, and they are heat-resistant and well as impervious to stains, cuts, warping and tears. They do not require any sort of underlayment, and they are completely hygienic, requiring cleaning only with soap and water. They may also be formed with integral sink basins and other custom features.</span></p>\n<p><b>Choosing Between Laminate and Quartz</b></p>\n<p><span style=\"font-weight: 400;\">The decision to go with quartz or laminate depends on your needs. Laminate is a bargain choice if you are looking for good looks and durability. It also comes in virtually limitless colors and styles to give you solid colors, the look of different stones or even wood. If you are willing to pay a higher price, however, quartz makes for an upscale and nearly indestructible countertop.</span></p>\n<p><span style=\"font-weight: 400;\">To learn more and get your new countertop today, stop by the <?php echo $row['name']; ?> showroom in downtown <?php echo $row['country']; ?>. <?php echo $row['name']; ?> is committed to bringing local builders and home owners the finest materials on the market today, and we are the proud suppliers of </span><a href=\"http://www.formica.com/en/us/homeowner-products\"><span style=\"font-weight: 400;\">Formica</span></a><span style=\"font-weight: 400;\"> laminate and solid surface counter materials as well as </span><a href=\"https://www.caesarstoneus.com/about-us/\"><span style=\"font-weight: 400;\">Ceasarstone</span></a><span style=\"font-weight: 400;\">, a world-class company committed to environmental sustainability in the manufacture of fine quartz countertops. Whatever your budget, we have stylish and durable options that will appeal to <?php echo $row['country']; ?> home buyers.</span></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Options for kitchen countertops have never been more plentiful. But while having many options to choose from can be exciting, it can also make the decision more difficult. You could choose from natural stone, poured concrete, recycled glass or cardboard, tile, manufactured materials or sustainable alternatives, but two of the most popular countertop options are\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 1168,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [30, 40, 28, 48, 8],
+  "tags": [9, 55, 10, 12, 14, 18, 31, 173, 52, 268, 15, 133, 16],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Kitchen Countertops for Your <?php echo $row['country']; ?> Home: Laminate vs. Quartz - <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"Wondering how to choose between laminate and quartz countertops? Both are great options and here is everything you need to know!\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/laminate-vs-quartz/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Kitchen Countertops for Your <?php echo $row['country']; ?> Home: Laminate vs. Quartz - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Wondering how to choose between laminate and quartz countertops? Both are great options and here is everything you need to know!\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/laminate-vs-quartz/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2020-11-21T05:00:43+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:25+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2016/12/laminate-vs-quartz-countertop-for-your-kitchen.jpg\" />\n\t<meta property=\"og:image:width\" content=\"640\" />\n\t<meta property=\"og:image:height\" content=\"484\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/laminate-vs-quartz/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/laminate-vs-quartz/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"Kitchen Countertops for Your <?php echo $row['country']; ?> Home: Laminate vs. Quartz\",\"datePublished\":\"2020-11-21T05:00:43+00:00\",\"dateModified\":\"2023-09-11T13:46:25+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/laminate-vs-quartz/\"},\"wordCount\":664,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"<?php echo $row['country']; ?> Homeowner\",\"Builder\",\"Building Supplier\",\"Downtown <?php echo $row['country']; ?>\",\"Downtown <?php echo $row['country']; ?> Residential Building\",\"Interior\",\"Kitchen Countertop\",\"Kitchen Design\",\"Laminate Countertops\",\"Lumber and Building Materials\",\"Quartz Countertops\",\"Remodeler\"],\"articleSection\":[\"Building Trends\",\"Contractor\",\"Homeowner\",\"Kitchen Design\",\"Remodeler\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/laminate-vs-quartz/\",\"url\":\"https://<?php echo $row['url']; ?>/laminate-vs-quartz/\",\"name\":\"Kitchen Countertops for Your <?php echo $row['country']; ?> Home: Laminate vs. Quartz - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2020-11-21T05:00:43+00:00\",\"dateModified\":\"2023-09-11T13:46:25+00:00\",\"description\":\"Wondering how to choose between laminate and quartz countertops? Both are great options and here is everything you need to know!\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/laminate-vs-quartz/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"https://<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Kitchen Countertops for Your <?php echo $row['country']; ?> Home: Laminate vs. Quartz - <?php echo $row['name']; ?> ",
+    "description": "Wondering how to choose between laminate and quartz countertops? Both are great options and here is everything you need to know!",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/laminate-vs-quartz/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Kitchen Countertops for Your <?php echo $row['country']; ?> Home: Laminate vs. Quartz - <?php echo $row['name']; ?> ",
+    "og_description": "Wondering how to choose between laminate and quartz countertops? Both are great options and here is everything you need to know!",
+    "og_url": "https://<?php echo $row['url']; ?>/laminate-vs-quartz/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2020-11-21T05:00:43+00:00",
+    "article_modified_time": "2023-09-11T13:46:25+00:00",
+    "og_image": [
+      {
+        "width": 640,
+        "height": 484,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2016/12/laminate-vs-quartz-countertop-for-your-kitchen.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/laminate-vs-quartz/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/laminate-vs-quartz/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "Kitchen Countertops for Your <?php echo $row['country']; ?> Home: Laminate vs. Quartz",
+          "datePublished": "2020-11-21T05:00:43+00:00",
+          "dateModified": "2023-09-11T13:46:25+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/laminate-vs-quartz/"
+          },
+          "wordCount": 664,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "<?php echo $row['country']; ?> Homeowner",
+            "Builder",
+            "Building Supplier",
+            "Downtown <?php echo $row['country']; ?>",
+            "Downtown <?php echo $row['country']; ?> Residential Building",
+            "Interior",
+            "Kitchen Countertop",
+            "Kitchen Design",
+            "Laminate Countertops",
+            "Lumber and Building Materials",
+            "Quartz Countertops",
+            "Remodeler"
+          ],
+          "articleSection": [
+            "Building Trends",
+            "Contractor",
+            "Homeowner",
+            "Kitchen Design",
+            "Remodeler"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/laminate-vs-quartz/",
+          "url": "https://<?php echo $row['url']; ?>/laminate-vs-quartz/",
+          "name": "Kitchen Countertops for Your <?php echo $row['country']; ?> Home: Laminate vs. Quartz - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2020-11-21T05:00:43+00:00",
+          "dateModified": "2023-09-11T13:46:25+00:00",
+          "description": "Wondering how to choose between laminate and quartz countertops? Both are great options and here is everything you need to know!",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/laminate-vs-quartz/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "https://<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/1167" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=1167"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/1167/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/1168"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=1167"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=1167"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=1167"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

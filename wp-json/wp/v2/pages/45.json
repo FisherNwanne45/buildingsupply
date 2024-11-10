@@ -1,0 +1,186 @@
+{
+  "id": 45,
+  "date": "2023-03-15T20:52:09",
+  "date_gmt": "2023-03-15T20:52:09",
+  "guid": { "rendered": "https://nebldgsupply.wpengine.com/?page_id=45" },
+  "modified": "2024-10-03T16:33:49",
+  "modified_gmt": "2024-10-03T20:33:49",
+  "slug": "careers",
+  "status": "publish",
+  "type": "page",
+  "link": "https://<?php echo $row['url']; ?>/about/careers/",
+  "title": { "rendered": "Careers" },
+  "content": {
+    "rendered": "\n<div class=\"wp-block-group alignfull pattern-intro-banner is-layout-constrained wp-block-group-is-layout-constrained\">\n<div class=\"wp-block-cover alignfull\" style=\"min-height:47vh\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-transparent-background-color has-background-dim-0 has-background-dim\"></span><img loading=\"lazy\" decoding=\"async\" width=\"2560\" height=\"752\" class=\"wp-block-cover__image-background wp-image-3845\" alt=\"\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/09/Picture-4-1-1.jpg\" data-object-fit=\"cover\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/09/Picture-4-1-1.jpg 2560w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/09/Picture-4-1-1-768x226.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/09/Picture-4-1-1-1024x301.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/09/Picture-4-1-1-1536x451.jpg 1536w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/09/Picture-4-1-1-2048x602.jpg 2048w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" /><div class=\"wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow\">\n<p class=\"has-text-align-center has-large-font-size\"></p>\n</div></div>\n\n\n\n<div class=\"wp-block-group alignwide intro-content is-vertical is-layout-flex wp-container-core-group-layout-1 wp-block-group-is-layout-flex\">\n<h1 class=\"wp-block-heading alignwide has-primary-color has-text-color has-h-2-font-size\">Careers</h1>\n\n\n\n<p class=\"has-primary-color has-text-color has-h-3-font-size\"><strong>Our employees are the heart of NEBS, and service is our business.</strong></p>\n</div>\n</div>\n\n\n\n<div class=\"wp-block-columns alignwide are-vertically-aligned-center justify-space-between pattern-2-col-text-img is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex\" style=\"padding-bottom:var(--wp--preset--spacing--100)\">\n<div class=\"wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:37%\">\n<figure class=\"wp-block-image size-medium\"><img loading=\"lazy\" decoding=\"async\" width=\"768\" height=\"514\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Yard-18-768x514.jpg\" alt=\"\" class=\"wp-image-102\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Yard-18-768x514.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Yard-18-1024x685.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Yard-18-1536x1027.jpg 1536w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/Yard-18-2048x1370.jpg 2048w\" sizes=\"(max-width: 768px) 100vw, 768px\" /></figure>\n</div>\n\n\n\n<div class=\"wp-block-column is-vertically-aligned-center content-col is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:48%\">\n<h2 class=\"wp-block-heading has-primary-color has-text-color has-h-4-font-size\">Join Our Team</h2>\n\n\n\n<p class=\"has-medium-font-size\">When you join our team, you become a part of representing the <?php echo $row['name']; ?> culture to the <?php echo $row['country']; ?> community. We take great pride in helping our customers grow their businesses and supporting our employees to achieve their highest potential as a part of our family. Click the link below to view our open positions. </p>\n\n\n\n<div class=\"wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button is-style-bg-primary\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/Updated-NEBS-Job-Application-1.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">Download Application</a></div>\n</div>\n</div>\n</div>\n\n\n\n<div class=\"wp-block-group alignfull pattern-bg-highlight has-light-blue-background-color has-background is-layout-constrained wp-container-core-group-layout-3 wp-block-group-is-layout-constrained\">\n<h2 class=\"wp-block-heading has-primary-color has-text-color has-h-5-font-size\">Benefits</h2>\n\n\n\n<ul class=\"is-style-two-column has-large-font-size\">\n<li>Health, Dental, and Vision Plans</li>\n\n\n\n<li>Ancillary Plans (Life, AD&amp;D, Accident, etc.)</li>\n\n\n\n<li>Short Term and Long Term Disability</li>\n\n\n\n<li>Paid Time Off and Paid Holidays</li>\n\n\n\n<li>401K Plan including Company Match</li>\n</ul>\n</div>\n\n\n\n<div class=\"wp-block-query alignwide query-loop-careers is-layout-flow wp-block-query-is-layout-flow\"><ul class=\"wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow\"><li class=\"wp-block-post post-4172 bs_career type-bs_career status-publish has-post-thumbnail hentry\">\n<h3 class=\"wp-block-post-title has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/career/lumber-yard-associate-2/\" target=\"_self\" >Lumber Yard Associate</a></h3>\n\n<div class=\"wp-block-post-excerpt\"><p class=\"wp-block-post-excerpt__excerpt\">Load customer orders, unload incoming inventory, assist in inventory control and perform general housekeeping. Must have forklift experience. </p></div>\n\n\n<p class=\"link-arrow\">Learn more</p>\n\n</li></ul>\n\n\n\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Careers Our employees are the heart of NEBS, and service is our business. Join Our Team When you join our team, you become a part of representing the <?php echo $row['name']; ?> culture to the <?php echo $row['country']; ?> community. We take great pride in helping our customers grow their businesses and supporting our employees to achieve their highest potential as\u2026</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 33,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "footnotes": "" },
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Careers - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/about/careers/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Careers - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Careers Our employees are the heart of NEBS, and service is our business. Join Our Team When you join our team, you become a part of representing the <?php echo $row['name']; ?> culture to the <?php echo $row['country']; ?> community. We take great pride in helping our customers grow their businesses and supporting our employees to achieve their highest potential as\u2026\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/about/careers/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-10-03T20:33:49+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/09/Picture-4-1-1.jpg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/about/careers/\",\"url\":\"https://<?php echo $row['url']; ?>/about/careers/\",\"name\":\"Careers - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2023-03-15T20:52:09+00:00\",\"dateModified\":\"2024-10-03T20:33:49+00:00\",\"breadcrumb\":{\"@id\":\"https://<?php echo $row['url']; ?>/about/careers/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/about/careers/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://<?php echo $row['url']; ?>/about/careers/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"About\",\"item\":\"https://<?php echo $row['url']; ?>/about/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Careers\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Careers - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/about/careers/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Careers - <?php echo $row['name']; ?> ",
+    "og_description": "Careers Our employees are the heart of NEBS, and service is our business. Join Our Team When you join our team, you become a part of representing the <?php echo $row['name']; ?> culture to the <?php echo $row['country']; ?> community. We take great pride in helping our customers grow their businesses and supporting our employees to achieve their highest potential as\u2026",
+    "og_url": "https://<?php echo $row['url']; ?>/about/careers/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_modified_time": "2024-10-03T20:33:49+00:00",
+    "og_image": [
+      {
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/09/Picture-4-1-1.jpg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": { "Est. reading time": "1 minute" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/about/careers/",
+          "url": "https://<?php echo $row['url']; ?>/about/careers/",
+          "name": "Careers - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2023-03-15T20:52:09+00:00",
+          "dateModified": "2024-10-03T20:33:49+00:00",
+          "breadcrumb": {
+            "@id": "https://<?php echo $row['url']; ?>/about/careers/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["https://<?php echo $row['url']; ?>/about/careers/"]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://<?php echo $row['url']; ?>/about/careers/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "About",
+              "item": "https://<?php echo $row['url']; ?>/about/"
+            },
+            { "@type": "ListItem", "position": 2, "name": "Careers" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages/45" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=45"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages/45/revisions"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages/33"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=45"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

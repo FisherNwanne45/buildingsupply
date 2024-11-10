@@ -1,0 +1,236 @@
+{
+  "id": 2768,
+  "date": "2021-03-31T11:46:01",
+  "date_gmt": "2021-03-31T15:46:01",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2768" },
+  "modified": "2023-09-11T09:46:13",
+  "modified_gmt": "2023-09-11T13:46:13",
+  "slug": "historic-home-renovation",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/historic-home-renovation/",
+  "title": {
+    "rendered": "Historic Home Renovation 101: 5 Tips for Mixing Modern with Historic"
+  },
+  "content": {
+    "rendered": "<p><span data-mce-type=\"bookmark\" style=\"width: 0px;overflow: hidden;line-height: 0\" class=\"mce_SELRES_start\"><span data-mce-type=\"bookmark\" style=\"width: 0px;overflow: hidden;line-height: 0\" class=\"mce_SELRES_start\">\ufeff</span>\ufeff</span>New England carries a unique charm that no other part of the country can compete with\u2014the historic yet up-and-coming feel of <?php echo $row['country']; ?> is what makes our great city special. These historical beauties are a crowd favorite for their timeless architecture and beauty.</p>\n<p>\n<?php echo $row['country']; ?>\u2019s historic homes may be beautiful, but anyone who lives in a house that is a century old knows the challenges of renovating them. When it\u2019s time to renovate, how do you honor the historical roots while modernizing the home itself? Here are a few tips to keep in mind during a historic home renovation in <?php echo $row['country']; ?>.</p>\n<h3>1. Choose Historic Home Design Experts </h3>\n<p>The first step to any renovation project is finding the right people for the job\u2014choose <a href=\"https://<?php echo $row['url']; ?>/meet-the-team/\">interior experts</a> who have expertise with historic home renovations. If you choose an interior designer who lacks experience in this area, it will show in your renovation.</p>\n<h3>2. Keep Historic Elements </h3>\n<p>The second step to modernizing a historic home is choosing which historic elements to keep and which ones to renovate. For example, a house that has 200-year-old millwork might be able to be restored and exposed. Take these elements and pair them with modern touches such as sleek countertops, accent furniture, and new appliances to create a timeless look and feel.</p>\n<h3>3. Showcase Lighting </h3>\n<p>If you keep it traditional with your d\u00e9cor, appliances, and furniture, you add a contemporary accent by showcasing your lighting. An elegant chandelier or modern floor lamp will add a touch of modern sophistication without taking away from the historical elements.</p>\n<h3>4. Outdoor Renovation </h3>\n<p>When renovating any home, always remember the deck. Historical homes are known for their spacious piazzas\u2014you might even get lucky with two decks! Porches are a great opportunity to combine modern with historical by adding modern outdoor furniture or classic rocking chairs. Of course, always pay attention to how old your decking is. If the wood is rotting or splintering, it might be worth it to invest in <a href=\"https://<?php echo $row['url']; ?>/discover-trex/\">composite decking</a>.</p>\n<h3>5. Clean Lines </h3>\n<p>After you choose which historical architectural elements you want to keep, it\u2019s time to highlight them. For example, you can emphasize brickwork with clean lines, smooth surfaces, and neutral colors\u2014this showcases the aesthetics and texture of the brick without overshadowing it. Try adding a modern twist to your home with shaker-style cabinets and granite countertops.</p>\n<h3>Contact a Home Remodel Experts at <?php echo $row['name']; ?> Today </h3>\n<p>When it comes to meshing modern with historical, the key is finding the right elements to complement each other and creating balance. At <?php echo $row['name']; ?> , we carry a variety of building materials for all your historic home renovation needs. </p>\n<p>\nWhether you\u2019re looking for a modern twist or traditional beauty, we have the products you\u2014molding, countertops, flooring, decking, cabinets, windows, doors\u2014you name it, we can help. <a href=\"https://<?php echo $row['url']; ?>/contact-us/\">Give us a call</a> or <a href=\"https://goo.gl/maps/x6wT35D1AFqYZEf4A\" target=\"_blank\" rel=\"noopener\">stop by our showroom</a> today to consult with an experienced remodel expert and find out how we can help with your historic home remodel.  </p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>\ufeff\ufeffNew England carries a unique charm that no other part of the country can compete with\u2014the historic yet up-and-coming feel of <?php echo $row['country']; ?> is what makes our great city special. These historical beauties are a crowd favorite for their timeless architecture and beauty. <?php echo $row['country']; ?>\u2019s historic homes may be beautiful, but anyone who lives in a house\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 2771,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [209, 47, 40, 235, 28, 48, 8],
+  "tags": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Historic Home Renovation 101 \u2192 5 Tips from Remodel Experts at NEBS</title>\n<meta name=\"description\" content=\"How do you modernize a historic home without losing the historical roots? Check out these historic home renovation tips from remodel experts.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/historic-home-renovation/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Historic Home Renovation 101 \u2192 5 Tips from Remodel Experts at NEBS\" />\n<meta property=\"og:description\" content=\"How do you modernize a historic home without losing the historical roots? Check out these historic home renovation tips from remodel experts.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/historic-home-renovation/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2021-03-31T15:46:01+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:13+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2021/03/shutterstock_503917549-scaled-1.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1703\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"2 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/historic-home-renovation/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/historic-home-renovation/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"Historic Home Renovation 101: 5 Tips for Mixing Modern with Historic\",\"datePublished\":\"2021-03-31T15:46:01+00:00\",\"dateModified\":\"2023-09-11T13:46:13+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/historic-home-renovation/\"},\"wordCount\":506,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"articleSection\":[\"Architect\",\"Bathroom Renovation\",\"Contractor\",\"Decks\",\"Homeowner\",\"Kitchen Design\",\"Remodeler\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/historic-home-renovation/\",\"url\":\"https://<?php echo $row['url']; ?>/historic-home-renovation/\",\"name\":\"Historic Home Renovation 101 \u2192 5 Tips from Remodel Experts at NEBS\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2021-03-31T15:46:01+00:00\",\"dateModified\":\"2023-09-11T13:46:13+00:00\",\"description\":\"How do you modernize a historic home without losing the historical roots? Check out these historic home renovation tips from remodel experts.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/historic-home-renovation/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"https://<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Historic Home Renovation 101 \u2192 5 Tips from Remodel Experts at NEBS",
+    "description": "How do you modernize a historic home without losing the historical roots? Check out these historic home renovation tips from remodel experts.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/historic-home-renovation/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Historic Home Renovation 101 \u2192 5 Tips from Remodel Experts at NEBS",
+    "og_description": "How do you modernize a historic home without losing the historical roots? Check out these historic home renovation tips from remodel experts.",
+    "og_url": "https://<?php echo $row['url']; ?>/historic-home-renovation/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2021-03-31T15:46:01+00:00",
+    "article_modified_time": "2023-09-11T13:46:13+00:00",
+    "og_image": [
+      {
+        "width": 2560,
+        "height": 1703,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2021/03/shutterstock_503917549-scaled-1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "2 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/historic-home-renovation/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/historic-home-renovation/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "Historic Home Renovation 101: 5 Tips for Mixing Modern with Historic",
+          "datePublished": "2021-03-31T15:46:01+00:00",
+          "dateModified": "2023-09-11T13:46:13+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/historic-home-renovation/"
+          },
+          "wordCount": 506,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "articleSection": [
+            "Architect",
+            "Bathroom Renovation",
+            "Contractor",
+            "Decks",
+            "Homeowner",
+            "Kitchen Design",
+            "Remodeler"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/historic-home-renovation/",
+          "url": "https://<?php echo $row['url']; ?>/historic-home-renovation/",
+          "name": "Historic Home Renovation 101 \u2192 5 Tips from Remodel Experts at NEBS",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2021-03-31T15:46:01+00:00",
+          "dateModified": "2023-09-11T13:46:13+00:00",
+          "description": "How do you modernize a historic home without losing the historical roots? Check out these historic home renovation tips from remodel experts.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/historic-home-renovation/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "https://<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2768" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2768"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2768/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2771"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2768"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2768"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2768"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

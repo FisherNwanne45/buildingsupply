@@ -1,0 +1,237 @@
+{
+  "id": 2795,
+  "date": "2021-05-19T10:14:23",
+  "date_gmt": "2021-05-19T14:14:23",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2795" },
+  "modified": "2023-09-11T09:46:11",
+  "modified_gmt": "2023-09-11T13:46:11",
+  "slug": "maximizing-energy-efficiency-windows",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/",
+  "title": {
+    "rendered": "Maximizing Energy Efficiency: What New Windows Can Do For You"
+  },
+  "content": {
+    "rendered": "<p><span data-mce-type=\"bookmark\" style=\"width: 0px;overflow: hidden;line-height: 0\" class=\"mce_SELRES_start\"><span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">\ufeff</span><span data-mce-type=\"bookmark\" style=\"width: 0px;overflow: hidden;line-height: 0\" class=\"mce_SELRES_start\">\ufeff</span>\ufeff</span>Aesthetics and look are always important features when shopping for new windows, but energy efficiency is your top priority. With energy-efficient windows, not only will you reduce your bills, but you will also save money in the long run and get a better return on your investment.</p>\n<p>\nSo, why is having energy-efficient windows important and what factors determine quality energy-saving windows?</p>\n<h3>Why is Energy Efficiency Important? </h3>\n<p>Older windows usually allow air in and out of your house through small cracks or inefficient glass\u2014this makes your cooling and heating system work overtime to maintain a comfortable temperature, which means higher bills.<br />\nLucky for you, solving this problem is easy with new windows. When you choose energy-efficient windows for your home, you get the following benefits:</p>\n<ul>\n1.\t<strong>Comfort</strong>. Minimizing air leakage <a href=\"https://<?php echo $row['url']; ?>/noise-reduction-windows-assist-with-sound-control/\">reduces noise</a> and unwelcome drafts and improves home comfort.<br />\n2.\t<strong>Reduced carbon footprint</strong>. New innovative glass options limit CO2 usage, resulting in smaller environmental impact. Go green!<br />\n3.\t<strong>Lower bills</strong>. Your HVAC system does more work when there is air leakage to compensate the temperature. Stop straining your system and save money!</p>\n</ul>\n<p>Energy efficiency in any home is essential, especially if you\u2019re looking to save money and reduce your carbon footprint. We\u2019ve covered why energy efficiency is important\u2014but what makes a window energy efficient and what are your best options?</p>\n<h3>What Makes a Window Energy Efficient? </h3>\n<p>To keep your home cool in the summer and warm in the winter, a good energy efficient window will minimize escaped air through the frame and glass and regulate heat transfer and light through the window. It\u2019s more than just the number of panes\u2014the material of your windows will determine its energy efficiency.</p>\n<h4>Glass </h4>\n<p>Energy-saving glass is accomplished by the type, style, and thickness of the glass. The main factors you should consider when buying new windows are:</p>\n<ul>\n\u2022\t<strong>Low-E glass coating</strong>. <a href=\"https://energyeducation.ca/encyclopedia/E-coating\" target=\"_blank\" rel=\"noopener\">Low-emissivity glass coating</a> can reflect solar heat\u2014this keeps your home cooler in the summer and warm in the winter.<br />\n\u2022\t<strong>Insulated glass</strong>. An extra layer of insulation is always a plus for temperature control and thermal performance!<br />\n\u2022\t<strong>Panes</strong>. Yes, the number of panes do matter. Double-pane glass will insulate your home better than single-pane. If you\u2019re looking to really improve your energy efficiency, we recommend looking into <a href=\"https://<?php echo $row['url']; ?>/triple-pane-windows-vs-double-pane-for-boston-home/\">triple-pane glass</a>.\n</ul>\n<p>Temperature control is vital to saving energy\u2014make sure the windows you buy have all the necessary features to ensure quality thermal performance.</p>\n<h4>Frames </h4>\n<p>Like any other home product, window frames can be made from various types of materials. The type of material will determine your window\u2019s thermal resistance. For example, wood and <a href=\"https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/\">fiberglass frames</a> offer excellent insulation by letting minimal air into your home. </p>\n<h4>Installation </h4>\n<p>Window installation plays a bigger part in saving energy than you might think\u2014proper installation can make or break your energy efficiency. If the window doesn\u2019t fit right or is installed incorrectly, even the best windows will lack in thermal performance. When buying new windows, always make sure you have quality installation. </p>\n<h3>Which Window is the Best Choice for Me? </h3>\n<p>Energy efficiency is the goal when buying new windows, but the location you live in depends on what you should look for in a window.</p>\n<p>In a climate like <?php echo $row['country']; ?> with cold winters and hot summers, you need windows that will balance cooling and heating. To learn more about what window is best for your climate, talk with your local window expert and pay attention to <a href=\"https://www.nfrc.org/\" target=\"_blank\" rel=\"noopener\">NFRC</a> and <a href=\"https://www.energystar.gov/products/building_products/residential_windows_doors_and_skylights/benefits\" target=\"_blank\" rel=\"noopener\">ENERGY STAR</a> labels.</p>\n<p><h3>Increase Energy Efficiency in Your Home with <?php echo $row['name']; ?> Windows </h3>\n<p>The window-buying process is full decisions\u2014from energy-efficiency and aesthetics to installation, every decision you make will be central to temperature control in your home. </p>\n<p>\nAt <?php echo $row['name']; ?> , we carry a wide variety of energy-efficient windows with different features, design, and more. To learn more about your options and how <?php echo $row['name']; ?> can help with your window project, <a href=\"https://<?php echo $row['url']; ?>/contact-us/\">give us a call today</a> or <a href=\"https://goo.gl/maps/x6wT35D1AFqYZEf4A\" target=\"_blank\" rel=\"noopener\">stop by our <?php echo $row['country']; ?> showroom</a>. </p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>\ufeff\ufeff\ufeffAesthetics and look are always important features when shopping for new windows, but energy efficiency is your top priority. With energy-efficient windows, not only will you reduce your bills, but you will also save money in the long run and get a better return on your investment. So, why is having energy-efficient windows important and\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 2796,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [37, 5, 40, 7, 94, 28, 8, 100],
+  "tags": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>How to Maximize Your Energy Efficiency with New Windows \u2192 <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"When shopping for new windows, energy efficiency is your top priority. Contact <?php echo $row['name']; ?> today to learn more about our energy efficient windows.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"How to Maximize Your Energy Efficiency with New Windows \u2192 <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"When shopping for new windows, energy efficiency is your top priority. Contact <?php echo $row['name']; ?> today to learn more about our energy efficient windows.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2021-05-19T14:14:23+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:11+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2021/05/shutterstock_487364875-scaled-1.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1708\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"Maximizing Energy Efficiency: What New Windows Can Do For You\",\"datePublished\":\"2021-05-19T14:14:23+00:00\",\"dateModified\":\"2023-09-11T13:46:11+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/\"},\"wordCount\":667,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"articleSection\":[\"<?php echo $row['country']; ?> Condo\",\"Builder\",\"Contractor\",\"Developer\",\"Home Technology\",\"Homeowner\",\"Remodeler\",\"Triple Decker\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/\",\"url\":\"https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/\",\"name\":\"How to Maximize Your Energy Efficiency with New Windows \u2192 <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2021-05-19T14:14:23+00:00\",\"dateModified\":\"2023-09-11T13:46:11+00:00\",\"description\":\"When shopping for new windows, energy efficiency is your top priority. Contact <?php echo $row['name']; ?> today to learn more about our energy efficient windows.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"https://<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "How to Maximize Your Energy Efficiency with New Windows \u2192 <?php echo $row['name']; ?> ",
+    "description": "When shopping for new windows, energy efficiency is your top priority. Contact <?php echo $row['name']; ?> today to learn more about our energy efficient windows.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "How to Maximize Your Energy Efficiency with New Windows \u2192 <?php echo $row['name']; ?> ",
+    "og_description": "When shopping for new windows, energy efficiency is your top priority. Contact <?php echo $row['name']; ?> today to learn more about our energy efficient windows.",
+    "og_url": "https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2021-05-19T14:14:23+00:00",
+    "article_modified_time": "2023-09-11T13:46:11+00:00",
+    "og_image": [
+      {
+        "width": 2560,
+        "height": 1708,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2021/05/shutterstock_487364875-scaled-1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "Maximizing Energy Efficiency: What New Windows Can Do For You",
+          "datePublished": "2021-05-19T14:14:23+00:00",
+          "dateModified": "2023-09-11T13:46:11+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/"
+          },
+          "wordCount": 667,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "articleSection": [
+            "<?php echo $row['country']; ?> Condo",
+            "Builder",
+            "Contractor",
+            "Developer",
+            "Home Technology",
+            "Homeowner",
+            "Remodeler",
+            "Triple Decker"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/",
+          "url": "https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/",
+          "name": "How to Maximize Your Energy Efficiency with New Windows \u2192 <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2021-05-19T14:14:23+00:00",
+          "dateModified": "2023-09-11T13:46:11+00:00",
+          "description": "When shopping for new windows, energy efficiency is your top priority. Contact <?php echo $row['name']; ?> today to learn more about our energy efficient windows.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "https://<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2795" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2795"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2795/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2796"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2795"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2795"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2795"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

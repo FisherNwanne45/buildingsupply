@@ -1,0 +1,247 @@
+{
+  "id": 1695,
+  "date": "2018-01-31T14:23:12",
+  "date_gmt": "2018-01-31T14:23:12",
+  "guid": { "rendered": "http://<?php echo $row['url']; ?>/?p=1695" },
+  "modified": "2023-09-11T09:48:49",
+  "modified_gmt": "2023-09-11T13:48:49",
+  "slug": "whats-the-best-siding-for-your-boston-home",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/",
+  "title": {
+    "rendered": "What&#8217;s the Best Siding for Your <?php echo $row['country']; ?> Home? 4 Tips to Guide Your Choice"
+  },
+  "content": {
+    "rendered": "<p>Choosing your exterior siding is a big deal. After all, it has a huge impact on the whole look and feel of your home. The color is important, of course, but don&#8217;t forget that siding also adds to the texture of your house as well. In addition to how it looks, you&#8217;ll also want to consider&nbsp;how well your siding will hold up in a blustery New England winter that comes complete with blizzards and ice storms.</p>\n<p><!--more--></p>\n<p>It&#8217;s a lot to think about, and there are many great options out there. Try these tips to help you narrow your choices to the ones that will work best for your taste while giving you the longest possible life.</p>\n<h3>1. Clapboards Always Look Good</h3>\n<p>Traditional wood clapboards have been the siding of choice in <?php echo $row['country']; ?> since Paul Revere built his place in the North End. The clean, horizontal lines work well with traditional home styles and blend easily in <a href=\"http://<?php echo $row['url']; ?>/renovating-in-a-boston-historic-district-guidelines-you-need-to-know/\">historic neighborhoods</a>. They also hold up great in a <img loading=\"lazy\" decoding=\"async\" class=\"alignright wp-image-1697 size-medium\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2018/01/Paul-Revere-House--300x225.jpg\" alt=\"Paul Revere House\" width=\"300\" height=\"225\">nor&#8217;easter, since \u2014 unlike shingles and shakes \u2014&nbsp;there are fewer places where&nbsp;they can curl up and be carried away by the wind. Modern&nbsp;<a href=\"https://www.jameshardie.com/products\" target=\"_blank\" rel=\"noopener noreferrer\">Hardie&nbsp;Boards</a>&nbsp;come in any color you can imagine, and they hold up far better than traditional wood when it comes to weathering tough Massachusetts winters.</p>\n<h3>2. Consider Maintenance</h3>\n<p><a href=\"http://www.maibec.com/us\" target=\"_blank\" rel=\"noopener noreferrer\">Traditional wood shakes or clapboards</a>&nbsp;can also stand the test of time, but only if you stay on top of the maintenance. That means making sure your home&nbsp;gets a fresh coat of paint when the old layer starts to fail. If you live in a triple decker or a grand Victorian with a garret bedroom and lots of gables, it will cost more to prep, prime and paint your home when that work needs to be done. The extra height is about more than the square footage \u2014 it&#8217;s also harder for crews to get to the top.&nbsp;<a href=\"http://<?php echo $row['url']; ?>/how-a-pre-finished-siding-extends-the-life-of-your-boston-house-exterior/\" target=\"_blank\" rel=\"noopener noreferrer\">Prefininshed siding</a>&nbsp;can be a more economical choice for tall homes since you won&#8217;t&nbsp;need to paint it, and&nbsp;<a href=\"http://www.boralamerica.com/truexterior\" target=\"_blank\" rel=\"noopener noreferrer\">composite products</a>&nbsp;can eliminate repainting altogether.</p>\n<h3>3. Consider Your Home&#8217;s History</h3>\n<p>For an older home, take a good look at the neighborhood and character of the place. You&#8217;d never go with stucco on a Federal-style center-hall colonial, but it would look great on a Midcentury&nbsp;Modern ranch. It&#8217;s usually best to choose a siding style that is close to what the original architect had in mind. If you&#8217;re not sure, ask older neighbors if they remember, or talk to your builder \u2014 true pros have&nbsp;seen it all, and they&#8217;ll&nbsp;have great suggestions that will be in keeping with your house&#8217;s style.</p>\n<h3>4. Put Safety First</h3>\n<p>If you&#8217;re remodeling an older home, you have an opportunity to upgrade your home exterior cladding materials to be more fire resistant than plain wood from yesteryear.&nbsp;<a href=\"http://www.allurausa.com\" target=\"_blank\" rel=\"noopener noreferrer\">Cement fiber siding</a>&nbsp;is a good choice for a more durable and flame-retardant exterior.&nbsp;&nbsp;It can be made to look like wood and also comes in a wide range of colors and styles, so you don&#8217;t have to sacrifice style for safety.</p>\n<p>No matter what style of siding you ultimately choose, make sure to choose high-quality materials to best protect your home from the elements. The longer your siding lasts, the better your return on the investment \u2014 and that will allow you to turn your attention to other home improvement projects in the future instead of worrying about redoing your siding in a a few years.</p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Choosing your exterior siding is a big deal. After all, it has a huge impact on the whole look and feel of your home. The color is important, of course, but don&#8217;t forget that siding also adds to the texture of your house as well. In addition to how it looks, you&#8217;ll also want to\u2026</p>\n",
+    "protected": false
+  },
+  "author": 3,
+  "featured_media": 1696,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [5, 6, 30, 40, 28, 8, 100],
+  "tags": [104, 150, 12, 130, 14, 98, 87, 149, 16, 148, 46],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>What&#039;s the Best Siding for Your <?php echo $row['country']; ?> Home? 4 Tips to Guide Your Choice - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"What&#039;s the Best Siding for Your <?php echo $row['country']; ?> Home? 4 Tips to Guide Your Choice - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Choosing your exterior siding is a big deal. After all, it has a huge impact on the whole look and feel of your home. The color is important, of course, but don&#8217;t forget that siding also adds to the texture of your house as well. In addition to how it looks, you&#8217;ll also want to\u2026\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2018-01-31T14:23:12+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:48:49+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2018/01/new-residential-home-siding-options-boston-.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1600\" />\n\t<meta property=\"og:image:height\" content=\"1132\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"pflood\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"pflood\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/\"},\"author\":{\"name\":\"pflood\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/efdb884fa68ac1170a581188b6d24d68\"},\"headline\":\"What&#8217;s the Best Siding for Your <?php echo $row['country']; ?> Home? 4 Tips to Guide Your Choice\",\"datePublished\":\"2018-01-31T14:23:12+00:00\",\"dateModified\":\"2023-09-11T13:48:49+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/\"},\"wordCount\":618,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?> Building\",\"<?php echo $row['country']; ?> Home\",\"Building Supplier\",\"Contractor\",\"Downtown <?php echo $row['country']; ?>\",\"Exterior Siding\",\"Home Remodeling\",\"Lumber and Building Supplies\",\"Remodeler\",\"Siding\",\"Triple Decker\"],\"articleSection\":[\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Building Trends\",\"Contractor\",\"Homeowner\",\"Remodeler\",\"Triple Decker\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/\",\"url\":\"https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/\",\"name\":\"What's the Best Siding for Your <?php echo $row['country']; ?> Home? 4 Tips to Guide Your Choice - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2018-01-31T14:23:12+00:00\",\"dateModified\":\"2023-09-11T13:48:49+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/efdb884fa68ac1170a581188b6d24d68\",\"name\":\"pflood\",\"url\":\"https://<?php echo $row['url']; ?>/author/pflood/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "What's the Best Siding for Your <?php echo $row['country']; ?> Home? 4 Tips to Guide Your Choice - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "What's the Best Siding for Your <?php echo $row['country']; ?> Home? 4 Tips to Guide Your Choice - <?php echo $row['name']; ?> ",
+    "og_description": "Choosing your exterior siding is a big deal. After all, it has a huge impact on the whole look and feel of your home. The color is important, of course, but don&#8217;t forget that siding also adds to the texture of your house as well. In addition to how it looks, you&#8217;ll also want to\u2026",
+    "og_url": "https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2018-01-31T14:23:12+00:00",
+    "article_modified_time": "2023-09-11T13:48:49+00:00",
+    "og_image": [
+      {
+        "width": 1600,
+        "height": 1132,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2018/01/new-residential-home-siding-options-boston-.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "pflood",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "pflood",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/"
+          },
+          "author": {
+            "name": "pflood",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/efdb884fa68ac1170a581188b6d24d68"
+          },
+          "headline": "What&#8217;s the Best Siding for Your <?php echo $row['country']; ?> Home? 4 Tips to Guide Your Choice",
+          "datePublished": "2018-01-31T14:23:12+00:00",
+          "dateModified": "2023-09-11T13:48:49+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/"
+          },
+          "wordCount": 618,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": [
+            "<?php echo $row['country']; ?> Building",
+            "<?php echo $row['country']; ?> Home",
+            "Building Supplier",
+            "Contractor",
+            "Downtown <?php echo $row['country']; ?>",
+            "Exterior Siding",
+            "Home Remodeling",
+            "Lumber and Building Supplies",
+            "Remodeler",
+            "Siding",
+            "Triple Decker"
+          ],
+          "articleSection": [
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Building Trends",
+            "Contractor",
+            "Homeowner",
+            "Remodeler",
+            "Triple Decker"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/",
+          "url": "https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/",
+          "name": "What's the Best Siding for Your <?php echo $row['country']; ?> Home? 4 Tips to Guide Your Choice - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2018-01-31T14:23:12+00:00",
+          "dateModified": "2023-09-11T13:48:49+00:00",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/whats-the-best-siding-for-your-boston-home/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/efdb884fa68ac1170a581188b6d24d68",
+          "name": "pflood",
+          "url": "https://<?php echo $row['url']; ?>/author/pflood/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/1695" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/3"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=1695"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/1695/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/1696"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=1695"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=1695"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=1695"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

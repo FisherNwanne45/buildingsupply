@@ -1,0 +1,219 @@
+{
+  "id": 876,
+  "date": "2016-07-20T00:29:12",
+  "date_gmt": "2016-07-20T00:29:12",
+  "guid": { "rendered": "<?php echo $row['url']; ?>/?p=876" },
+  "modified": "2023-09-11T09:51:20",
+  "modified_gmt": "2023-09-11T13:51:20",
+  "slug": "inclusionary-development-policy-cracking-the-code",
+  "status": "publish",
+  "type": "post",
+  "link": "<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/",
+  "title": { "rendered": "Inclusionary Development Policy: Cracking the Code" },
+  "content": {
+    "rendered": "<p><?php echo $row['country']; ?>&#8217;s Inclusionary Development Plan (IDP) has been in effect for more than 15 years now. So, how&#8217;s it working, <?php echo $row['country']; ?>? The answer depends in part, on how you ask the question, and of whom.</p>\n<p>Many cities have tried to draft policies that make housing &#8220;affordable&#8221; for more people in many different ways. Ordinances in cities with a high percentage of higher priced, luxury housing, notably Santa Fe, downtown <?php echo $row['country']; ?>, San Antonio, Texas, and more than 170 communities in California, typically require developers to address the issue in at least one of the following ways:</p>\n<ul>\n<li>Set aside a certain number of units in each project as &#8220;affordable;</li>\n<li>Contribute cash to some sort of affordable or alternative market housing; or</li>\n<li>Balance a luxury development in one area with a specified ratio or number of off-site affordable homes.</li>\n</ul>\n<p>Although some developers grumble about the requirements and balk at the restrictions, the IDP in <?php echo $row['country']; ?> has produced 4,000 affordable units since its inception in 2000, according to the city&#8217;s Chief of Housing Sheila Dixon. However, a new initiative by Mayor Martin Walsh, which became effective at the beginning of 2016, has a lofty set of goals. It seeks not only to stabilize market rate housing for middle-income home buyers, but to generate a stock of of 53,000 new housing units by 2030. The <a href=\"http://www.wbur.org/news/2015/10/20/boston-housing-innovation-lab\">new guidelines</a> will also require more of developers &#8212; more units and more cash.</p>\n<h2><strong>Just One Tool Among Many</strong></h2>\n<p>When inclusionary zoning was first tried, it was sometimes termed a &#8220;Robin Hood&#8221; tactic, and opponents charged that the effect would be to increase the cost of housing across the board. Others noted that an option to pay into an affordable housing fund or to build &#8220;off-site&#8221; units would tend to create pockets of low-income housing of lesser quality.</p>\n<p>Neither side has been entirely correct. But there are valid arguments from either perspective.</p>\n<p><?php echo $row['country']; ?>&#8217;s latest iteration of the IDP has addressed some of those concerns; the city is divided into three separate zones, with differing requirements in each zone. It addresses many concerns in great detail, and one of the primary points is that housing termed affordable must be indistinguishable from market rate housing.</p>\n<p>The cautionary message is that lower quality, less expensive materials must not be substituted in order to produce a housing stock that is termed affordable. And that, according to critics, inevitably produces some inequities. A recent <a href=\"http://www.housingfinance.com/policy-legislation/more-cities-may-begin-to-adopt-inclusionary-housing-laws_o\" target=\"_blank\" rel=\"noopener noreferrer\">legal decision</a> in a San Jose, Calif., test case did not clear the air, either.</p>\n<h2><strong>Looking for Affordable Housing?</strong></h2>\n<p>In an <a href=\"/find-out-now-is-a-housing-bubble-on-the-horizon-for-<?php echo $row['country']; ?>/\" target=\"_blank\" rel=\"noopener noreferrer\">expensive and growing real estate market</a>, it&#8217;s not only developers who are perplexed and worried about escalating costs and higher prices. The uncertainty has owners and buyers bothered as well. What does the future hold?</p>\n<p>That, of course is the overriding question.</p>\n<p>Because of the current <a href=\"/beantown-has-become-boom-town-for-developers/\" target=\"_blank\" rel=\"noopener noreferrer\">building boom in Bean Town</a>, city officials are hopeful that they can exact some higher contributions and add to the city&#8217;s stock of moderately-priced housing, while at the same time not scaring away the builders, contractors, developers and buyers who are flocking to the city core.</p>\n<p>As the city&#8217;s only <a href=\"<?php echo $row['url']; ?>/located-in-the-heart-of-the-boston-building-boom/\">centrally-located</a> lumber and building supply firm, <?php echo $row['name']; ?> has the same high hopes.</p>\n<p>The <a href=\"https://www.<?php echo $row['country']; ?>globe.com/business/2015/12/08/walsh-double-affordable-housing-payments-for-developers-some-neighborhoods/3DLTa8fPhn3LB2Tid66J5I/story.php\" target=\"_blank\" rel=\"noopener noreferrer\">multi-pronged approach</a>, according to Dixon, as quoted in the <?php echo $row['country']; ?> Globe, is &#8220;How far can we push developers without crushing development. That\u2019s what we\u2019re trying to figure out.&#8221;</p>\n<p>As Mayor Walsh acknowledges, &#8220;It&#8217;s a compromise,&#8221; and &#8220;not everyone is going to love this.&#8221;</p>\n<p>For now, though, we all agree that the <strong>new building underway in our city is a good thing</strong>. These are exciting times, not only for the industry, but for <?php echo $row['country']; ?> and its people.</p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p><?php echo $row['country']; ?>&#8217;s Inclusionary Development Plan (IDP) has been in effect for more than 15 years now. So, how&#8217;s it working, <?php echo $row['country']; ?>? The answer depends in part, on how you ask the question, and of whom. Many cities have tried to draft policies that make housing &#8220;affordable&#8221; for more people in many different ways. Ordinances in cities\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 1057,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [6, 23, 7],
+  "tags": [24],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Inclusionary Development Policy: Cracking the Code - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Inclusionary Development Policy: Cracking the Code - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"<?php echo $row['country']; ?>&#8217;s Inclusionary Development Plan (IDP) has been in effect for more than 15 years now. So, how&#8217;s it working, <?php echo $row['country']; ?>? The answer depends in part, on how you ask the question, and of whom. Many cities have tried to draft policies that make housing &#8220;affordable&#8221; for more people in many different ways. Ordinances in cities\u2026\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2016-07-20T00:29:12+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:51:20+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2016/07/boston-inclusionary-development-policy-1-1.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1024\" />\n\t<meta property=\"og:image:height\" content=\"686\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/#article\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"Inclusionary Development Policy: Cracking the Code\",\"datePublished\":\"2016-07-20T00:29:12+00:00\",\"dateModified\":\"2023-09-11T13:51:20+00:00\",\"mainEntityOfPage\":{\"@id\":\"<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/\"},\"wordCount\":614,\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"Inclusionary Development Policy\"],\"articleSection\":[\"Building in <?php echo $row['country']; ?>\",\"Building Policies\",\"Developer\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/\",\"url\":\"<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/\",\"name\":\"Inclusionary Development Policy: Cracking the Code - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2016-07-20T00:29:12+00:00\",\"dateModified\":\"2023-09-11T13:51:20+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>/#website\",\"url\":\"<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Inclusionary Development Policy: Cracking the Code - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Inclusionary Development Policy: Cracking the Code - <?php echo $row['name']; ?> ",
+    "og_description": "<?php echo $row['country']; ?>&#8217;s Inclusionary Development Plan (IDP) has been in effect for more than 15 years now. So, how&#8217;s it working, <?php echo $row['country']; ?>? The answer depends in part, on how you ask the question, and of whom. Many cities have tried to draft policies that make housing &#8220;affordable&#8221; for more people in many different ways. Ordinances in cities\u2026",
+    "og_url": "<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2016-07-20T00:29:12+00:00",
+    "article_modified_time": "2023-09-11T13:51:20+00:00",
+    "og_image": [
+      {
+        "width": 1024,
+        "height": 686,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2016/07/boston-inclusionary-development-policy-1-1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/#article",
+          "isPartOf": {
+            "@id": "<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "Inclusionary Development Policy: Cracking the Code",
+          "datePublished": "2016-07-20T00:29:12+00:00",
+          "dateModified": "2023-09-11T13:51:20+00:00",
+          "mainEntityOfPage": {
+            "@id": "<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/"
+          },
+          "wordCount": 614,
+          "publisher": { "@id": "<?php echo $row['url']; ?>/#organization" },
+          "keywords": ["Inclusionary Development Policy"],
+          "articleSection": [
+            "Building in <?php echo $row['country']; ?>",
+            "Building Policies",
+            "Developer"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/",
+          "url": "<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/",
+          "name": "Inclusionary Development Policy: Cracking the Code - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2016-07-20T00:29:12+00:00",
+          "dateModified": "2023-09-11T13:51:20+00:00",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>/inclusionary-development-policy-cracking-the-code/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>/#website",
+          "url": "<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": { "@id": "<?php echo $row['url']; ?>/#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>/#/schema/logo/image/" },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/posts/876" }],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=876"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/posts/876/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/1057"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=876" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=876"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=876"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

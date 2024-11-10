@@ -1,0 +1,253 @@
+{
+  "id": 2146,
+  "date": "2018-11-28T08:30:44",
+  "date_gmt": "2018-11-28T13:30:44",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2146" },
+  "modified": "2023-09-11T09:48:00",
+  "modified_gmt": "2023-09-11T13:48:00",
+  "slug": "fiberglass-vs-vinyl-windows-for-your-boston-residential-home",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/",
+  "title": {
+    "rendered": "Fiberglass vs. Vinyl Windows for Your <?php echo $row['country']; ?> Residential Home"
+  },
+  "content": {
+    "rendered": "<p>Whether you\u2019re building a new home or looking to upgrade existing <a href=\"https://<?php echo $row['url']; ?>/tips-choosing-windows-for-new-boston-development/\">windows</a>, two popular choices include <a href=\"https://www.thespruce.com/vinyl-vs-fiberglass-windows-1822916\" target=\"_blank\" rel=\"noopener noreferrer\">fiberglass vs. vinyl</a>. Both are good choices, but fiberglass does have a few advantages over vinyl. Of course, you\u2019ll pay a premium for fiberglass, but you may find the added cost worthwhile. Read on to learn more about these two materials so that you can choose the right windows for your home!</p>\n<h3><strong>Benefits of Fiberglass</strong></h3>\n<p>1.Durability</p>\n<p>There are lots of benefits to fiberglass windows. Chief among them is the durability. These windows are made to last, even against damaging UV sunlight and other environmental factors like salty sea air. In fact, fiberglass windows like&nbsp;<a href=\"https://www.marvin.com/integrity/features/ultrex-fiberglass\" target=\"_blank\" rel=\"noopener noreferrer\">Marvin\u2019s Ultrex windows</a>&nbsp;are up to eight times stronger than windows with vinyl frames. One of the only materials stronger than fiberglass is steel framing, which can be more expensive and more difficult to maintain.</p>\n<p>2. Breathable&nbsp;&nbsp;</p>\n<p>Fiberglass also stands up to temperature extremes. Where some windows may warp or crack as seasons shift between hot and cold, fiberglass is breathable, which means it doesn\u2019t expand and contract the way other materials do. This is important because it helps prevent drafts as the windows age. Vinyl, wood and other materials that are prone to shifting with temperature changes will often develop leaks around weather stripping and other seals, which degrades energy efficiency with time.</p>\n<p>3. Color Customization</p>\n<p>Another great benefit is that fiberglass can be painted. In most cases, your new fiberglass windows will come with a powder finish that won\u2019t need maintenance as the years go by. However, if you\u2019d like to change the look of your home, you can easily change the colors with a coat of paint. And, if you like the look of wood, this is another advantage that fiberglass has over vinyl. You can purchase fiberglass frames that are made to look like wood, whereas vinyl only comes in a few select solid colors.</p>\n<p>4. Environmentally Friendly + Energy Efficient</p>\n<p>If you have concerns about the environment and energy efficiency, fiberglass is unique in that it doesn\u2019t emit volatile organic compounds (VOCs) over the course of its life. Additionally, these are <a href=\"https://<?php echo $row['url']; ?>/5-questions-answered-about-energy-efficient-windows/\" target=\"_blank\" rel=\"noopener noreferrer\">energy efficient windows</a> \u2014 the frames perform as well as vinyl when it comes to thermal transfer.</p>\n<p>5. Increase Home Value&nbsp;</p>\n<p>Finally, there is home value to consider. Fiberglass is considered by most to be an upscale material, which means if you\u2019re looking to sell the home, these windows will add a bit more to the sale price than vinyl.</p>\n<h3><strong>What about Vinyl Windows?</strong></h3>\n<p>Vinyl windows perform similarly to fiberglass in that they tend to be energy efficient and they won\u2019t need much maintenance over their lifespan. One benefit to vinyl over fiberglass, however, is that it usually costs less to buy vinyl windows. On average, you can expect to save 30% on the cost of windows if you go with vinyl instead of fiberglass. But, for that reduced cost, you\u2019ll also lose some durability, since fiberglass windows are stronger and less likely to warp. Vinyl isn\u2019t considered as eco-friendly, either. While you\u2019ll get similar energy savings as you would with fiberglass, fiberglass is made with up to 60% glass, which is a recyclable material.</p>\n<h3><strong><?php echo $row['country']; ?> Developers Love Fiberglass Windows</strong></h3>\n<p>If you\u2019d like to learn more about <a href=\"https://<?php echo $row['url']; ?>/discover/\" target=\"_blank\" rel=\"noopener noreferrer\">Marvin\u2019s line of Integrity Windows and Doors</a>, check out the video below, in which Kathleen Way, a <?php echo $row['country']; ?> developer, uses Ultrex fiberglass windows in a new construction project.</p>\n<p><iframe loading=\"lazy\" src=\"https://www.youtube.com/embed/5SWeXBXTbZM\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Whether you\u2019re building a new home or looking to upgrade existing windows, two popular choices include fiberglass vs. vinyl. Both are good choices, but fiberglass does have a few advantages over vinyl. Of course, you\u2019ll pay a premium for fiberglass, but you may find the added cost worthwhile. Read on to learn more about these\u2026</p>\n",
+    "protected": false
+  },
+  "author": 6,
+  "featured_media": 2147,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [37, 5, 30, 40, 7, 8, 100],
+  "tags": [9, 104, 38, 55, 10, 12, 17, 18, 220, 221, 61, 15, 219, 42, 123],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Fiberglass vs. Vinyl Windows for Your <?php echo $row['country']; ?> Residential Home - <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"Two popular window choices when upgrading or building a new home are fiberglass and vinyl. Five fiberglass window advantages over vinyl. While you will pay a premium for fiberglass, their are 5 key advantages that make the added cost worthwhile.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Fiberglass vs. Vinyl Windows for Your <?php echo $row['country']; ?> Residential Home - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Two popular window choices when upgrading or building a new home are fiberglass and vinyl. Five fiberglass window advantages over vinyl. While you will pay a premium for fiberglass, their are 5 key advantages that make the added cost worthwhile.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2018-11-28T13:30:44+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:48:00+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2018/11/Integrity-Fiberglass-Windows.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1024\" />\n\t<meta property=\"og:image:height\" content=\"606\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"Richie\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Richie\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/\"},\"author\":{\"name\":\"Richie\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77\"},\"headline\":\"Fiberglass vs. Vinyl Windows for Your <?php echo $row['country']; ?> Residential Home\",\"datePublished\":\"2018-11-28T13:30:44+00:00\",\"dateModified\":\"2023-09-11T13:48:00+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/\"},\"wordCount\":591,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"<?php echo $row['country']; ?> Building\",\"<?php echo $row['country']; ?> Condo\",\"<?php echo $row['country']; ?> Homeowner\",\"Builder\",\"Building Supplier\",\"Commercial Development\",\"Downtown <?php echo $row['country']; ?> Residential Building\",\"Energy Efficient windows\",\"Fiberglass Windows\",\"Home Improvement Contractor\",\"Lumber and Building Materials\",\"Vinyl Windows\",\"Window Replacement\",\"Windows\"],\"articleSection\":[\"<?php echo $row['country']; ?> Condo\",\"Builder\",\"Building Trends\",\"Contractor\",\"Developer\",\"Remodeler\",\"Triple Decker\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/\",\"url\":\"https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/\",\"name\":\"Fiberglass vs. Vinyl Windows for Your <?php echo $row['country']; ?> Residential Home - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2018-11-28T13:30:44+00:00\",\"dateModified\":\"2023-09-11T13:48:00+00:00\",\"description\":\"Two popular window choices when upgrading or building a new home are fiberglass and vinyl. Five fiberglass window advantages over vinyl. While you will pay a premium for fiberglass, their are 5 key advantages that make the added cost worthwhile.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77\",\"name\":\"Richie\",\"url\":\"https://<?php echo $row['url']; ?>/author/richie/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Fiberglass vs. Vinyl Windows for Your <?php echo $row['country']; ?> Residential Home - <?php echo $row['name']; ?> ",
+    "description": "Two popular window choices when upgrading or building a new home are fiberglass and vinyl. Five fiberglass window advantages over vinyl. While you will pay a premium for fiberglass, their are 5 key advantages that make the added cost worthwhile.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Fiberglass vs. Vinyl Windows for Your <?php echo $row['country']; ?> Residential Home - <?php echo $row['name']; ?> ",
+    "og_description": "Two popular window choices when upgrading or building a new home are fiberglass and vinyl. Five fiberglass window advantages over vinyl. While you will pay a premium for fiberglass, their are 5 key advantages that make the added cost worthwhile.",
+    "og_url": "https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2018-11-28T13:30:44+00:00",
+    "article_modified_time": "2023-09-11T13:48:00+00:00",
+    "og_image": [
+      {
+        "width": 1024,
+        "height": 606,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2018/11/Integrity-Fiberglass-Windows.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "Richie",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "Richie",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/"
+          },
+          "author": {
+            "name": "Richie",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77"
+          },
+          "headline": "Fiberglass vs. Vinyl Windows for Your <?php echo $row['country']; ?> Residential Home",
+          "datePublished": "2018-11-28T13:30:44+00:00",
+          "dateModified": "2023-09-11T13:48:00+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/"
+          },
+          "wordCount": 591,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "<?php echo $row['country']; ?> Building",
+            "<?php echo $row['country']; ?> Condo",
+            "<?php echo $row['country']; ?> Homeowner",
+            "Builder",
+            "Building Supplier",
+            "Commercial Development",
+            "Downtown <?php echo $row['country']; ?> Residential Building",
+            "Energy Efficient windows",
+            "Fiberglass Windows",
+            "Home Improvement Contractor",
+            "Lumber and Building Materials",
+            "Vinyl Windows",
+            "Window Replacement",
+            "Windows"
+          ],
+          "articleSection": [
+            "<?php echo $row['country']; ?> Condo",
+            "Builder",
+            "Building Trends",
+            "Contractor",
+            "Developer",
+            "Remodeler",
+            "Triple Decker"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/",
+          "url": "https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/",
+          "name": "Fiberglass vs. Vinyl Windows for Your <?php echo $row['country']; ?> Residential Home - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2018-11-28T13:30:44+00:00",
+          "dateModified": "2023-09-11T13:48:00+00:00",
+          "description": "Two popular window choices when upgrading or building a new home are fiberglass and vinyl. Five fiberglass window advantages over vinyl. While you will pay a premium for fiberglass, their are 5 key advantages that make the added cost worthwhile.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77",
+          "name": "Richie",
+          "url": "https://<?php echo $row['url']; ?>/author/richie/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2146" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/6"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2146"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2146/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2147"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2146"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2146"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2146"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

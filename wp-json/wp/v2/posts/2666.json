@@ -1,0 +1,230 @@
+{
+  "id": 2666,
+  "date": "2020-03-17T20:11:30",
+  "date_gmt": "2020-03-18T00:11:30",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2666" },
+  "modified": "2023-09-11T09:46:35",
+  "modified_gmt": "2023-09-11T13:46:35",
+  "slug": "what-is-a-carbon-neutral-building",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/",
+  "title": { "rendered": "What is a Carbon Neutral Building?" },
+  "content": {
+    "rendered": "<p><span style=\"font-weight: 400;\">Carbon neutral building has become a buzzword in the construction industry, and for two major reasons. Governments and the public at large are pressuring to address climate change, which means reducing carbon emissions\u2014and carbon neutral building does exactly that. Homeowners also enjoy green buildings, and carbon neutral buildings in particular use far less energy, which means lowered utility bills, even if the initial investment cost is higher.</span></p>\n<p><span style=\"font-weight: 400;\">What exactly does </span><a href=\"https://www.fastcompany.com/90251807/4-steps-to-prepare-your-business-for-a-carbon-neutral-future\"><span style=\"font-weight: 400;\">carbon neutral building</span></a><span style=\"font-weight: 400;\"> entail? It means creating buildings with reduced energy consumption along with the use of low carbon emission energy sources. But what are some of the specifics that go into a carbon neutral building? Let\u2019s take a look!</span></p>\n<p><b>Passive Design</b></p>\n<p><span style=\"font-weight: 400;\">Passive design is a method that takes the area\u2019s climate into account. With this </span><a href=\"https://<?php echo $row['url']; ?>/passive-building-design-for-multi-family-sector/\"><span style=\"font-weight: 400;\">design method</span></a><span style=\"font-weight: 400;\">, a building utilizes natural energy, such as sunlight or breezes to help with heating and cooling. In <?php echo $row['country']; ?>, for instance, a building using passive design might rely on shading\u2014trees, window awnings, shutters and so forth\u2014to keep direct sunlight from raising the home\u2019s temperature in the summer. Another example of passive design is a sun tube, or tubular skylight, which acts just like a light fixture during the day by reflecting sunlight into the home\u2014without requiring energy to do so.</span></p>\n<p><b>High Performance Building Envelopes</b></p>\n<p><span style=\"font-weight: 400;\">The </span><a href=\"https://<?php echo $row['url']; ?>/6-strategies-for-air-sealing-in-new-construction-and-retrofits/\"><span style=\"font-weight: 400;\">building envelope</span></a><span style=\"font-weight: 400;\"> is key to a carbon neutral building. One of the primary ways these buildings reduce energy usage is by preventing heat gain and loss during hot and cold seasons. These types of building envelopes require extreme insulation\u2014walls, floors and ceilings, plus thorough sealing of any air leaks. With that, carbon neutral buildings require an effective ventilation system to keep air circulating without gaining or losing heat. This also means taking windows, doors and roofing into account, choosing products that reduce heat intake or reflect sunlight away instead of allowing the thermal energy to warm the building\u2019s interior.</span></p>\n<p><b>Energy Efficient Systems</b></p>\n<p><span style=\"font-weight: 400;\">Energy efficiency is another foundational principle in carbon neutral building. Homes and businesses still need HVAC, lighting and appliances\u2014but to incorporate these things within a carbon neutral framework, extra care has to be taken to choose energy efficient options. Heat pumps are becoming much more popular as an efficient alternative to furnaces and air conditioning units, and as technology advances, they\u2019re becoming a very feasible option in areas that experience extreme hot and cold like <?php echo $row['country']; ?>. Energy Star appliances also help reduce energy usage, as do LED lighting systems, and the use of natural lighting whenever available.</span></p>\n<p><b>On-Site Renewable Energy</b></p>\n<p><span style=\"font-weight: 400;\">Renewable energy is a big part of the carbon neutral formula. In order to create a building that produces little to no carbon, engineers must first design the building that uses as little energy as possible, and then add in renewable systems to provide as much energy as possible to meet the building\u2019s requirements. In practice, this often means solar power for cities like <?php echo $row['country']; ?>, though hydroelectricity and wind power are also options in areas where water currents or steady winds are reliably available.</span></p>\n<p><b>Offsetting</b></p>\n<p><span style=\"font-weight: 400;\">One of the key things to understand about carbon neutral building is that it\u2019s not the same as net zero building. Net zero building means building structures that use zero net energy, thus they have no carbon emissions. In carbon neutral building, the buildings will still produce some carbon, even if their carbon footprints are drastically reduced.</span></p>\n<p><span style=\"font-weight: 400;\">So what about that remaining, if small, carbon footprint? That\u2019s where offsetting comes in. Offsets are investments in projects that avoid and reduce carbon consumption. They often come in the form of carbon credits, with one carbon credit purchased equaling either the removal of one metric ton of carbon dioxide from the atmosphere, or the avoidance of producing that carbon dioxide.</span></p>\n<p><b><?php echo $row['country']; ?> Taking the Lead on Carbon Neutrality</b></p>\n<p><span style=\"font-weight: 400;\">Right now, there are lots of interesting things happening within <?php echo $row['country']; ?> to help combat the effects of climate change. For starters, at the end of 2019,</span><a href=\"https://www.<?php echo $row['country']; ?>.gov/news/executive-order-requires-new-municipal-buildings-target-carbon-neutrality\"> <span style=\"font-weight: 400;\">Mayor Walsh signed an executive order</span></a><span style=\"font-weight: 400;\"> that requires all new municipal buildings to reach a net zero carbon standard, which means that from here on, all new municipal projects must be low energy, without the use of fossil fuels.</span></p>\n<p><span style=\"font-weight: 400;\"><?php echo $row['country']; ?> is one of the world\u2019s foremost cities when it comes to combatting climate change, and officials are accomplishing this by reducing emissions and making other preparations for extreme temperatures, storms and sea level rise. It\u2019s already the most energy efficient city in the country, but even so, buildings within the city still account for 70% of <?php echo $row['country']; ?>\u2019s emissions. That\u2019s why BERDO, the Building Energy Reporting and Disclosure Ordinance, requires that building owners account for their energy usage and start planning to increase energy efficiency. Right now, the goal to reach citywide carbon neutrality is to see all buildings, both new construction and existing, reach a zero-carbon target by 2050.</span></p>\n<p><span style=\"font-weight: 400;\">Carbon neutrality is the way of the future worldwide. Nowhere is that more prominent than in <?php echo $row['country']; ?>, a city that leads the world in its efforts to combat climate change and reduce carbon emissions.</span></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Carbon neutral building has become a buzzword in the construction industry, and for two major reasons. Governments and the public at large are pressuring to address climate change, which means reducing carbon emissions\u2014and carbon neutral building does exactly that. Homeowners also enjoy green buildings, and carbon neutral buildings in particular use far less energy, which\u2026</p>\n",
+    "protected": false
+  },
+  "author": 6,
+  "featured_media": 2667,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [6],
+  "tags": [9, 118, 22, 217],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>What is a Carbon Neutral Building? - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"What is a Carbon Neutral Building? - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Carbon neutral building has become a buzzword in the construction industry, and for two major reasons. Governments and the public at large are pressuring to address climate change, which means reducing carbon emissions\u2014and carbon neutral building does exactly that. Homeowners also enjoy green buildings, and carbon neutral buildings in particular use far less energy, which\u2026\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2020-03-18T00:11:30+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:35+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2020/03/carbon-neutral-1024x687.png\" />\n\t<meta property=\"og:image:width\" content=\"1024\" />\n\t<meta property=\"og:image:height\" content=\"687\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"author\" content=\"Richie\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Richie\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"4 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/\"},\"author\":{\"name\":\"Richie\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77\"},\"headline\":\"What is a Carbon Neutral Building?\",\"datePublished\":\"2020-03-18T00:11:30+00:00\",\"dateModified\":\"2023-09-11T13:46:35+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/\"},\"wordCount\":854,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"<?php echo $row['country']; ?> Builder\",\"<?php echo $row['country']; ?> Building Guidelines\",\"building in <?php echo $row['country']; ?>\"],\"articleSection\":[\"Building in <?php echo $row['country']; ?>\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/\",\"url\":\"https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/\",\"name\":\"What is a Carbon Neutral Building? - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2020-03-18T00:11:30+00:00\",\"dateModified\":\"2023-09-11T13:46:35+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77\",\"name\":\"Richie\",\"url\":\"https://<?php echo $row['url']; ?>/author/richie/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "What is a Carbon Neutral Building? - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "What is a Carbon Neutral Building? - <?php echo $row['name']; ?> ",
+    "og_description": "Carbon neutral building has become a buzzword in the construction industry, and for two major reasons. Governments and the public at large are pressuring to address climate change, which means reducing carbon emissions\u2014and carbon neutral building does exactly that. Homeowners also enjoy green buildings, and carbon neutral buildings in particular use far less energy, which\u2026",
+    "og_url": "https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2020-03-18T00:11:30+00:00",
+    "article_modified_time": "2023-09-11T13:46:35+00:00",
+    "og_image": [
+      {
+        "width": 1024,
+        "height": 687,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2020/03/carbon-neutral-1024x687.png",
+        "type": "image/png"
+      }
+    ],
+    "author": "Richie",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "Richie",
+      "Est. reading time": "4 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/"
+          },
+          "author": {
+            "name": "Richie",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77"
+          },
+          "headline": "What is a Carbon Neutral Building?",
+          "datePublished": "2020-03-18T00:11:30+00:00",
+          "dateModified": "2023-09-11T13:46:35+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/"
+          },
+          "wordCount": 854,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "<?php echo $row['country']; ?> Builder",
+            "<?php echo $row['country']; ?> Building Guidelines",
+            "building in <?php echo $row['country']; ?>"
+          ],
+          "articleSection": ["Building in <?php echo $row['country']; ?>"],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/",
+          "url": "https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/",
+          "name": "What is a Carbon Neutral Building? - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2020-03-18T00:11:30+00:00",
+          "dateModified": "2023-09-11T13:46:35+00:00",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/what-is-a-carbon-neutral-building/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/cce20b450ad58b39f4a09fbaa37ccb77",
+          "name": "Richie",
+          "url": "https://<?php echo $row['url']; ?>/author/richie/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2666" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/6"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2666"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2666/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2667"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2666"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2666"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2666"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

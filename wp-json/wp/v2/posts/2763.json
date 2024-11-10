@@ -1,0 +1,233 @@
+{
+  "id": 2763,
+  "date": "2021-02-12T12:12:57",
+  "date_gmt": "2021-02-12T17:12:57",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2763" },
+  "modified": "2023-09-11T09:46:13",
+  "modified_gmt": "2023-09-11T13:46:13",
+  "slug": "designing-a-timeless-kitchen",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/",
+  "title": { "rendered": "5 Rules for Designing a Timeless Kitchen" },
+  "content": {
+    "rendered": "<p>It\u2019s almost that time of year\u2014home improvement time! Whether you are building a kitchen from scratch or renovating a fix and flip, it\u2019s important to make sure the kitchen you build is timeless.</p>\n<p>Many popular home improvement shows love to display beautiful renovated kitchens with sleek appliances, modern flares, and bright accents. Although these trendy kitchens get us excited about our own kitchen renovation possibilities, it\u2019s important to think about what will always be \u201cin\u201d. Designing a timeless kitchen will not only bring lasting beauty to your space, but it will also save you from constant renovation projects.</p>\n<p>Creating a timeless kitchen is actually quite easy\u2014here are a few tips to help you get started.</p>\n<h2>1. Neutral Colors</h2>\n<p>Even though orange accents are popular right now, will they still be popular in 10 or 20 years? You might love a certain color or style right now, but just like everything else, kitchen design trends are constantly changing.</p>\n<p>Using <a href=\"https://<?php echo $row['url']; ?>/5-tried-and-true-kitchen-color-schemes/\">neutral colors</a> will ensure a classic and finished look\u2014grays, whites, browns, and blacks are all colors that will always stay in style. However, this doesn\u2019t mean you can\u2019t put a personal touch in your new kitchen with your favorite color trends. Accent the space with fun area rugs, backsplash, tablecloths/table runners, curtains, flower arrangements, and other decor.</p>\n<h2>2. Stone Countertops</h2>\n<p>Stone countertops are one kitchen trend that you can always expect to be in style. Quartz and granite countertops are durable and easy to clean while giving a constant sparkle to your kitchen. No matter what colors you like, a neutral stone countertop will match your kitchen design and style as an attractive center of attention for years to come.</p>\n<h2>3. Subway Tile</h2>\n<p>Another timeless kitchen tradition is subway tile\u2014it\u2019s affordable, beautiful, and classic. Subway tile can add some personality to your kitchen while giving it a clean and finished look. Whether you use it as an accent wall or backsplash, subway tile is a great decorative addition to any kitchen.</p>\n<h2>4. Shaker Style Cabinets</h2>\n<p>One of the biggest benefits of using shaker style cabinets in your kitchen is that they are affordable and versatile. Shaker style cabinets are easy to construct and repair, which means that you won\u2019t break the bank if a cabinet breaks. Plus, their sleek and decorative look will match any type of kitchen from modern to traditional!</p>\n<h2>5. Glass Cabinet Doors</h2>\n<p>Although we love shaker style cabinets, let\u2019s not forget about our other favorite\u2014glass cabinet doors. Glass cabinet doors are an easy way to store glassware and brighten up your kitchen by showing off those beautiful serving platters and wedding china. Combined with the right lighting, glass cabinet doors create the illusion of a bigger space and openness, which is great for small condo or apartment kitchens in <?php echo $row['country']; ?>.</p>\n<h2>Don\u2019t Forget the Details</h2>\n<p>Choosing the right <a href=\"https://<?php echo $row['url']; ?>/resources/\">cabinets and countertops</a> for a timeless kitchen are important, but don\u2019t forget other important details when designing your kitchen. Remember to install high-quality appliances that with beauty and durability, as well as adequate overhead lighting that will provide visibility while cooking and compliment the space.</p>\n<p>Another mark of a great kitchen is openness and organization\u2014these two aspects never go out of style and are often a priority to home buyers when looking for the perfect kitchen. A great way to add value to your kitchen is by adding an island for extra workspace and installing wall shelves and drawer organizers.</p>\n<h2>Create a Timeless Kitchen With Your Local <?php echo $row['country']; ?> Kitchen Experts at NEBS</h2>\n<p>Now that you know how to design a timeless kitchen, it\u2019s time to build it! At NEBS, we help residential contractors and homeowners pick out the perfect additions for all your kitchen needs.</p>\n<p>Our kitchen experts can show you a variety of countertops and cabinets for your kitchen project. <a href=\"https://goo.gl/maps/NFAdpo2d7bmjyZqq7\">Stop by our showroom</a> or <a href=\"https://<?php echo $row['url']; ?>/contact-us/\">give us a call today</a> to begin building your timeless kitchen with NEBS!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>It\u2019s almost that time of year\u2014home improvement time! Whether you are building a kitchen from scratch or renovating a fix and flip, it\u2019s important to make sure the kitchen you build is timeless. Many popular home improvement shows love to display beautiful renovated kitchens with sleek appliances, modern flares, and bright accents. Although these trendy\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 2764,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [5, 30, 40, 28, 48, 8],
+  "tags": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>5 Rules for Designing a Timeless Kitchen \u2192 Design Tips from NEBS</title>\n<meta name=\"description\" content=\"When designing a kitchen, it\u2019s important to make it timeless. Here are five tips from <?php echo $row['name']; ?> to help you build a timeless kitchen.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"5 Rules for Designing a Timeless Kitchen \u2192 Design Tips from NEBS\" />\n<meta property=\"og:description\" content=\"When designing a kitchen, it\u2019s important to make it timeless. Here are five tips from <?php echo $row['name']; ?> to help you build a timeless kitchen.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2021-02-12T17:12:57+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:13+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2021/02/sidekix-media-KiUg-4xmTwo-unsplash-scaled-1.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1707\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"5 Rules for Designing a Timeless Kitchen\",\"datePublished\":\"2021-02-12T17:12:57+00:00\",\"dateModified\":\"2023-09-11T13:46:13+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/\"},\"wordCount\":665,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"articleSection\":[\"Builder\",\"Building Trends\",\"Contractor\",\"Homeowner\",\"Kitchen Design\",\"Remodeler\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/\",\"url\":\"https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/\",\"name\":\"5 Rules for Designing a Timeless Kitchen \u2192 Design Tips from NEBS\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2021-02-12T17:12:57+00:00\",\"dateModified\":\"2023-09-11T13:46:13+00:00\",\"description\":\"When designing a kitchen, it\u2019s important to make it timeless. Here are five tips from <?php echo $row['name']; ?> to help you build a timeless kitchen.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"https://<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "5 Rules for Designing a Timeless Kitchen \u2192 Design Tips from NEBS",
+    "description": "When designing a kitchen, it\u2019s important to make it timeless. Here are five tips from <?php echo $row['name']; ?> to help you build a timeless kitchen.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "5 Rules for Designing a Timeless Kitchen \u2192 Design Tips from NEBS",
+    "og_description": "When designing a kitchen, it\u2019s important to make it timeless. Here are five tips from <?php echo $row['name']; ?> to help you build a timeless kitchen.",
+    "og_url": "https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2021-02-12T17:12:57+00:00",
+    "article_modified_time": "2023-09-11T13:46:13+00:00",
+    "og_image": [
+      {
+        "width": 2560,
+        "height": 1707,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2021/02/sidekix-media-KiUg-4xmTwo-unsplash-scaled-1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "5 Rules for Designing a Timeless Kitchen",
+          "datePublished": "2021-02-12T17:12:57+00:00",
+          "dateModified": "2023-09-11T13:46:13+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/"
+          },
+          "wordCount": 665,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "articleSection": [
+            "Builder",
+            "Building Trends",
+            "Contractor",
+            "Homeowner",
+            "Kitchen Design",
+            "Remodeler"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/",
+          "url": "https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/",
+          "name": "5 Rules for Designing a Timeless Kitchen \u2192 Design Tips from NEBS",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2021-02-12T17:12:57+00:00",
+          "dateModified": "2023-09-11T13:46:13+00:00",
+          "description": "When designing a kitchen, it\u2019s important to make it timeless. Here are five tips from <?php echo $row['name']; ?> to help you build a timeless kitchen.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/designing-a-timeless-kitchen/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "https://<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2763" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2763"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2763/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2764"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2763"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2763"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2763"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

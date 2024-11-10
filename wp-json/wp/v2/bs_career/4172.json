@@ -1,0 +1,157 @@
+{
+  "id": 4172,
+  "date": "2024-09-09T10:11:27",
+  "date_gmt": "2024-09-09T14:11:27",
+  "guid": {
+    "rendered": "https://<?php echo $row['url']; ?>/?post_type=bs_career&#038;p=4172"
+  },
+  "modified": "2024-09-09T10:11:27",
+  "modified_gmt": "2024-09-09T14:11:27",
+  "slug": "lumber-yard-associate-2",
+  "status": "publish",
+  "type": "bs_career",
+  "link": "https://<?php echo $row['url']; ?>/career/lumber-yard-associate-2/",
+  "title": { "rendered": "Lumber Yard Associate" },
+  "content": {
+    "rendered": "\n<p>The Lumber Yard Associate will load customer orders, unload incoming inventory, assist in inventory control, and perform general housekeeping. <strong>Must have lumber yard forklift experience. </strong></p>\n\n\n\n<h3 class=\"wp-block-heading\">Major Responsibilities: </h3>\n\n\n\n<p>The following is a list of the major responsibilities of the Lumber Yard Associate: </p>\n\n\n\n<ul>\n<li>Perform cutting and packaging of materials, as directed, to prepare products for customer&#8217;s use &#8211; load building </li>\n\n\n\n<li>Load orders onto customer vehicles and company delivery vehicles.</li>\n\n\n\n<li>Maintain correct quantity of materials, ensuring correct inventory records. </li>\n\n\n\n<li>Review materials received for correct quantity of condition. </li>\n\n\n\n<li>Keep lumber yard and warehouse free of debris. </li>\n\n\n\n<li>Maintain and operate company equipment in a safe and efficient manner. </li>\n\n\n\n<li>Assist customers in the unloading of materials from our vehicles. </li>\n\n\n\n<li>Participate in loading, unloading, stocking, and pulling merchandise as necessary.</li>\n\n\n\n<li>Inspect and report to supervisor or manager, daily, all maintenance or safety related issues with equipment. </li>\n\n\n\n<li>Report all accidents in the Yard immediately to your supervisor (even if it is minor). Obtain all information about operator, vehicle, insurance, etc. If property damage or personal injury occurs, obtain all related information, including names, addresses, and types of damage or injury. Proper reports must be filled out completely and turned in to your supervisor on the day of the incident. </li>\n\n\n\n<li>Perform other duties as assigned. </li>\n</ul>\n\n\n\n<h3 class=\"wp-block-heading\">Knowledge, Skills and Abilities:</h3>\n\n\n\n<ul>\n<li>Industry experience and product knowledge preferred </li>\n\n\n\n<li>Hand truck and forklift required</li>\n\n\n\n<li>Tape measure required</li>\n\n\n\n<li>Customer focused</li>\n\n\n\n<li>Attention to detail</li>\n\n\n\n<li>Safety conscience</li>\n</ul>\n\n\n\n<p>Job Location: <?php echo $row['country']; ?>, MA<br>Status: Non-Exempt/Hourly<br>Starting range: $22-$24 (dependent on experience)</p>\n\n\n\n<p><?php echo $row['name']; ?>  is an equal opportunity and drug-free employer offering a great work environment for a motivated team member. We offer a competitive wage, health insurance, company paid life and disability insurance. 401k, and paid holidays/sick/vacation time.<br></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Load customer orders, unload incoming inventory, assist in inventory control and perform general housekeeping. Must have forklift experience.</p>\n",
+    "protected": false
+  },
+  "featured_media": 3073,
+  "menu_order": 0,
+  "template": "",
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Lumber Yard Associate - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/career/lumber-yard-associate-2/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Lumber Yard Associate - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Load customer orders, unload incoming inventory, assist in inventory control and perform general housekeeping. Must have forklift experience.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/career/lumber-yard-associate-2/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/careers-hero.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1181\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/career/lumber-yard-associate-2/\",\"url\":\"https://<?php echo $row['url']; ?>/career/lumber-yard-associate-2/\",\"name\":\"Lumber Yard Associate - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2024-09-09T14:11:27+00:00\",\"dateModified\":\"2024-09-09T14:11:27+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/career/lumber-yard-associate-2/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Lumber Yard Associate - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/career/lumber-yard-associate-2/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Lumber Yard Associate - <?php echo $row['name']; ?> ",
+    "og_description": "Load customer orders, unload incoming inventory, assist in inventory control and perform general housekeeping. Must have forklift experience.",
+    "og_url": "https://<?php echo $row['url']; ?>/career/lumber-yard-associate-2/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "og_image": [
+      {
+        "width": 2560,
+        "height": 1181,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/careers-hero.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": { "Est. reading time": "1 minute" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/career/lumber-yard-associate-2/",
+          "url": "https://<?php echo $row['url']; ?>/career/lumber-yard-associate-2/",
+          "name": "Lumber Yard Associate - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2024-09-09T14:11:27+00:00",
+          "dateModified": "2024-09-09T14:11:27+00:00",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/career/lumber-yard-associate-2/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/bs_career/4172"
+      }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/bs_career" }
+    ],
+    "about": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/bs_career"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/3073"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=4172"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

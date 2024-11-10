@@ -1,0 +1,235 @@
+{
+  "id": 2820,
+  "date": "2021-09-20T12:03:02",
+  "date_gmt": "2021-09-20T16:03:02",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2820" },
+  "modified": "2023-09-11T09:46:09",
+  "modified_gmt": "2023-09-11T13:46:09",
+  "slug": "maximize-small-kitchen",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/maximize-small-kitchen/",
+  "title": { "rendered": "10 Tips to Maximize Your Small Kitchen" },
+  "content": {
+    "rendered": "<p><span data-mce-type=\"bookmark\" style=\"width: 0px;overflow: hidden;line-height: 0\" class=\"mce_SELRES_start\"><span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">\ufeff</span><span data-mce-type=\"bookmark\" style=\"width: 0px;overflow: hidden;line-height: 0\" class=\"mce_SELRES_start\">\ufeff</span>\ufeff</span>Spacious kitchen renovations are always a sight to see, but unfortunately that\u2019s not realistic for most <?php echo $row['country']; ?>ians living in high-rise apartments and condos. </p>\n<p>\nIn an already busy city that continues to grow, developers and builders are building up instead of out, limiting space for consumers. So, what does this mean for your kitchen remodel? How do you maximize the small space you have to make it feel and look bigger?</p>\n<h2>Keep It Compact</h2>\n<p>Many manufacturers offer small appliances for areas with limited space, like 24-inch-deep refrigerators. Another pro tip to <a href=\"https://<?php echo $row['url']; ?>/kitchen-layout-ideas-for-every-home/\">maximize your kitchen space</a> is to hang small appliances such as microwaves to save counter space. </p>\n<h2>A Successful Center</h2>\n<p>A common misconception of small kitchen design is that you should leave the middle of your space open to make it feel more spacious. However, this is not the case\u2014maximize the space you have by putting in a <a href=\"https://<?php echo $row['url']; ?>/the-pros-and-cons-of-a-kitchen-island-for-your-boston-home/\">permanent or roll-away island</a> for storage and prep space.</p>\n<h2>The Glass Illusion</h2>\n<p>Fun fact: glass cabinet fronts lighten the look of cabinets because of their transparency, making the kitchen seem more expansive. This can also act as an opportunity to display your pretty statement pieces such as wine glasses, bowls, or china. </p>\n<h2>Expand Your Storage</h2>\n<p>There are often storage issues for small kitchen appliances, utensils, and decorations in small kitchens. Minimize clutter and <a href=\"https://<?php echo $row['url']; ?>/6-must-have-kitchen-cabinet-organizers-and-accessories-2/\">expand storage space</a> by installing deep cabinets, drawers, and countertops. You can also get cabinet and drawer inserts to help with organization.</p>\n<h2>Merge &#038; Maximize</h2>\n<p>If you have an open floorplan, an easy way to maximize your kitchen space is by overflowing your kitchen into a bigger space like your living room or combining the two. A great way to do this is to put a small table and chairs in your kitchen to combine the kitchen and \u201cdining room\u201d or use your counter or island as a bar area. </p>\n<h2>Get Rid of Clutter</h2>\n<p>Messy and cluttered rooms often make a space look smaller\u2014minimize overcrowded shelves and countertops to make the space look bigger. Choose which items you want to display in the open and hide the rest in the pantry, drawers, and cabinets.</p>\n<h2>Open It Up</h2>\n<p>Open shelving such as glass cabinets or floating shelves not only improve visuals and aesthetics, but they also reduce visual weight with a sleek look while acting as storage for kitchen accessories. You can also decorate your shelving with plants, photos, or other d\u00e9cor.</p>\n<h2>Consistent Colors</h2>\n<p>Matching the paint color of your cabinets and wall color will erase the visual boundary created by two different colors in a small space. If you\u2019ve hopped on the <a href=\"https://<?php echo $row['url']; ?>/9-tips-for-two-tone-kitchen-cabinets-in-a-small-kitchen/\">two-tone cabinet</a> bandwagon, it\u2019s a good idea to choose two colors that are close in shade with only a subtle difference.</p>\n<h2>Bigger Isn&#8217;t Always Better</h2>\n<p>Usually, you\u2019ll choose furnishings that will fill your space, but in the case of a small kitchen, don\u2019t. The floorspace of small room is valuable, so don\u2019t waste it with a big table or island. Instead, opt for sleek and thin pieces to limit physical and visual bulk. </p>\n<h2>Clean Is Key</h2>\n<p>If you\u2019re a <a href=\"https://<?php echo $row['url']; ?>/minimalist-kitchen-design-tips-for-boston-homeowners/\">minimalist</a>, designing a small kitchen is right in your wheelhouse. For those who prefer more decorations and details, try to keep these aspects limited and only show them off in a select few places\u2014clean lines will create a roomier feel. </p>\n<h2>Design to Expand &#038; Impress with <?php echo $row['name']; ?> </h2>\n<p>In the wake of COVID-19, home renovations have never been more popular. When leaving in a high-rise apartment or condo in the heart of downtown <?php echo $row['country']; ?>, it might seem like your options are limited\u2014however, there are many ways to expand the feel of your space if you work with the right products.</p>\n<p>\nAt <?php echo $row['name']; ?> , our experienced staff understands the challenges of working with small spaces. As <?php echo $row['country']; ?>ians ourselves, we are prepared to offer you a variety of <a href=\"https://<?php echo $row['url']; ?>/design-center/\">product and design options</a> to help maximize your kitchen space for its full potential. To get started on your kitchen remodel or build, <a href=\"https://<?php echo $row['url']; ?>/contact-us/\">contact us today</a> or <a href=\"https://goo.gl/maps/x6wT35D1AFqYZEf4A\" target=\"_blank\" rel=\"noopener\">stop by our showroom</a>. </p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>\ufeff\ufeff\ufeffSpacious kitchen renovations are always a sight to see, but unfortunately that\u2019s not realistic for most <?php echo $row['country']; ?>ians living in high-rise apartments and condos. In an already busy city that continues to grow, developers and builders are building up instead of out, limiting space for consumers. So, what does this mean for your kitchen remodel? How\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 2823,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [37, 5, 6, 40, 7, 28, 48, 8],
+  "tags": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>10 Tips to Maximize Your Small Kitchen \u2192 <?php echo $row['country']; ?> Kitchen Design Experts</title>\n<meta name=\"description\" content=\"Are you looking to renovate your condo kitchen in <?php echo $row['country']; ?>? Contact us today to learn how to maximize your kitchen space with NEBS.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/maximize-small-kitchen/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"10 Tips to Maximize Your Small Kitchen \u2192 <?php echo $row['country']; ?> Kitchen Design Experts\" />\n<meta property=\"og:description\" content=\"Are you looking to renovate your condo kitchen in <?php echo $row['country']; ?>? Contact us today to learn how to maximize your kitchen space with NEBS.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/maximize-small-kitchen/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2021-09-20T16:03:02+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:09+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2021/09/shutterstock_1196809243-scaled-1.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1707\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/maximize-small-kitchen/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/maximize-small-kitchen/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"10 Tips to Maximize Your Small Kitchen\",\"datePublished\":\"2021-09-20T16:03:02+00:00\",\"dateModified\":\"2023-09-11T13:46:09+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/maximize-small-kitchen/\"},\"wordCount\":689,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"articleSection\":[\"<?php echo $row['country']; ?> Condo\",\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Contractor\",\"Developer\",\"Homeowner\",\"Kitchen Design\",\"Remodeler\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/maximize-small-kitchen/\",\"url\":\"https://<?php echo $row['url']; ?>/maximize-small-kitchen/\",\"name\":\"10 Tips to Maximize Your Small Kitchen \u2192 <?php echo $row['country']; ?> Kitchen Design Experts\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2021-09-20T16:03:02+00:00\",\"dateModified\":\"2023-09-11T13:46:09+00:00\",\"description\":\"Are you looking to renovate your condo kitchen in <?php echo $row['country']; ?>? Contact us today to learn how to maximize your kitchen space with NEBS.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/maximize-small-kitchen/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"https://<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "10 Tips to Maximize Your Small Kitchen \u2192 <?php echo $row['country']; ?> Kitchen Design Experts",
+    "description": "Are you looking to renovate your condo kitchen in <?php echo $row['country']; ?>? Contact us today to learn how to maximize your kitchen space with NEBS.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/maximize-small-kitchen/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "10 Tips to Maximize Your Small Kitchen \u2192 <?php echo $row['country']; ?> Kitchen Design Experts",
+    "og_description": "Are you looking to renovate your condo kitchen in <?php echo $row['country']; ?>? Contact us today to learn how to maximize your kitchen space with NEBS.",
+    "og_url": "https://<?php echo $row['url']; ?>/maximize-small-kitchen/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2021-09-20T16:03:02+00:00",
+    "article_modified_time": "2023-09-11T13:46:09+00:00",
+    "og_image": [
+      {
+        "width": 2560,
+        "height": 1707,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2021/09/shutterstock_1196809243-scaled-1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/maximize-small-kitchen/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/maximize-small-kitchen/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "10 Tips to Maximize Your Small Kitchen",
+          "datePublished": "2021-09-20T16:03:02+00:00",
+          "dateModified": "2023-09-11T13:46:09+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/maximize-small-kitchen/"
+          },
+          "wordCount": 689,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "articleSection": [
+            "<?php echo $row['country']; ?> Condo",
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Contractor",
+            "Developer",
+            "Homeowner",
+            "Kitchen Design",
+            "Remodeler"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/maximize-small-kitchen/",
+          "url": "https://<?php echo $row['url']; ?>/maximize-small-kitchen/",
+          "name": "10 Tips to Maximize Your Small Kitchen \u2192 <?php echo $row['country']; ?> Kitchen Design Experts",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2021-09-20T16:03:02+00:00",
+          "dateModified": "2023-09-11T13:46:09+00:00",
+          "description": "Are you looking to renovate your condo kitchen in <?php echo $row['country']; ?>? Contact us today to learn how to maximize your kitchen space with NEBS.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/maximize-small-kitchen/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "https://<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2820" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2820"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2820/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2823"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2820"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2820"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2820"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

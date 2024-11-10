@@ -1,0 +1,226 @@
+{
+  "id": 2834,
+  "date": "2021-11-12T19:30:23",
+  "date_gmt": "2021-11-13T00:30:23",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2834" },
+  "modified": "2023-09-11T09:46:09",
+  "modified_gmt": "2023-09-11T13:46:09",
+  "slug": "home-office-windows",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/home-office-windows/",
+  "title": { "rendered": "4 Reasons You Need Home Office Windows" },
+  "content": {
+    "rendered": "<p>With the sudden rise in home offices due to stay-at-home jobs and COVID-19, it\u2019s important to have a healthy work environment in your home office. There are always a lot of things to think about when you\u2019re remodeling your home\u2014when creating a home office, always make sure you\u2019re creating a space where you can make sure you\u2019re working at your best.</p>\n<p>There are a lot of elements of an office that are proven to increase productivity, but one of the simplest ways to do this is to make sure you have adequate natural lighting. So, what can you do to optimize natural light with your home office windows?</p>\n<h2>Why Does Natural Light Increase Productivity?</h2>\n<p>Before you completely remodel your home office around new windows, it\u2019s important to understand the link between productivity and natural light.</p>\n<h3>1. Sleep</h3>\n<p>Research shows that there is a strong <a href=\"https://www.psychologytoday.com/us/blog/the-athletes-way/201306/exposure-natural-light-improves-workplace-performance\">correlation between workplace daylight exposure and sleep quality</a>. Our circadian rhythm dictates the hormones that our body releases (melatonin) and the body\u2019s natural wake-sleep cycle\u2014 a lack of exposure to natural light can disrupt this rhythm.</p>\n<h3>2. Mental Health</h3>\n<p>Working for long periods of time without daylight directly increases your risk of developing mental health issues\u2014natural light has also been proven to make people calmer and happier.</p>\n<h3>3. Physical Health</h3>\n<p>If natural light can affect your mental health, you better believe it can also affect your physical health. Vitamin D is essential for the body\u2019s immune system to function properly and protect you from sicknesses.</p>\n<h3>4. Productivity</h3>\n<p>Research proves that productivity and creativity is increased when working somewhere with more natural light. Eco Business recently published a <a href=\"https://www.eco-business.com/opinion/why-natural-light-matters-in-the-workplace/\">study that linked workplace productivity to daylight exposure</a> with an increase between 5 and 40% of sales productivity.</p>\n<h2>How to Improve Natural Lighting in Your Home Office</h2>\n<p>Now that we\u2019ve covered why natural light is essential to a productive workspace, it\u2019s time to determine <em>how </em>you can make natural light a priority<em>. </em>Here are a few steps you can take to <a href=\"https://<?php echo $row['url']; ?>/natural-light-to-your-boston-renovation/\">maximize natural light</a> in your home office:</p>\n<ol>\n<li><strong>Remove window obstructions</strong>. Make sure there is nothing blocking your home office windows.</li>\n<li><strong>Rearrange your desk</strong>. To optimize the daylight in your home office, position your desk in proximity to a window.</li>\n<li><strong>Install new windows</strong>. Renovation work isn\u2019t easy, but it\u2019s important to prioritize windows in a home office environment.</li>\n<li><strong>Choose the right color</strong>. Lighter furniture and paint colors will make the room feel bigger and brighter while acting as a mirror to reflect natural light.</li>\n</ol>\n<p>There are many ways to ensure your home office is a <a href=\"https://<?php echo $row['url']; ?>/wellness-architecture-11-ways-to-build-a-healthy-home/\">healthy and productive working environment</a>. Buying quality windows is an easy investment that will be well-worth it in the long run\u2014after all, you will in your office all day every day!</p>\n<h2>Best Windows for Your Home Office</h2>\n<p><a href=\"https://<?php echo $row['url']; ?>/tips-choosing-windows-for-new-boston-development/\">Choosing the right home office windows</a> is critical\u2014your workspace should be comfortable, clean, and free of distractions. Fortunately, you can achieve all of this with the right windows and window placements.</p>\n<p>The following are some window options for your home office:</p>\n<ul>\n<li>Casement windows,</li>\n<li>Single and Double Hung windows,</li>\n<li>Sliding windows, and</li>\n<li>Window treatments.</li>\n</ul>\n<p>There are many <a href=\"https://<?php echo $row['url']; ?>/fiberglass-vs-vinyl-windows-for-your-boston-residential-home/\">types and sizes of windows</a> to choose from\u2014a quality window can make all the difference for your home office.</p>\n<h2>Finish Your Home Office with <?php echo $row['name']; ?> Windows</h2>\n<p>Whether you\u2019re remodeling or building a home office, it\u2019s always important to make the windows a priority. A good window can increase productivity, mental and physical health, and sleep\u2014all resulting in a happier and more satisfied you.</p>\n<p>At <?php echo $row['name']; ?> , we carry a <a href=\"https://<?php echo $row['url']; ?>/discover-jeldwen-doors-windows-<?php echo $row['country']; ?>/\">variety of window options</a> for all your home office needs. With a broad range of innovative, <a href=\"https://<?php echo $row['url']; ?>/maximizing-energy-efficiency-windows/\">energy-efficient</a>, and aesthetically pleasing windows in different materials, glass types, and frame types, <?php echo $row['name']; ?> is ready to supply the windows you need.</p>\n<p>To learn more about what we can do for your home office project, <a href=\"https://<?php echo $row['url']; ?>/contact-us/\">contact us today</a> to speak with our team of certified window service technicians. Remember\u2014don\u2019t forget the windows!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>With the sudden rise in home offices due to stay-at-home jobs and COVID-19, it\u2019s important to have a healthy work environment in your home office. There are always a lot of things to think about when you\u2019re remodeling your home\u2014when creating a home office, always make sure you\u2019re creating a space where you can make\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 2835,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [271],
+  "tags": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>4 Reasons You Need Home Office Windows \u2192 NEBS</title>\n<meta name=\"description\" content=\"If you\u2019re remodeling or building a home office, make sure windows are a priority! Give <?php echo $row['name']; ?> a call today to get your home office windows.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/home-office-windows/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"4 Reasons You Need Home Office Windows \u2192 NEBS\" />\n<meta property=\"og:description\" content=\"If you\u2019re remodeling or building a home office, make sure windows are a priority! Give <?php echo $row['name']; ?> a call today to get your home office windows.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/home-office-windows/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2021-11-13T00:30:23+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:09+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2021/11/shutterstock_561817636-scaled-1.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2560\" />\n\t<meta property=\"og:image:height\" content=\"1708\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/home-office-windows/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/home-office-windows/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"4 Reasons You Need Home Office Windows\",\"datePublished\":\"2021-11-13T00:30:23+00:00\",\"dateModified\":\"2023-09-11T13:46:09+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/home-office-windows/\"},\"wordCount\":679,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"articleSection\":[\"Windows\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/home-office-windows/\",\"url\":\"https://<?php echo $row['url']; ?>/home-office-windows/\",\"name\":\"4 Reasons You Need Home Office Windows \u2192 NEBS\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2021-11-13T00:30:23+00:00\",\"dateModified\":\"2023-09-11T13:46:09+00:00\",\"description\":\"If you\u2019re remodeling or building a home office, make sure windows are a priority! Give <?php echo $row['name']; ?> a call today to get your home office windows.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/home-office-windows/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"https://<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "4 Reasons You Need Home Office Windows \u2192 NEBS",
+    "description": "If you\u2019re remodeling or building a home office, make sure windows are a priority! Give <?php echo $row['name']; ?> a call today to get your home office windows.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/home-office-windows/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "4 Reasons You Need Home Office Windows \u2192 NEBS",
+    "og_description": "If you\u2019re remodeling or building a home office, make sure windows are a priority! Give <?php echo $row['name']; ?> a call today to get your home office windows.",
+    "og_url": "https://<?php echo $row['url']; ?>/home-office-windows/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2021-11-13T00:30:23+00:00",
+    "article_modified_time": "2023-09-11T13:46:09+00:00",
+    "og_image": [
+      {
+        "width": 2560,
+        "height": 1708,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2021/11/shutterstock_561817636-scaled-1.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/home-office-windows/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/home-office-windows/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "4 Reasons You Need Home Office Windows",
+          "datePublished": "2021-11-13T00:30:23+00:00",
+          "dateModified": "2023-09-11T13:46:09+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/home-office-windows/"
+          },
+          "wordCount": 679,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "articleSection": ["Windows"],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/home-office-windows/",
+          "url": "https://<?php echo $row['url']; ?>/home-office-windows/",
+          "name": "4 Reasons You Need Home Office Windows \u2192 NEBS",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2021-11-13T00:30:23+00:00",
+          "dateModified": "2023-09-11T13:46:09+00:00",
+          "description": "If you\u2019re remodeling or building a home office, make sure windows are a priority! Give <?php echo $row['name']; ?> a call today to get your home office windows.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/home-office-windows/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "https://<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2834" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2834"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2834/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2835"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2834"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2834"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2834"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

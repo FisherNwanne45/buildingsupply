@@ -1,0 +1,118 @@
+{
+  "id": 278,
+  "count": 3,
+  "description": "<span style=\"font-weight: 400\">Experience unmatched energy efficiency and comfort with our premium selection of insulation products from renowned <?php echo $row['name']; ?>  vendors. From high-performance fiberglass to eco-friendly spray foam, we offer a range of insulation solutions that effectively regulate temperature, reduce noise, and lower energy costs.</span>",
+  "link": "https://<?php echo $row['url']; ?>/product/insulation-product-category/",
+  "name": "Insulation",
+  "slug": "insulation-product-category",
+  "taxonomy": "product_category",
+  "parent": 0,
+  "meta": [],
+  "acf": { "product_category_image": 3653, "product_category_banner": 3652 },
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Insulation Archives - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/product/insulation-product-category/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Insulation Archives - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Experience unmatched energy efficiency and comfort with our premium selection of insulation products from renowned <?php echo $row['name']; ?>  vendors. From high-performance fiberglass to eco-friendly spray foam, we offer a range of insulation solutions that effectively regulate temperature, reduce noise, and lower energy costs.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/product/insulation-product-category/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https://<?php echo $row['url']; ?>/product/insulation-product-category/\",\"url\":\"https://<?php echo $row['url']; ?>/product/insulation-product-category/\",\"name\":\"Insulation Archives - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"inLanguage\":\"en-US\"},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Insulation Archives - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/product/insulation-product-category/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Insulation Archives - <?php echo $row['name']; ?> ",
+    "og_description": "Experience unmatched energy efficiency and comfort with our premium selection of insulation products from renowned <?php echo $row['name']; ?>  vendors. From high-performance fiberglass to eco-friendly spray foam, we offer a range of insulation solutions that effectively regulate temperature, reduce noise, and lower energy costs.",
+    "og_url": "https://<?php echo $row['url']; ?>/product/insulation-product-category/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "twitter_card": "summary_large_image",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "https://<?php echo $row['url']; ?>/product/insulation-product-category/",
+          "url": "https://<?php echo $row['url']; ?>/product/insulation-product-category/",
+          "name": "Insulation Archives - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/product_category/278"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/product_category"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/taxonomies/product_category"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/bs_product?product_category=278"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

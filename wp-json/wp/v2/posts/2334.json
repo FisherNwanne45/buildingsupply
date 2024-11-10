@@ -1,0 +1,242 @@
+{
+  "id": 2334,
+  "date": "2019-01-23T08:28:39",
+  "date_gmt": "2019-01-23T13:28:39",
+  "guid": { "rendered": "<?php echo $row['url']; ?>/?p=2334" },
+  "modified": "2023-09-11T09:47:56",
+  "modified_gmt": "2023-09-11T13:47:56",
+  "slug": "2019-boston-real-estate-development-predictions",
+  "status": "publish",
+  "type": "post",
+  "link": "<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/",
+  "title": {
+    "rendered": "2019 <?php echo $row['country']; ?> Real Estate Development Predictions"
+  },
+  "content": {
+    "rendered": "<p><a href=\"<?php echo $row['url']; ?>/2018-boston-building-boom-prediction/\">2018</a> turned out to be a wild ride. After years of steady growth and rosy&nbsp;outlooks for developers in <?php echo $row['country']; ?>, a variety of wrenches were thrown into the works last fall. Will this signal a long-term grinding of the gears for builders, or were the issues of last year anomalies that are already in the rearview mirror? While real estate can be a notoriously difficult industry to predict, it&#8217;s possible to make some educated guesses about the state of the business for developers. We&#8217;ll break down the biggest trends in <?php echo $row['country']; ?> real estate and explore the issues most likely to impact 2019&#8217;s outlook for property developers.</p>\n<h2>The Lockout Is Over</h2>\n<p>In case you&#8217;ve been under a rock for the past seven months:&nbsp;National Grid&#8217;s contract with its unionized gas workers expired back in June, and when they couldn&#8217;t reach an agreement on new terms, the gas&nbsp;company locked out its workers and turned to replacement linemen with less experience. While this action kept things going for awhile, the real blow came in October, when&nbsp;<a href=\"https://www.eagletribune.com/gas_fires/\" target=\"_blank\" rel=\"noopener noreferrer\">Columbia Gas lines exploded all over Lawrence and the Andovers</a>&nbsp;due to an over-pressurization issue. This meant that any and all gas line workers were redirected to put out (very literal) fires and get the three cities up and running so residents could return home before winter&#8217;s chill set in. Meanwhile, towns across Eastern Massachusetts&nbsp;<a href=\"http://billerica.wickedlocal.com/news/20181231/national-grid-lockout-comes-to-end\" target=\"_blank\" rel=\"noopener noreferrer\">put the kibosh on new gas work</a>&nbsp;until National Grid could guarantee experienced workers would be doing the work to keep everyone safe from another round of explosions and fires.</p>\n<p>For builders, this was one-two punch to their schedules. Projects were put on hold or delayed due to a lack of labor available to complete orders. Most&nbsp;towns called an end to gas line work in December anyway due to freezing weather, but the big question was when work could resume on a normal schedule. Fortunately,&nbsp;<a href=\"https://www.wcvb.com/article/vote-could-end-months-long-national-grid-lockout/25773351\" target=\"_blank\" rel=\"noopener noreferrer\">there&#8217;s finally a deal in place</a>, and union workers should be back on the job and working through the backlog ASAP.&nbsp;</p>\n<p><strong>The Upshot:</strong>&nbsp;By spring, gas woes should be a thing of the past, and your building schedule will likely&nbsp;proceed as expected.</p>\n<h2>The Economy Is Iffy</h2>\n<p>Anyone with an IRA has been watching nervously as the stock market roller&nbsp;coasters its way into the New Year. The economy has been on the upswing for years now, and builders have benefited from a whole lot of investment in <?php echo $row['country']; ?> \u2014 just count the cranes as you drive into the city on the Expressway for a daily reminder of just&nbsp;how quickly the skyline is evolving. Many economists think that an economic slowdown is inevitable after flying high for so long, and those concerns trickle into real estate in predictable ways.&nbsp;<a href=\"https://<?php echo $row['country']; ?>.curbed.com/2018/12/12/18137948/boston-real-estate-predictions-2019\" target=\"_blank\" rel=\"noopener noreferrer\">Home sales have already begun to slow</a>, and with mortgage rates rising and a new cap on the real estate tax deduction hitting federal returns this quarter, we expect the real estate market for single family homes to&nbsp;<a href=\"https://<?php echo $row['country']; ?>agentmagazine.com/2018/11/30/economists-differ-2019-real-estate-outlook/\" target=\"_blank\" rel=\"noopener noreferrer\">continue to soften in 2019</a>.</p>\n<p>On the bright side, that means rentals will be even more important in the coming year. <?php echo $row['country']; ?> has always been a major market for apartment building development thanks to its <a href=\"<?php echo $row['url']; ?>/millennial-village-answer-to-<?php echo $row['country']; ?>s-housing-shortage/\" target=\"_blank\" rel=\"noopener noreferrer\">enormous student population</a> and growing crew of Millennial knowledge industry workers, so new development will continue to cater to these renters \u2014&nbsp;with a&nbsp;<a href=\"https://www.curbed.com/2018/10/10/17959984/real-estate-trends-2019-housing-affordability-investment\" target=\"_blank\" rel=\"noopener noreferrer\">heavy dose of high-end amenities</a>&nbsp;thrown in to help <a href=\"<?php echo $row['url']; ?>/attract-young-professionals-to-your-condo-development/\" target=\"_blank\" rel=\"noopener noreferrer\">projects stand out</a> in a crowded field.</p>\n<p><strong>The Upshot:&nbsp;</strong>Developers&nbsp;should find it easier to fill rental properties than single-family homes&nbsp;and may wish to build their 2019 portfolios accordingly.</p>\n<h2>Big Projects Are Still in Style</h2>\n<p>Despite the rockier economic outlook for small- to mid-sized residential projects, the big guys seem to be well insulated from the ups and downs that worry earth-bound builders. Mega-projects continue to move forward, so expect to see more cranes and&nbsp;traffic cones as things get underway. Among the&nbsp;<a href=\"https://<?php echo $row['country']; ?>.curbed.com/maps/boston-developments-to-watch-2019\" target=\"_blank\" rel=\"noopener noreferrer\">most anticipated projects</a>&nbsp;are the Fenway Center at Brookline and Comm Ave., three shiny towers around Back Bay Station, the Hub on Causeway (which has been giving Bruins and Celts fans headaches for years), and&nbsp;a top-10 skyscraper at Winthrop Square. Another possibility? A&nbsp;tower built atop South Station, which has been long&nbsp;discussed but has yet to be acted upon.</p>\n<p><strong>The Upshot:</strong>&nbsp;Plenty of work in the pipeline to keep <?php echo $row['country']; ?> tradespeople busy, which could soften the blow of a&nbsp;stock market slide&nbsp;for many local families and small businesses.</p>\n<h2>Transportation Woes</h2>\n<p>It&#8217;s no secret that the MBTA is still struggling, and we could be another mega-winter away from a total breakdown (again). Sure, there have been some improvements, but many neighborhoods still have spotty service. Southie, for example, has always been isolated from the T, but now that the neighborhood has gentrified, complaints are reaching a tipping point. One innovative solution? A&nbsp;<a href=\"https://www.bizjournals.com/<?php echo $row['country']; ?>/news/2018/03/01/after-criticism-millennium-partners-changed-the.php\" target=\"_blank\" rel=\"noopener noreferrer\">proposed gondola</a>&nbsp;carrying riders over Summer Street from South Station&nbsp;to the Seaport. Flying through the sky to work is a pretty wacky idea, so we think it&#8217;s unlikely ever to be built. <?php echo $row['country']; ?> isn&#8217;t exactly known for embracing radical new ideas for public projects, but we like the out-of-the-box thinking.</p>\n<p><strong>The Upshot:</strong>&nbsp;Building near existing&nbsp;public transportation remains a smart investment, since it&#8217;s a sought-after amenity. Keeping an ear to the ground about&nbsp;<em>proposed</em>&nbsp;public transportation projects could be lucrative for builders willing to invest in nearby development.</p>\n<h2>The Bottom Line</h2>\n<p>2018 brought unexpected utility&nbsp;disasters and some&nbsp;ups and downs in the financial markets, but overall the outlook is good for <?php echo $row['country']; ?> developers and builders. Sure, things may slow down, but the foundation for growth has already been laid for upcoming projects. With luck, any slowdown will be brief and minor, so builders can stay focused on what they do best. For 2019, expect to see those cranes in the air for the foreseeable future.&nbsp;</p>\n<p>[cta id=&#8217;2339&#8242;]</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>2018 turned out to be a wild ride. After years of steady growth and rosy&nbsp;outlooks for developers in <?php echo $row['country']; ?>, a variety of wrenches were thrown into the works last fall. Will this signal a long-term grinding of the gears for builders, or were the issues of last year anomalies that are already in the rearview\u2026</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 2335,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [209, 37, 5, 6, 30, 40, 7, 100],
+  "tags": [9, 104, 22, 38, 55, 189, 12, 17, 13, 18, 15, 62, 109],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>2019 <?php echo $row['country']; ?> Real Estate Development Predictions - <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"Four of the biggest trends in <?php echo $row['country']; ?> real estate and the issues that will impact the 2019 outlook for developers include: lockout is over, transporation woes, big projects and economy woes.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"2019 <?php echo $row['country']; ?> Real Estate Development Predictions - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Four of the biggest trends in <?php echo $row['country']; ?> real estate and the issues that will impact the 2019 outlook for developers include: lockout is over, transporation woes, big projects and economy woes.\" />\n<meta property=\"og:url\" content=\"<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2019-01-23T13:28:39+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:47:56+00:00\" />\n<meta property=\"og:image\" content=\"<?php echo $row['url']; ?>/wp-content/uploads/2019/01/boston-Development-predictions-2019.jpg\" />\n\t<meta property=\"og:image:width\" content=\"938\" />\n\t<meta property=\"og:image:height\" content=\"479\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"mflood\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"mflood\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"5 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/#article\",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/\"},\"author\":{\"name\":\"mflood\",\"@id\":\"<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46\"},\"headline\":\"2019 <?php echo $row['country']; ?> Real Estate Development Predictions\",\"datePublished\":\"2019-01-23T13:28:39+00:00\",\"dateModified\":\"2023-09-11T13:47:56+00:00\",\"mainEntityOfPage\":{\"@id\":\"<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/\"},\"wordCount\":1018,\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"<?php echo $row['country']; ?> Building\",\"<?php echo $row['country']; ?> Building Guidelines\",\"<?php echo $row['country']; ?> Condo\",\"<?php echo $row['country']; ?> Homeowner\",\"Building Developer\",\"Building Supplier\",\"Commercial Development\",\"Developer\",\"Downtown <?php echo $row['country']; ?> Residential Building\",\"Lumber and Building Materials\",\"Real Estate\",\"Real Estate Developer\"],\"articleSection\":[\"Architect\",\"<?php echo $row['country']; ?> Condo\",\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Building Trends\",\"Contractor\",\"Developer\",\"Triple Decker\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/\",\"url\":\"<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/\",\"name\":\"2019 <?php echo $row['country']; ?> Real Estate Development Predictions - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2019-01-23T13:28:39+00:00\",\"dateModified\":\"2023-09-11T13:47:56+00:00\",\"description\":\"Four of the biggest trends in <?php echo $row['country']; ?> real estate and the issues that will impact the 2019 outlook for developers include: lockout is over, transporation woes, big projects and economy woes.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"<?php echo $row['url']; ?>/#website\",\"url\":\"<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46\",\"name\":\"mflood\",\"url\":\"<?php echo $row['url']; ?>/author/mflood/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "2019 <?php echo $row['country']; ?> Real Estate Development Predictions - <?php echo $row['name']; ?> ",
+    "description": "Four of the biggest trends in <?php echo $row['country']; ?> real estate and the issues that will impact the 2019 outlook for developers include: lockout is over, transporation woes, big projects and economy woes.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "2019 <?php echo $row['country']; ?> Real Estate Development Predictions - <?php echo $row['name']; ?> ",
+    "og_description": "Four of the biggest trends in <?php echo $row['country']; ?> real estate and the issues that will impact the 2019 outlook for developers include: lockout is over, transporation woes, big projects and economy woes.",
+    "og_url": "<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2019-01-23T13:28:39+00:00",
+    "article_modified_time": "2023-09-11T13:47:56+00:00",
+    "og_image": [
+      {
+        "width": 938,
+        "height": 479,
+        "url": "<?php echo $row['url']; ?>/wp-content/uploads/2019/01/boston-Development-predictions-2019.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "mflood",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "mflood",
+      "Est. reading time": "5 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/#article",
+          "isPartOf": {
+            "@id": "<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/"
+          },
+          "author": {
+            "name": "mflood",
+            "@id": "<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46"
+          },
+          "headline": "2019 <?php echo $row['country']; ?> Real Estate Development Predictions",
+          "datePublished": "2019-01-23T13:28:39+00:00",
+          "dateModified": "2023-09-11T13:47:56+00:00",
+          "mainEntityOfPage": {
+            "@id": "<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/"
+          },
+          "wordCount": 1018,
+          "publisher": { "@id": "<?php echo $row['url']; ?>/#organization" },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "<?php echo $row['country']; ?> Building",
+            "<?php echo $row['country']; ?> Building Guidelines",
+            "<?php echo $row['country']; ?> Condo",
+            "<?php echo $row['country']; ?> Homeowner",
+            "Building Developer",
+            "Building Supplier",
+            "Commercial Development",
+            "Developer",
+            "Downtown <?php echo $row['country']; ?> Residential Building",
+            "Lumber and Building Materials",
+            "Real Estate",
+            "Real Estate Developer"
+          ],
+          "articleSection": [
+            "Architect",
+            "<?php echo $row['country']; ?> Condo",
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Building Trends",
+            "Contractor",
+            "Developer",
+            "Triple Decker"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/",
+          "url": "<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/",
+          "name": "2019 <?php echo $row['country']; ?> Real Estate Development Predictions - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2019-01-23T13:28:39+00:00",
+          "dateModified": "2023-09-11T13:47:56+00:00",
+          "description": "Four of the biggest trends in <?php echo $row['country']; ?> real estate and the issues that will impact the 2019 outlook for developers include: lockout is over, transporation woes, big projects and economy woes.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "<?php echo $row['url']; ?>/2019-boston-real-estate-development-predictions/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "<?php echo $row['url']; ?>/#website",
+          "url": "<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": { "@id": "<?php echo $row['url']; ?>/#organization" },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": { "@id": "<?php echo $row['url']; ?>/#/schema/logo/image/" },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "<?php echo $row['url']; ?>/#/schema/person/401c99f5df9ff73a1f9822d6d4c93a46",
+          "name": "mflood",
+          "url": "<?php echo $row['url']; ?>/author/mflood/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2334" }],
+    "collection": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2334"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2334/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media/2335"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2334" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2334"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2334"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

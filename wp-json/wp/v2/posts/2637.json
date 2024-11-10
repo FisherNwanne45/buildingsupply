@@ -1,0 +1,255 @@
+{
+  "id": 2637,
+  "date": "2019-12-18T11:40:15",
+  "date_gmt": "2019-12-18T16:40:15",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2637" },
+  "modified": "2023-09-11T09:46:49",
+  "modified_gmt": "2023-09-11T13:46:49",
+  "slug": "why-fiber-cement-siding-is-perfect-for-your-boston-building-project",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/",
+  "title": {
+    "rendered": "Why Fiber Cement Siding is Perfect for Your <?php echo $row['country']; ?> Building Project"
+  },
+  "content": {
+    "rendered": "<p>In terms of siding, fiber cement is a relative newcomer to the market. Wood, brick and even things like vinyl siding have all been around for quite a while, but fiber cement siding was introduced about 35 years ago. Since then, it\u2019s been steadily growing in popularity for a variety of reasons. Companies like<a href=\"https://www.jameshardie.com/\"> James Hardie</a> produce this type of siding, which offers a wonderful alternative to wood, vinyl and similar siding materials. If you want to learn more about why fiber cement is quickly becoming the siding material of choice, read on and we\u2019ll show you!</p>\n<h3><strong>1. Fiber Cement Replicates the Look of Wood Without the Hassle</strong></h3>\n<p>Wood siding can be problematic in humid climates, prone to moss, mildew and rot. Plus there is insect damage to contend with, too. Cracking, warping and splintering are common problems with wood, and it needs to be repainted and maintained more than most other types of siding, including fiber cement.</p>\n<p>Fiber cement, on the other hand, stands up to moisture very well, and it won\u2019t rot, crack or splinter. It\u2019s a thick, durable material that allows manufacturers to make deep grooves in its surface. This means that above all other wood lookalikes, fiber cement is the siding alternative that offers the most realistic look. In fact, some historic districts approve fiber cement siding because it looks just like the real thing.</p>\n<h3><strong>2. Fiber Cement is Non-Combustible</strong></h3>\n<p>Whether you need to meet area fire codes or you are building in an area where wildfires are a concern, this type of siding is a great option because it won\u2019t ignite when exposed to direct flame. It\u2019s also a great alternative if melted vinyl siding is a potential problem. Sometimes vinyl can melt or warp in high temperatures, which can occur when windows, especially low-E windows, reflect onto the siding.</p>\n<h3><strong>3. It\u2019s a Versatile Siding Material</strong></h3>\n<p>Fiber cement panels that replicate the look of wood are a popular choice, but there are even more options available. Not just panels, but also siding that replicates lapped siding as well as shingles and blocks. There are lots of finishes available, too\u2014painted, stained or primed so you can add your own color, or raw so that you can tailor finish it according to the project\u2019s needs.</p>\n<h3><strong>4. It\u2019s the Easiest Way to Achieve that Coveted Modern Look</strong></h3>\n<p>Sleek modern styles are all the rage in exteriors these days, often featuring color-blocked siding to make a bold statement. It\u2019s difficult to achieve this look with other types of siding, but fiber cement panels make it easy to create that blocky, colorful look.</p>\n<h3><strong>5. Affordability</strong></h3>\n<p>One of the best things about fiber cement is that compared to wood or aluminum siding, it\u2019s very affordably priced. It does cost more than vinyl, which is generally the cheapest option, but it comes with a much longer lifespan plus low maintenance costs, which offset the initial installation cost. Where things like painting are concerned, if you choose factory finished fiber cement, the paint can last up to twenty years. Even when it does need to be repainted, or if the homeowner simply desires to change colors, that paint will last longer than on wood because fiber cement doesn\u2019t warp, expand, shrink, blister or crack.</p>\n<h3><strong>6. Fiber Cement is Eco-Friendly</strong></h3>\n<p>One drawback to fiber cement is that right now, there aren\u2019t recycling programs that handle it. However, because this building material lasts decades, it causes less waste than other types of siding that need to be replacement. What\u2019s more, it\u2019s an inert building material, free of toxins and problematic chemicals, which means that in landfills, it doesn\u2019t leech harmful chemicals into the environment.</p>\n<p>If you\u2019re interested in trying out fiber cement siding, our <a href=\"https://<?php echo $row['url']; ?>/design-center/\">downtown <?php echo $row['country']; ?> design center</a> stocks James Hardie products. Check out the video below to learn a little bit about Hardie\u2019s Statement Collection. And don\u2019t forget that you can always stop by our design center to check out these products and pick up samples that you can present to local officials for fire and building code approval.</p>\n<p>[yotuwp type=&#8221;videos&#8221; id=&#8221;GJE4QIhrfKc&#8221; ]</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>In terms of siding, fiber cement is a relative newcomer to the market. Wood, brick and even things like vinyl siding have all been around for quite a while, but fiber cement siding was introduced about 35 years ago. Since then, it\u2019s been steadily growing in popularity for a variety of reasons. Companies like James\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 2638,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [209, 5, 6, 30, 40, 7, 28, 8, 100],
+  "tags": [9, 104, 22, 38, 55, 10, 12, 17, 267, 88, 61, 16, 148, 266, 46],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Why Fiber Cement Siding is Perfect for Your <?php echo $row['country']; ?> Building Project - <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"Fiber cement siding siding is a great alternative to wood, vinyl and similar siding materials. It&#039;s a versatile siding material and is the easiest way to achieve a modern look.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Why Fiber Cement Siding is Perfect for Your <?php echo $row['country']; ?> Building Project - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Fiber cement siding siding is a great alternative to wood, vinyl and similar siding materials. It&#039;s a versatile siding material and is the easiest way to achieve a modern look.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2019-12-18T16:40:15+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:49+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2019/12/fiber-cement-siding.png\" />\n\t<meta property=\"og:image:width\" content=\"1280\" />\n\t<meta property=\"og:image:height\" content=\"859\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"Why Fiber Cement Siding is Perfect for Your <?php echo $row['country']; ?> Building Project\",\"datePublished\":\"2019-12-18T16:40:15+00:00\",\"dateModified\":\"2023-09-11T13:46:49+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/\"},\"wordCount\":705,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"<?php echo $row['country']; ?> Building\",\"<?php echo $row['country']; ?> Building Guidelines\",\"<?php echo $row['country']; ?> Condo\",\"<?php echo $row['country']; ?> Homeowner\",\"Builder\",\"Building Supplier\",\"Commercial Development\",\"fiber cement\",\"Home Design\",\"Home Improvement Contractor\",\"Remodeler\",\"Siding\",\"siding materials\",\"Triple Decker\"],\"articleSection\":[\"Architect\",\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Building Trends\",\"Contractor\",\"Developer\",\"Homeowner\",\"Remodeler\",\"Triple Decker\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/\",\"url\":\"https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/\",\"name\":\"Why Fiber Cement Siding is Perfect for Your <?php echo $row['country']; ?> Building Project - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2019-12-18T16:40:15+00:00\",\"dateModified\":\"2023-09-11T13:46:49+00:00\",\"description\":\"Fiber cement siding siding is a great alternative to wood, vinyl and similar siding materials. It's a versatile siding material and is the easiest way to achieve a modern look.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"https://<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Why Fiber Cement Siding is Perfect for Your <?php echo $row['country']; ?> Building Project - <?php echo $row['name']; ?> ",
+    "description": "Fiber cement siding siding is a great alternative to wood, vinyl and similar siding materials. It's a versatile siding material and is the easiest way to achieve a modern look.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Why Fiber Cement Siding is Perfect for Your <?php echo $row['country']; ?> Building Project - <?php echo $row['name']; ?> ",
+    "og_description": "Fiber cement siding siding is a great alternative to wood, vinyl and similar siding materials. It's a versatile siding material and is the easiest way to achieve a modern look.",
+    "og_url": "https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2019-12-18T16:40:15+00:00",
+    "article_modified_time": "2023-09-11T13:46:49+00:00",
+    "og_image": [
+      {
+        "width": 1280,
+        "height": 859,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2019/12/fiber-cement-siding.png",
+        "type": "image/png"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "Why Fiber Cement Siding is Perfect for Your <?php echo $row['country']; ?> Building Project",
+          "datePublished": "2019-12-18T16:40:15+00:00",
+          "dateModified": "2023-09-11T13:46:49+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/"
+          },
+          "wordCount": 705,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "<?php echo $row['country']; ?> Building",
+            "<?php echo $row['country']; ?> Building Guidelines",
+            "<?php echo $row['country']; ?> Condo",
+            "<?php echo $row['country']; ?> Homeowner",
+            "Builder",
+            "Building Supplier",
+            "Commercial Development",
+            "fiber cement",
+            "Home Design",
+            "Home Improvement Contractor",
+            "Remodeler",
+            "Siding",
+            "siding materials",
+            "Triple Decker"
+          ],
+          "articleSection": [
+            "Architect",
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Building Trends",
+            "Contractor",
+            "Developer",
+            "Homeowner",
+            "Remodeler",
+            "Triple Decker"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/",
+          "url": "https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/",
+          "name": "Why Fiber Cement Siding is Perfect for Your <?php echo $row['country']; ?> Building Project - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2019-12-18T16:40:15+00:00",
+          "dateModified": "2023-09-11T13:46:49+00:00",
+          "description": "Fiber cement siding siding is a great alternative to wood, vinyl and similar siding materials. It's a versatile siding material and is the easiest way to achieve a modern look.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "https://<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2637" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2637"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2637/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2638"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2637"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2637"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2637"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

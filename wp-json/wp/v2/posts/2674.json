@@ -1,0 +1,229 @@
+{
+  "id": 2674,
+  "date": "2020-04-17T00:00:19",
+  "date_gmt": "2020-04-17T04:00:19",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2674" },
+  "modified": "2023-09-11T09:46:34",
+  "modified_gmt": "2023-09-11T13:46:34",
+  "slug": "boston-construction-moratorium-impact-response-and-future-comeback",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/",
+  "title": {
+    "rendered": "<?php echo $row['country']; ?> Construction Moratorium Impact, Response and Future Comeback"
+  },
+  "content": {
+    "rendered": "<p><span style=\"font-weight: 400;\">With the COVID-19 crisis, there\u2019s lots of buzz flying around about how this affects the construction industry in <?php echo $row['country']; ?>. Right now, there is an indefinite moratorium on construction within the city. But what exactly does that mean? Let\u2019s take a look at who is impacted by this and who is able to respond during this challenging time. Of course, a comeback will be coming, too, so we\u2019ll examine what that comeback could look like.</span></p>\n<p><span style=\"font-weight: 400;\">Impact</span></p>\n<p><span style=\"font-weight: 400;\">As the COVID-19 pandemic picked up steam, officials in <?php echo $row['country']; ?> and the state of Massachusetts took measures to limit the spread of the virus. On March 17, Mayor Walsh put a two-week ban on all projects that the city of <?php echo $row['country']; ?> had permitted, this in an effort to slow the virus\u2019s spread. By March 25, the Mayor announced that this ban would be indefinite\u2014even though Governor Charlie Baker has said that construction should continue throughout Massachusetts in view of the state\u2019s housing crisis. In a letter from the governor\u2019s office, Walsh stated that to prevent economic disruption, projects should continue as long as social distancing protocols are observed. In <?php echo $row['country']; ?>, however, Mayor Walsh\u2019s moratorium still stands.</span></p>\n<p><span style=\"font-weight: 400;\">Some projects are still continuing, however. In <?php echo $row['country']; ?>, the work stoppage is specifically limited to projects that the city itself has approved. And that is quite a few projects, including everything from apartments and condos to commercials spaces like laboratories and hotels. State-approved construction projects, however, are still ongoing although work is at the discretion of developers and contractors, which means that some project managers have called a halt on their projects in an effort to keep their workers safe.</span></p>\n<p><span style=\"font-weight: 400;\"><?php echo $row['country']; ?>\u2019s building moratorium does have a few caveats to be aware of. Some specific projects are still allowed to continue. These include projects like hospitals and other buildings to promote public health and safety, work that makes residential buildings fully habitable is still allowed, and residential construction for buildings that include three units or less are still ongoing.</span></p>\n<p><span style=\"font-weight: 400;\">Overall, the moratorium\u2019s impact is far-reaching given the number of city projects that have come to a halt. But there are still some opportunities out there what with state-approved projects still underway.</span></p>\n<p><span style=\"font-weight: 400;\">Response</span></p>\n<p><span style=\"font-weight: 400;\">And how are people responding? Many suppliers\u2014including NEBS\u2014are still open for business in order to supply the essential goods that operating construction projects need.</span></p>\n<p><span style=\"font-weight: 400;\">On state and even nationwide levels, we\u2019re seeing varied responses\u2014just as the city of <?php echo $row['country']; ?>\u2019s moratorium conflicts with the Governor\u2019s request to keep construction going. In some places in the United States, construction is considered essential, particularly in places experiencing serious housing shortages. Other places have done just as <?php echo $row['country']; ?> has done by ordering work stoppages.</span></p>\n<p><span style=\"font-weight: 400;\">Meanwhile, many construction industry groups are lobbying for construction to be considered an essential industry. At the smaller scale, employers and contracting businesses are torn\u2014and this is something we\u2019re seeing in <?php echo $row['country']; ?>. Workers need a steady paycheck plus access to health insurance, and contractors often have contractual obligations to finish a project by a certain date, which now may not be possible given work stoppages. At the same time, these people are concerned about health and safety, too. That\u2019s why we\u2019ve seen two unions so far\u2014the North Atlantic Regional Council of Carpenters and the Painters and Allied Trades Union\u2014call for their workers to walk off construction sites. The fear is that these workers don\u2019t have enough personal protective equipment to reduce exposure, and that they are unable to properly practice social distancing.</span></p>\n<p><span style=\"font-weight: 400;\">Making a Comeback</span></p>\n<p><span style=\"font-weight: 400;\">There\u2019s no doubt that a comeback will happen. After all, construction is one of those industries that just can\u2019t stop. We will always have a demand for new homes, commercial spaces and more. So it\u2019s not a question of whether or not that comeback will take place, but what shape it will take. In the construction industry, we\u2019re liable to see a slow return to work as new cases of the virus lessen while state and city officials gradually lift restrictions.</span></p>\n<p><span style=\"font-weight: 400;\">Supply chain issues may be a problem for a while as suppliers scramble to make up for lost time. The big supply challenge to watch out for will be materials buying sprees that may occur as the industry picks up steam again. Such mass buyouts of supplies could result in shortages.</span></p>\n<p><span style=\"font-weight: 400;\">While consumer confidence may be shaky, it\u2019s likely that lenders\u2014who were doing quite well before this crisis\u2014will be eager to resume their business. That means during the recovery process, it may be easier for people within the construction industry to secure financing for new projects as people across sectors work hard to get the economy moving again.</span></p>\n<p><span style=\"font-weight: 400;\">There\u2019s no doubt that challenging times are before us. But the construction industry within <?php echo $row['country']; ?> and elsewhere, too, will make a comeback. It\u2019s only a matter of time before this crisis passes and we can all get back to work!</span></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>With the COVID-19 crisis, there\u2019s lots of buzz flying around about how this affects the construction industry in <?php echo $row['country']; ?>. Right now, there is an indefinite moratorium on construction within the city. But what exactly does that mean? Let\u2019s take a look at who is impacted by this and who is able to respond during this\u2026</p>\n",
+    "protected": false
+  },
+  "author": 7,
+  "featured_media": 2675,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [209],
+  "tags": [9, 270],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title><?php echo $row['country']; ?> Construction Moratorium Impact, Response and Future Comeback - <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"In the <?php echo $row['country']; ?> construction industry, we\u2019re liable to see a slow return to work as new cases of the virus lessen while state and city officials gradually lift restrictions.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"<?php echo $row['country']; ?> Construction Moratorium Impact, Response and Future Comeback - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"In the <?php echo $row['country']; ?> construction industry, we\u2019re liable to see a slow return to work as new cases of the virus lessen while state and city officials gradually lift restrictions.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2020-04-17T04:00:19+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:34+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2020/04/boston-construction-moratorium-impact-1024x687.png\" />\n\t<meta property=\"og:image:width\" content=\"1024\" />\n\t<meta property=\"og:image:height\" content=\"687\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"author\" content=\"Justin\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Justin\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"4 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/\"},\"author\":{\"name\":\"Justin\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/6e63ef9f98cf37362099fa270f43c591\"},\"headline\":\"<?php echo $row['country']; ?> Construction Moratorium Impact, Response and Future Comeback\",\"datePublished\":\"2020-04-17T04:00:19+00:00\",\"dateModified\":\"2023-09-11T13:46:34+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/\"},\"wordCount\":844,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"Covid-19\"],\"articleSection\":[\"Architect\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/\",\"url\":\"https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/\",\"name\":\"<?php echo $row['country']; ?> Construction Moratorium Impact, Response and Future Comeback - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2020-04-17T04:00:19+00:00\",\"dateModified\":\"2023-09-11T13:46:34+00:00\",\"description\":\"In the <?php echo $row['country']; ?> construction industry, we\u2019re liable to see a slow return to work as new cases of the virus lessen while state and city officials gradually lift restrictions.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/6e63ef9f98cf37362099fa270f43c591\",\"name\":\"Justin\",\"url\":\"https://<?php echo $row['url']; ?>/author/justin/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "<?php echo $row['country']; ?> Construction Moratorium Impact, Response and Future Comeback - <?php echo $row['name']; ?> ",
+    "description": "In the <?php echo $row['country']; ?> construction industry, we\u2019re liable to see a slow return to work as new cases of the virus lessen while state and city officials gradually lift restrictions.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "<?php echo $row['country']; ?> Construction Moratorium Impact, Response and Future Comeback - <?php echo $row['name']; ?> ",
+    "og_description": "In the <?php echo $row['country']; ?> construction industry, we\u2019re liable to see a slow return to work as new cases of the virus lessen while state and city officials gradually lift restrictions.",
+    "og_url": "https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2020-04-17T04:00:19+00:00",
+    "article_modified_time": "2023-09-11T13:46:34+00:00",
+    "og_image": [
+      {
+        "width": 1024,
+        "height": 687,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2020/04/boston-construction-moratorium-impact-1024x687.png",
+        "type": "image/png"
+      }
+    ],
+    "author": "Justin",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "Justin",
+      "Est. reading time": "4 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/"
+          },
+          "author": {
+            "name": "Justin",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/6e63ef9f98cf37362099fa270f43c591"
+          },
+          "headline": "<?php echo $row['country']; ?> Construction Moratorium Impact, Response and Future Comeback",
+          "datePublished": "2020-04-17T04:00:19+00:00",
+          "dateModified": "2023-09-11T13:46:34+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/"
+          },
+          "wordCount": 844,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": ["<?php echo $row['country']; ?>", "Covid-19"],
+          "articleSection": ["Architect"],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/",
+          "url": "https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/",
+          "name": "<?php echo $row['country']; ?> Construction Moratorium Impact, Response and Future Comeback - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2020-04-17T04:00:19+00:00",
+          "dateModified": "2023-09-11T13:46:34+00:00",
+          "description": "In the <?php echo $row['country']; ?> construction industry, we\u2019re liable to see a slow return to work as new cases of the virus lessen while state and city officials gradually lift restrictions.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/boston-construction-moratorium-impact-response-and-future-comeback/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/6e63ef9f98cf37362099fa270f43c591",
+          "name": "Justin",
+          "url": "https://<?php echo $row['url']; ?>/author/justin/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2674" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/7"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2674"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2674/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2675"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2674"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2674"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2674"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

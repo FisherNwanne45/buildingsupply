@@ -1,0 +1,164 @@
+{
+  "id": 31,
+  "date": "2023-03-15T20:49:44",
+  "date_gmt": "2023-03-15T20:49:44",
+  "guid": { "rendered": "https://nebldgsupply.wpengine.com/?page_id=31" },
+  "modified": "2023-06-07T12:49:39",
+  "modified_gmt": "2023-06-07T16:49:39",
+  "slug": "products",
+  "status": "publish",
+  "type": "page",
+  "link": "https://<?php echo $row['url']; ?>/products/",
+  "title": { "rendered": "Products" },
+  "content": {
+    "rendered": "\n<div class=\"wp-block-group alignfull pattern-intro-banner is-layout-constrained wp-block-group-is-layout-constrained\">\n<div class=\"wp-block-cover alignfull is-light\" style=\"min-height:47vh\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-transparent-background-color has-background-dim-0 has-background-dim\"></span><img loading=\"lazy\" decoding=\"async\" width=\"2056\" height=\"604\" class=\"wp-block-cover__image-background wp-image-3588\" alt=\"\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/05/product-banner.jpg\" data-object-fit=\"cover\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/05/product-banner.jpg 2056w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/05/product-banner-768x226.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/05/product-banner-1024x301.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/05/product-banner-1536x451.jpg 1536w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/05/product-banner-2048x602.jpg 2048w\" sizes=\"(max-width: 2056px) 100vw, 2056px\" /><div class=\"wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow\">\n<p class=\"has-text-align-center has-large-font-size\"></p>\n</div></div>\n\n\n\n<div class=\"wp-block-group alignwide intro-content is-vertical is-layout-flex wp-container-core-group-layout-1 wp-block-group-is-layout-flex\">\n<h1 class=\"wp-block-heading alignwide has-primary-color has-text-color has-h-2-font-size\">Products</h1>\n\n\n\n<p class=\"has-primary-color has-text-color has-h-3-font-size\"><strong>We offer a variety of products for any project.</strong></p>\n</div>\n</div>\n\n\n<div class=\"pattern-3-columns alignwide wp-block-blockshoon-taxonomy-grid\">\n    <ul class=\"list-taxonomy-grid\">\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"419\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/Adhesives-Caulk-Sealants-thumb.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/adhesive-caulk-sealant/\" class=\"has-primary-color has-text-color\">Adhesive, Caulk &amp; Sealant</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"488\" height=\"320\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/commercial-doors-frames-hardware-products.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/commercial-doors-frames-hardware/\" class=\"has-primary-color has-text-color\">Commercial Doors, Frames &amp; Hardware</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"488\" height=\"320\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/deck-rail-products.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/decking-composite-railings/\" class=\"has-primary-color has-text-color\">Decking &amp; Composite Railings</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"488\" height=\"320\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/fasteners-products.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/fasteners/\" class=\"has-primary-color has-text-color\">Fasteners</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"419\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/flooring-thumb.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/flooring-product-category/\" class=\"has-primary-color has-text-color\">Flooring</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"419\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/Insulation-thumb.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/insulation-product-category/\" class=\"has-primary-color has-text-color\">Insulation</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"419\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/05/Wolf-Designer-Cabinets-.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/kitchens/\" class=\"has-primary-color has-text-color\">Kitchens</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"650\" height=\"426\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/nebs-lumber-building-materials.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/lumber-building-materials/\" class=\"has-primary-color has-text-color\">Lumber &amp; Building Materials</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"488\" height=\"320\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/metal-framing-gypsum-products.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/metal-framing-gypsum/\" class=\"has-primary-color has-text-color\">Metal Framing &amp; Gypsum</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"419\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/Moulding-Trim-Columns-thumb.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/millwork/\" class=\"has-primary-color has-text-color\">Millwork</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"419\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/Pneumatic-Tools-thumb.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/pneumatic-tools/\" class=\"has-primary-color has-text-color\">Pneumatic Tools</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"488\" height=\"320\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/railings-products.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/railings-product-category/\" class=\"has-primary-color has-text-color\">Railings</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"419\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/Residential-Hardware.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/residential-door-hardware/\" class=\"has-primary-color has-text-color\">Residential Door Hardware</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"419\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/Exterior-Doors-Residential-thumb.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/exterior-doors-residential/\" class=\"has-primary-color has-text-color\">Residential Exterior Doors</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"488\" height=\"320\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/residential-interior-door-products.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/interior-doors-residential/\" class=\"has-primary-color has-text-color\">Residential Interior Doors</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"419\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/roofing-thumb.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/roofing-product-category/\" class=\"has-primary-color has-text-color\">Roofing</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"419\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/Sheet-Goods-thumb.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/sheet-goods/\" class=\"has-primary-color has-text-color\">Sheet Goods</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"488\" height=\"320\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/siding-trim-products.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/siding-exterior-trim/\" class=\"has-primary-color has-text-color\">Siding &amp; Exterior Trim</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"419\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/Tools-Accessories-thumb.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/tools-accessories/\" class=\"has-primary-color has-text-color\">Tools &amp; Accessories</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n                    <li class=\"wp-block-column has-link-arrow tax-item\">\n                                    <img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"419\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/Windows-Skylights-Roof-Hatches-thumb.jpg\" class=\"wp-block-image\" alt=\"\" />                                <h2 class=\"has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/product/windows-skylights-roof-hatches/\" class=\"has-primary-color has-text-color\">Windows, Skylights &amp; Roof Hatches</a></h2>\n                <p class=\"link-arrow\">Learn more</p>\n            </li>\n            </ul>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Products We offer a variety of products for any project.</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "footnotes": "" },
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Products - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/products/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Products - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Products We offer a variety of products for any project.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/products/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2023-06-07T16:49:39+00:00\" />\n<meta property=\"og:image\" content=\"https://nebldgsupply.wpengine.com/wp-content/uploads/2023/05/product-banner.jpg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/products/\",\"url\":\"https://<?php echo $row['url']; ?>/products/\",\"name\":\"Products - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2023-03-15T20:49:44+00:00\",\"dateModified\":\"2023-06-07T16:49:39+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/products/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Products - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/products/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Products - <?php echo $row['name']; ?> ",
+    "og_description": "Products We offer a variety of products for any project.",
+    "og_url": "https://<?php echo $row['url']; ?>/products/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_modified_time": "2023-06-07T16:49:39+00:00",
+    "og_image": [
+      {
+        "url": "https://nebldgsupply.wpengine.com/wp-content/uploads/2023/05/product-banner.jpg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": { "Est. reading time": "1 minute" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/products/",
+          "url": "https://<?php echo $row['url']; ?>/products/",
+          "name": "Products - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2023-03-15T20:49:44+00:00",
+          "dateModified": "2023-06-07T16:49:39+00:00",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["https://<?php echo $row['url']; ?>/products/"]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages/31" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=31"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages/31/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=31"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

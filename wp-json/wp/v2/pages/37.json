@@ -1,0 +1,164 @@
+{
+  "id": 37,
+  "date": "2023-03-15T20:50:33",
+  "date_gmt": "2023-03-15T20:50:33",
+  "guid": { "rendered": "https://nebldgsupply.wpengine.com/?page_id=37" },
+  "modified": "2023-06-14T15:09:08",
+  "modified_gmt": "2023-06-14T19:09:08",
+  "slug": "portfolio",
+  "status": "publish",
+  "type": "page",
+  "link": "https://<?php echo $row['url']; ?>/portfolio/",
+  "title": { "rendered": "Our Work" },
+  "content": {
+    "rendered": "\n<div class=\"wp-block-group alignfull pattern-intro-banner is-layout-constrained wp-block-group-is-layout-constrained\">\n<div class=\"wp-block-cover alignfull is-light\" style=\"min-height:47vh\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-transparent-background-color has-background-dim-0 has-background-dim\"></span><img loading=\"lazy\" decoding=\"async\" width=\"2324\" height=\"740\" class=\"wp-block-cover__image-background wp-image-3608\" alt=\"\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/our-work-banner.jpg\" data-object-fit=\"cover\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/our-work-banner.jpg 2324w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/our-work-banner-768x245.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/our-work-banner-1024x326.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/our-work-banner-1536x489.jpg 1536w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/our-work-banner-2048x652.jpg 2048w\" sizes=\"(max-width: 2324px) 100vw, 2324px\" /><div class=\"wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow\">\n<p class=\"has-text-align-center has-large-font-size\"></p>\n</div></div>\n\n\n\n<div class=\"wp-block-group alignwide intro-content is-vertical is-layout-flex wp-container-core-group-layout-1 wp-block-group-is-layout-flex\">\n<h1 class=\"wp-block-heading alignwide has-primary-color has-text-color has-h-2-font-size\">Our Work</h1>\n\n\n\n<p class=\"has-primary-color has-text-color has-h-3-font-size\"><strong>Step into our gallery of past products and witness <?php echo $row['name']; ?>  in action at our job sites throughout <?php echo $row['country']; ?></strong>.</p>\n</div>\n</div>\n\n\n\n<div class=\"wp-block-query alignwide wp-block-query_portfolio is-layout-flow wp-block-query-is-layout-flow\"><ul class=\"is-flex-container columns-2 wp-block-post-template is-layout-flow wp-block-post-template-is-layout-flow\"><li class=\"wp-block-post post-3131 bs_portfolio type-bs_portfolio status-publish has-post-thumbnail hentry\">\n<figure class=\"wp-block-post-featured-image\"><img loading=\"lazy\" decoding=\"async\" width=\"768\" height=\"411\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/dot-luxury-condo-768x411.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" style=\"object-fit:cover;\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/dot-luxury-condo-768x411.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/dot-luxury-condo-1024x548.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/dot-luxury-condo-1536x822.jpg 1536w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/dot-luxury-condo-2048x1095.jpg 2048w\" sizes=\"(max-width: 768px) 100vw, 768px\" /></figure>\n\n<h2 class=\"wp-block-post-title has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/project/488-dot-luxury-condo/\" target=\"_self\" >488 Dot Luxury Condo</a></h2>\n\n\n<p class=\"link-arrow\">See more</p>\n\n</li><li class=\"wp-block-post post-3118 bs_portfolio type-bs_portfolio status-publish has-post-thumbnail hentry\">\n<figure class=\"wp-block-post-featured-image\"><img loading=\"lazy\" decoding=\"async\" width=\"768\" height=\"439\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/cliveden-gallery-768x439.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" style=\"object-fit:cover;\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/cliveden-gallery-768x439.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/cliveden-gallery-1024x585.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/cliveden-gallery-1536x878.jpg 1536w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/cliveden-gallery.jpg 1800w\" sizes=\"(max-width: 768px) 100vw, 768px\" /></figure>\n\n<h2 class=\"wp-block-post-title has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/project/cliveden-place-56-unit-condo-and-retail-space/\" target=\"_self\" >Cliveden Place: 56 unit condo and retail space</a></h2>\n\n\n<p class=\"link-arrow\">See more</p>\n\n</li><li class=\"wp-block-post post-3134 bs_portfolio type-bs_portfolio status-publish has-post-thumbnail hentry\">\n<figure class=\"wp-block-post-featured-image\"><img loading=\"lazy\" decoding=\"async\" width=\"768\" height=\"511\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/endicott-place-768x511.jpg\" class=\"attachment-medium size-medium wp-post-image\" alt=\"\" style=\"object-fit:cover;\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/endicott-place-768x511.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/endicott-place-1024x682.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/endicott-place-1536x1023.jpg 1536w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/endicott-place.jpg 1781w\" sizes=\"(max-width: 768px) 100vw, 768px\" /></figure>\n\n<h2 class=\"wp-block-post-title has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/project/endicott-place/\" target=\"_self\" >Endicott Place</a></h2>\n\n\n<p class=\"link-arrow\">See more</p>\n\n</li></ul>\n\n\n\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Our Work Step into our gallery of past products and witness <?php echo $row['name']; ?>  in action at our job sites throughout <?php echo $row['country']; ?>.</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "footnotes": "" },
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Our Work - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/portfolio/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Our Work - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Our Work Step into our gallery of past products and witness <?php echo $row['name']; ?>  in action at our job sites throughout <?php echo $row['country']; ?>.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/portfolio/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2023-06-14T19:09:08+00:00\" />\n<meta property=\"og:image\" content=\"https://nebldgsupply.wpengine.com/wp-content/uploads/2023/06/our-work-banner.jpg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/portfolio/\",\"url\":\"https://<?php echo $row['url']; ?>/portfolio/\",\"name\":\"Our Work - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2023-03-15T20:50:33+00:00\",\"dateModified\":\"2023-06-14T19:09:08+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/portfolio/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Our Work - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/portfolio/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Our Work - <?php echo $row['name']; ?> ",
+    "og_description": "Our Work Step into our gallery of past products and witness <?php echo $row['name']; ?>  in action at our job sites throughout <?php echo $row['country']; ?>.",
+    "og_url": "https://<?php echo $row['url']; ?>/portfolio/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_modified_time": "2023-06-14T19:09:08+00:00",
+    "og_image": [
+      {
+        "url": "https://nebldgsupply.wpengine.com/wp-content/uploads/2023/06/our-work-banner.jpg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": { "Est. reading time": "1 minute" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/portfolio/",
+          "url": "https://<?php echo $row['url']; ?>/portfolio/",
+          "name": "Our Work - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2023-03-15T20:50:33+00:00",
+          "dateModified": "2023-06-14T19:09:08+00:00",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["https://<?php echo $row['url']; ?>/portfolio/"]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages/37" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=37"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages/37/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=37"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

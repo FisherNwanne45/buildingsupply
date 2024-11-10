@@ -1,0 +1,164 @@
+{
+  "id": 29,
+  "date": "2023-03-15T20:49:34",
+  "date_gmt": "2023-03-15T20:49:34",
+  "guid": { "rendered": "https://nebldgsupply.wpengine.com/?page_id=29" },
+  "modified": "2024-09-13T14:53:41",
+  "modified_gmt": "2024-09-13T18:53:41",
+  "slug": "architect",
+  "status": "publish",
+  "type": "page",
+  "link": "https://<?php echo $row['url']; ?>/architect/",
+  "title": { "rendered": "Architect" },
+  "content": {
+    "rendered": "\n<div class=\"wp-block-group alignfull pattern-intro-banner is-layout-constrained wp-block-group-is-layout-constrained\">\n<div class=\"wp-block-cover alignfull\" style=\"min-height:47vh\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-transparent-background-color has-background-dim-0 has-background-dim\"></span><img loading=\"lazy\" decoding=\"async\" width=\"2560\" height=\"750\" class=\"wp-block-cover__image-background wp-image-3618\" alt=\"\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/architect-banner.jpg\" style=\"object-position:50% 100%\" data-object-fit=\"cover\" data-object-position=\"50% 100%\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/architect-banner.jpg 2560w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/architect-banner-768x225.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/architect-banner-1024x300.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/architect-banner-1536x450.jpg 1536w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/architect-banner-2048x600.jpg 2048w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" /><div class=\"wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow\">\n<p class=\"has-text-align-center has-large-font-size\"></p>\n</div></div>\n\n\n\n<div class=\"wp-block-group alignwide intro-content is-vertical is-layout-flex wp-container-core-group-layout-1 wp-block-group-is-layout-flex\">\n<h1 class=\"wp-block-heading alignwide has-primary-color has-text-color has-h-2-font-size\">Architect</h1>\n\n\n\n<p class=\"has-primary-color has-text-color has-h-3-font-size\"><strong>Build your dream home.</strong></p>\n</div>\n</div>\n\n\n\n<div class=\"wp-block-columns alignwide pattern-offset-img-columns justify-space-between is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column img-col is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:48%\">\n<figure class=\"wp-block-image size-full is-resized\"><img loading=\"lazy\" decoding=\"async\" width=\"369\" height=\"462\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/architect-sm.jpg\" alt=\"\" class=\"wp-image-3227\" style=\"width:246px;height:undefinedpx\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" decoding=\"async\" width=\"704\" height=\"665\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/architect-lg.jpg\" alt=\"\" class=\"wp-image-3228\"/></figure>\n</div>\n\n\n\n<div class=\"wp-block-column content-col is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:42.5%\">\n<p>We\u2019ll work with you to answer questions, research solutions, imagine possibilities, plan projects, and make it all come together on time.</p>\n\n\n\n<h2 class=\"wp-block-heading has-primary-color has-text-color has-x-large-font-size\">Experience</h2>\n\n\n\n<p>We pride ourselves on being your partner from start to finish. We\u2019ll help you understand the products, materials solutions that best meet your design needs, so the result is functional and beautiful.</p>\n\n\n\n<h2 class=\"wp-block-heading has-primary-color has-text-color has-x-large-font-size\">Blueprints</h2>\n\n\n\n<p>We\u00a0take blueprints from concept to reality. We\u2019ll\u00a0guide you every step of the way in determining what materials best fit your plan.</p>\n\n\n\n<h2 class=\"wp-block-heading has-primary-color has-text-color has-x-large-font-size\">Estimating Services</h2>\n\n\n\n<p>Let our skilled construction estimators help you plan your next project and buy suitable materials to reduce overhead and waste. We use the latest estimating and engineering software for all material take-offs, including lumber, doors, windows, siding, and kitchen and bath.</p>\n</div>\n</div>\n\n\n\n<h2 class=\"wp-block-heading alignwide is-style-with-border has-primary-color has-text-color has-h-3-font-size\">Our Services</h2>\n\n\n\n<div class=\"wp-block-columns alignwide pattern-3-columns justify-space-between is-layout-flex wp-container-core-columns-layout-2 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column has-link-arrow is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:27%\">\n<figure class=\"wp-block-image size-medium\"><img loading=\"lazy\" decoding=\"async\" width=\"768\" height=\"512\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/design-center-sevices-768x512.jpg\" alt=\"\" class=\"wp-image-3605\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/design-center-sevices-768x512.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/design-center-sevices.jpg 875w\" sizes=\"(max-width: 768px) 100vw, 768px\" /></figure>\n\n\n\n<h3 class=\"wp-block-heading has-primary-color has-text-color has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/service/design-center/\">Design Center</a></h3>\n\n\n\n<p class=\"has-small-font-size\">Our design center is open to the public and conveniently located right off I-93 in downtown <?php echo $row['country']; ?>. See windows, doors, cabinets, kitchens, bath designs, countertops, flooring materials, siding and roofing displays, and more.</p>\n\n\n\n<p class=\"link-arrow\">Learn more</p>\n</div>\n\n\n\n<div class=\"wp-block-column has-link-arrow is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:27%\">\n<figure class=\"wp-block-image size-medium\"><img loading=\"lazy\" decoding=\"async\" width=\"768\" height=\"512\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/estimating-services-768x512.jpg\" alt=\"\" class=\"wp-image-3217\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/estimating-services-768x512.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/estimating-services.jpg 875w\" sizes=\"(max-width: 768px) 100vw, 768px\" /></figure>\n\n\n\n<h3 class=\"wp-block-heading has-primary-color has-text-color has-h-5-font-size\"><a href=\"/service/estimating/\">Estimating</a></h3>\n\n\n\n<p class=\"has-small-font-size\">Looking to streamline your construction projects in the <?php echo $row['country']; ?> area? <?php echo $row['name']; ?>  offers estimating services tailored for residential and commercial builders, developers, and homeowners, ensuring accurate cost projections and maximizing your project&#8217;s success.</p>\n\n\n\n<p class=\"link-arrow\">Learn more</p>\n</div>\n\n\n\n<div class=\"wp-block-column has-link-arrow is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:27%\">\n<figure class=\"wp-block-image size-medium\"><img loading=\"lazy\" decoding=\"async\" width=\"768\" height=\"512\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/delivery-services-768x512.jpg\" alt=\"\" class=\"wp-image-3219\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/delivery-services-768x512.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/delivery-services.jpg 875w\" sizes=\"(max-width: 768px) 100vw, 768px\" /></figure>\n\n\n\n<h3 class=\"wp-block-heading has-primary-color has-text-color has-h-5-font-size\"><a href=\"/service/delivery/\">Delivery</a></h3>\n\n\n\n<p class=\"has-small-font-size\">We keep a full fleet of trucks onsite so we can deliver building materials throughout the <?php echo $row['country']; ?> area in a professional and timely manner. Our fleet includes boom trucks, which can accommodate 8 stories or up to 90 feet.</p>\n\n\n\n<p class=\"link-arrow\">Learn more</p>\n</div>\n</div>\n\n\n\n<h2 class=\"wp-block-heading alignwide is-style-with-border has-primary-color has-text-color has-h-3-font-size\">Our Products</h2>\n\n\n\n<div class=\"wp-block-columns alignwide pattern-3-columns justify-space-between is-layout-flex wp-container-core-columns-layout-3 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column has-link-arrow is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:27%\">\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"427\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/05/Drutex.jpg\" alt=\"\" class=\"wp-image-3550\"/></figure>\n\n\n\n<h3 class=\"wp-block-heading has-primary-color has-text-color has-h-5-font-size\"><a href=\"/product/windows-skylights-roof-hatches/\">Windows</a></h3>\n\n\n\n<p class=\"has-small-font-size\">Unleash your architectural creativity with <?php echo $row['name']; ?> &#8217;s exquisite windows collection. Designed to inspire, our premium windows blend elegance and innovation, allowing <?php echo $row['country']; ?> architects to bring their visionary designs to life.</p>\n\n\n\n<p class=\"link-arrow\">Learn more</p>\n</div>\n\n\n\n<div class=\"wp-block-column has-link-arrow is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:27%\">\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"427\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/05/Prodigy_.jpg\" alt=\"\" class=\"wp-image-3382\"/></figure>\n\n\n\n<h3 class=\"wp-block-heading has-primary-color has-text-color has-h-5-font-size\"><a href=\"/product/kitchens/\">Kitchens</a></h3>\n\n\n\n<p class=\"has-small-font-size\">Ignite your architectural imagination with <?php echo $row['name']; ?> &#8217;s extraordinary kitchen products. From sleek and modern designs to timeless classics, our collection offers <?php echo $row['country']; ?> architects a world of possibilities to craft stunning culinary spaces.</p>\n\n\n\n<p class=\"link-arrow\">Learn more</p>\n</div>\n\n\n\n<div class=\"wp-block-column has-link-arrow is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:27%\">\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" decoding=\"async\" width=\"640\" height=\"427\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/Trex.jpg\" alt=\"\" class=\"wp-image-3273\"/></figure>\n\n\n\n<h3 class=\"wp-block-heading has-primary-color has-text-color has-h-5-font-size\"><a href=\"/product/decking-composite-railings/\">Decking &amp; Railings</a></h3>\n\n\n\n<p class=\"has-small-font-size\">Discover our exceptional range of decking and railing products at <?php echo $row['name']; ?>  and elevate your designs with our meticulously crafted materials. From cutting-edge composite decks to breathtaking railings, we offer the perfect synergy of aesthetics and durability, designed to leave a lasting impression on the iconic skyline of <?php echo $row['country']; ?>.</p>\n\n\n\n<p class=\"link-arrow\">Learn more</p>\n</div>\n</div>\n\n\n\n<div class=\"wp-block-group alignfull pattern-bg-highlight has-light-blue-background-color has-background is-content-justification-center is-layout-constrained wp-block-group-is-layout-constrained\">\n<div class=\"wp-block-columns alignwide justify-space-between is-layout-flex wp-container-core-columns-layout-4 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:34%\">\n<h2 class=\"wp-block-heading has-h-3-font-size\">Ready to start a project?</h2>\n</div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:48%\">\n<p class=\"has-large-font-size\">Give us a call at <?php echo $row['phone']; ?> or email us here, and we\u2019ll connect to get you the answers you need.</p>\n\n\n\n<div class=\"wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"/request-a-quote/\">Request Quote</a></div>\n</div>\n</div>\n</div>\n</div>\n\n\n\n<h2 class=\"wp-block-heading alignwide is-style-with-border has-primary-color has-text-color\">Related Posts</h2>\n\n\n    <div class=\"query-loop-main wp-block-query alignwide wp-block-blockshoon-post-picker\">\n                    <ul class=\"is-flex-container columns-3 alignwide wp-block-post-template is-layout-flow\">\n                                    <li class=\"wp-block-post\" class=\"wp-block-post-title has-h-5-font-size\">\n                        <h2 style=\"text-transform:uppercase;\" class=\"wp-block-post-title has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/historic-home-renovation/\">Historic Home Renovation 101: 5 Tips for Mixing Modern with Historic</a></h2>\n                                                    <figure class=\"wp-block-post-featured-image\">\n                                <img loading=\"lazy\" decoding=\"async\" width=\"768\" height=\"511\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2021/03/shutterstock_503917549-scaled-1-768x511.jpg\" class=\"wp-post-image wp-post-image\" alt=\"historic home renovation\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2021/03/shutterstock_503917549-scaled-1-768x511.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2021/03/shutterstock_503917549-scaled-1-1024x681.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2021/03/shutterstock_503917549-scaled-1-1536x1022.jpg 1536w, https://<?php echo $row['url']; ?>/wp-content/uploads/2021/03/shutterstock_503917549-scaled-1-2048x1362.jpg 2048w\" sizes=\"(max-width: 768px) 100vw, 768px\" />                            </figure>\n                                                <div class=\"wp-block-group post-meta has-small-font-size is-content-justification-space-between is-layout-flex wp-container-12\">\n                            <div class=\"wp-block-post-date\">\n                                <time>03.31.2021</time>\n                            </div>\n\n                            <div style=\"text-transform:uppercase;\" class=\"taxonomy-category wp-block-post-terms wp-block-blockshoon-primary-category\">\n                                <a href=\"https://<?php echo $row['url']; ?>/category/architect/\" rel=\"tag\">Architect</a>\n                            </div>\n                        </div>\n                        <p class=\"has-primary-color has-text-color has-small-font-size\" style=\"text-decoration:underline\">Read more</p>\n                    </li>\n                                    <li class=\"wp-block-post\" class=\"wp-block-post-title has-h-5-font-size\">\n                        <h2 style=\"text-transform:uppercase;\" class=\"wp-block-post-title has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/why-fiber-cement-siding-is-perfect-for-your-boston-building-project/\">Why Fiber Cement Siding is Perfect for Your <?php echo $row['country']; ?> Building Project</a></h2>\n                                                    <figure class=\"wp-block-post-featured-image\">\n                                <img loading=\"lazy\" decoding=\"async\" width=\"768\" height=\"515\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2019/12/fiber-cement-siding-768x515.png\" class=\"wp-post-image wp-post-image\" alt=\"fiber cement siding\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2019/12/fiber-cement-siding-768x515.png 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2019/12/fiber-cement-siding-1024x687.png 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2019/12/fiber-cement-siding.png 1280w\" sizes=\"(max-width: 768px) 100vw, 768px\" />                            </figure>\n                                                <div class=\"wp-block-group post-meta has-small-font-size is-content-justification-space-between is-layout-flex wp-container-12\">\n                            <div class=\"wp-block-post-date\">\n                                <time>12.18.2019</time>\n                            </div>\n\n                            <div style=\"text-transform:uppercase;\" class=\"taxonomy-category wp-block-post-terms wp-block-blockshoon-primary-category\">\n                                <a href=\"https://<?php echo $row['url']; ?>/category/architect/\" rel=\"tag\">Architect</a>\n                            </div>\n                        </div>\n                        <p class=\"has-primary-color has-text-color has-small-font-size\" style=\"text-decoration:underline\">Read more</p>\n                    </li>\n                                    <li class=\"wp-block-post\" class=\"wp-block-post-title has-h-5-font-size\">\n                        <h2 style=\"text-transform:uppercase;\" class=\"wp-block-post-title has-h-5-font-size\"><a href=\"https://<?php echo $row['url']; ?>/10-galley-kitchen-remodeling-ideas-2/\">10 Galley Kitchen Remodeling Ideas</a></h2>\n                                                    <figure class=\"wp-block-post-featured-image\">\n                                <img loading=\"lazy\" decoding=\"async\" width=\"560\" height=\"315\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2019/01/galley-kitchen.png\" class=\"wp-post-image wp-post-image\" alt=\"galley kitchen\" />                            </figure>\n                                                <div class=\"wp-block-group post-meta has-small-font-size is-content-justification-space-between is-layout-flex wp-container-12\">\n                            <div class=\"wp-block-post-date\">\n                                <time>01.09.2019</time>\n                            </div>\n\n                            <div style=\"text-transform:uppercase;\" class=\"taxonomy-category wp-block-post-terms wp-block-blockshoon-primary-category\">\n                                <a href=\"https://<?php echo $row['url']; ?>/category/triple-decker/\" rel=\"tag\">Triple Decker</a>\n                            </div>\n                        </div>\n                        <p class=\"has-primary-color has-text-color has-small-font-size\" style=\"text-decoration:underline\">Read more</p>\n                    </li>\n                            </ul>\n            </div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Architect Build your dream home. We\u2019ll work with you to answer questions, research solutions, imagine possibilities, plan projects, and make it all come together on time. Experience We pride ourselves on being your partner from start to finish. We\u2019ll help you understand the products, materials solutions that best meet your design needs, so the result\u2026</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "footnotes": "" },
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Architect - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/architect/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Architect - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Architect Build your dream home. We\u2019ll work with you to answer questions, research solutions, imagine possibilities, plan projects, and make it all come together on time. Experience We pride ourselves on being your partner from start to finish. We\u2019ll help you understand the products, materials solutions that best meet your design needs, so the result\u2026\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/architect/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-09-13T18:53:41+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/architect-banner.jpg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"4 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/architect/\",\"url\":\"https://<?php echo $row['url']; ?>/architect/\",\"name\":\"Architect - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2023-03-15T20:49:34+00:00\",\"dateModified\":\"2024-09-13T18:53:41+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/architect/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Architect - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/architect/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Architect - <?php echo $row['name']; ?> ",
+    "og_description": "Architect Build your dream home. We\u2019ll work with you to answer questions, research solutions, imagine possibilities, plan projects, and make it all come together on time. Experience We pride ourselves on being your partner from start to finish. We\u2019ll help you understand the products, materials solutions that best meet your design needs, so the result\u2026",
+    "og_url": "https://<?php echo $row['url']; ?>/architect/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_modified_time": "2024-09-13T18:53:41+00:00",
+    "og_image": [
+      {
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/architect-banner.jpg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": { "Est. reading time": "4 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/architect/",
+          "url": "https://<?php echo $row['url']; ?>/architect/",
+          "name": "Architect - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2023-03-15T20:49:34+00:00",
+          "dateModified": "2024-09-13T18:53:41+00:00",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["https://<?php echo $row['url']; ?>/architect/"]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages/29" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=29"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages/29/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=29"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

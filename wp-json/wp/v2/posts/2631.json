@@ -1,0 +1,242 @@
+{
+  "id": 2631,
+  "date": "2019-11-20T09:17:02",
+  "date_gmt": "2019-11-20T14:17:02",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2631" },
+  "modified": "2023-09-11T09:46:50",
+  "modified_gmt": "2023-09-11T13:46:50",
+  "slug": "how-to-choose-a-quality-tool-belt",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/",
+  "title": { "rendered": "How to Choose a Quality Tool Belt" },
+  "content": {
+    "rendered": "<p>What is even more important than choosing the right tools for the job? Choosing the right tool belt! Lots of workers don\u2019t put a lot of thought into which tool belt they use, but among everything that you use for your job, the tool belt is probably one of the most important pieces of equipment. That\u2019s because the tools might change over time, or even from one day to the next. But the belt? That\u2019s one thing you\u2019ll be using every single day on the job site, which means it\u2019s important to make the right choice. Here are a few things for you to consider so you can make that choice!</p>\n<h2><strong>Tips for Choosing the Right Tool Belt</strong></h2>\n<p>The foremost things to look for are durability and comfort. A good quality tool belt should be plenty sturdy. Leather tool belts are an excellent option, and thick nylon fabric is a very strong, choice, too. Both of these materials, when sewn and riveted with good, sturdy fasteners, can handle the weight of a lot of tools and stand up to day-to-day wear and tear. And, these materials are comfortable to wear. Plenty flexible and soft so that they\u2019re not digging into your waist as you move around and get the job done. Nylon belts, in particular, are a little bit lighter, so if weight or low back issues are a concern, you might opt for nylon over leather.</p>\n<p>But there are a few other considerations you\u2019ll want to keep in mind as you shop:</p>\n<ul>\n<li>For many contractors, the job changes from one day to the next. Roofing today, framing tomorrow, installing moldings the next day. Look for tool belts that can accommodate a wide variety of different tools.</li>\n<li>Tool belt systems are a great choice because of their flexibility. Some tool belts have fixed straps and pouches, which doesn\u2019t allow for you to customize as easily from one day to the next. But a tool belt system gives you slide-off tool holders, which means that as the job changes, you can simply remove pouches with tools you no longer need and add pouches that have the things you do need. This makes swapping tools in and out so much easier.</li>\n<li>Think about the types of tools you\u2019ll be stowing. Some things, like chisels, have sharp edges that will wear belt pockets over time. If stuff like this is part of your kit, look for tool belts designed with extra reinforcement to help protect against this type of wear.</li>\n<li>Are you right-handed or left-handed? <span class=\"scayt-misspell-word\" data-scayt-word=\"Righties\" data-wsc-lang=\"en_US\" data-wsc-id=\"k37d8dzs7gcwk6ujf\">Righties</span> are more common than lefties, which means tools and fixed tool belts are most often designed around right-handed people. If you\u2019re a <span class=\"scayt-misspell-word\" data-scayt-word=\"leftie\" data-wsc-lang=\"en_US\" data-wsc-id=\"k37d8e2q2s3nmdeem\">leftie</span>, tool belts with removable pouches may be the right answer so that you can move things around according to hand preference.</li>\n</ul>\n<h2><strong>Organizing Your Tool Belt</strong></h2>\n<p>Organization seems like a no-brainer, right? Just place all the tools on the belt in such a way that they\u2019re easy to reach, and so that the weight is distributed nicely to not strain your back. But it\u2019s not quite that easy!</p>\n<p>You\u2019ll need to think about safety, for one thing. One reason why some people become frustrated with tool belts is that hammers or other larger objects tend to snag on ladders, doorways and so forth. So as you\u2019re putting the tool belt together, think about how you move as you\u2019re working so that you can organize the belt to be free of potential snags and safety hazards.</p>\n<p>Think about the positions of pouches of nails and other fasteners, too. There\u2019s nothing more frustrating than moving about a rooftop on your knees, only to have the pouch of roofing nails at your side spill all over the place. When organizing, place pouches of fasteners so that no matter how you bend, they won\u2019t spill.</p>\n<p>If you\u2019re in need of a new tool belt, stop by <a href=\"https://<?php echo $row['url']; ?>/located-in-the-heart-of-the-boston-building-boom/\"><?php echo $row['name']; ?> </a>! We carry <a href=\"http://www.occidentalleather.com/\">Occidental Leather tool belts</a>, which are handmade using traditional tanning processes, designed to be durable and flexible to your needs. Check them out and you\u2019ll find a tool belt system perfect for your line of work.</p>\n<p style=\"text-align: center;\">[yotuwp type=&#8221;videos&#8221; id=&#8221;t7rihgeSS3g&#8221; player=&#8221;rel=0&#8243;]</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>What is even more important than choosing the right tools for the job? Choosing the right tool belt! Lots of workers don\u2019t put a lot of thought into which tool belt they use, but among everything that you use for your job, the tool belt is probably one of the most important pieces of equipment.\u2026</p>\n",
+    "protected": false
+  },
+  "author": 7,
+  "featured_media": 2632,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [5, 6, 19, 40, 8],
+  "tags": [9, 10, 249, 259, 130, 257, 16, 258],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>How to Choose a Quality Tool Belt - <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"For a <?php echo $row['country']; ?> construction pro the tool belt is probably one of the most important pieces of equipment they can have! How to choose a durable, high quality tool belt.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"How to Choose a Quality Tool Belt - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"For a <?php echo $row['country']; ?> construction pro the tool belt is probably one of the most important pieces of equipment they can have! How to choose a durable, high quality tool belt.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2019-11-20T14:17:02+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:50+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2019/11/construction-tool-belts.png\" />\n\t<meta property=\"og:image:width\" content=\"1280\" />\n\t<meta property=\"og:image:height\" content=\"859\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"author\" content=\"Justin\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Justin\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"4 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/\"},\"author\":{\"name\":\"Justin\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/6e63ef9f98cf37362099fa270f43c591\"},\"headline\":\"How to Choose a Quality Tool Belt\",\"datePublished\":\"2019-11-20T14:17:02+00:00\",\"dateModified\":\"2023-09-11T13:46:50+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/\"},\"wordCount\":724,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"keywords\":[\"<?php echo $row['country']; ?>\",\"Builder\",\"construction\",\"construction supplies\",\"Contractor\",\"pro\",\"Remodeler\",\"tool belt\"],\"articleSection\":[\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Construction Crew\",\"Contractor\",\"Remodeler\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/\",\"url\":\"https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/\",\"name\":\"How to Choose a Quality Tool Belt - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2019-11-20T14:17:02+00:00\",\"dateModified\":\"2023-09-11T13:46:50+00:00\",\"description\":\"For a <?php echo $row['country']; ?> construction pro the tool belt is probably one of the most important pieces of equipment they can have! How to choose a durable, high quality tool belt.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/6e63ef9f98cf37362099fa270f43c591\",\"name\":\"Justin\",\"url\":\"https://<?php echo $row['url']; ?>/author/justin/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "How to Choose a Quality Tool Belt - <?php echo $row['name']; ?> ",
+    "description": "For a <?php echo $row['country']; ?> construction pro the tool belt is probably one of the most important pieces of equipment they can have! How to choose a durable, high quality tool belt.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "How to Choose a Quality Tool Belt - <?php echo $row['name']; ?> ",
+    "og_description": "For a <?php echo $row['country']; ?> construction pro the tool belt is probably one of the most important pieces of equipment they can have! How to choose a durable, high quality tool belt.",
+    "og_url": "https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2019-11-20T14:17:02+00:00",
+    "article_modified_time": "2023-09-11T13:46:50+00:00",
+    "og_image": [
+      {
+        "width": 1280,
+        "height": 859,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2019/11/construction-tool-belts.png",
+        "type": "image/png"
+      }
+    ],
+    "author": "Justin",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "Justin",
+      "Est. reading time": "4 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/"
+          },
+          "author": {
+            "name": "Justin",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/6e63ef9f98cf37362099fa270f43c591"
+          },
+          "headline": "How to Choose a Quality Tool Belt",
+          "datePublished": "2019-11-20T14:17:02+00:00",
+          "dateModified": "2023-09-11T13:46:50+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/"
+          },
+          "wordCount": 724,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "keywords": [
+            "<?php echo $row['country']; ?>",
+            "Builder",
+            "construction",
+            "construction supplies",
+            "Contractor",
+            "pro",
+            "Remodeler",
+            "tool belt"
+          ],
+          "articleSection": [
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Construction Crew",
+            "Contractor",
+            "Remodeler"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/",
+          "url": "https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/",
+          "name": "How to Choose a Quality Tool Belt - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2019-11-20T14:17:02+00:00",
+          "dateModified": "2023-09-11T13:46:50+00:00",
+          "description": "For a <?php echo $row['country']; ?> construction pro the tool belt is probably one of the most important pieces of equipment they can have! How to choose a durable, high quality tool belt.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/how-to-choose-a-quality-tool-belt/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/6e63ef9f98cf37362099fa270f43c591",
+          "name": "Justin",
+          "url": "https://<?php echo $row['url']; ?>/author/justin/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2631" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/7"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2631"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2631/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2632"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2631"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2631"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2631"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

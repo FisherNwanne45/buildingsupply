@@ -1,0 +1,166 @@
+{
+  "id": 43,
+  "date": "2023-03-15T20:51:08",
+  "date_gmt": "2023-03-15T20:51:08",
+  "guid": { "rendered": "https://nebldgsupply.wpengine.com/?page_id=43" },
+  "modified": "2024-09-13T14:54:38",
+  "modified_gmt": "2024-09-13T18:54:38",
+  "slug": "credit-application",
+  "status": "publish",
+  "type": "page",
+  "link": "https://<?php echo $row['url']; ?>/credit-application/",
+  "title": { "rendered": "Credit Application" },
+  "content": {
+    "rendered": "\n<div class=\"wp-block-group alignfull pattern-intro-banner is-layout-constrained wp-block-group-is-layout-constrained\">\n<div class=\"wp-block-cover alignfull is-light\" style=\"min-height:47vh\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-transparent-background-color has-background-dim-0 has-background-dim\"></span><img loading=\"lazy\" decoding=\"async\" width=\"2560\" height=\"800\" class=\"wp-block-cover__image-background wp-image-3756\" alt=\"\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/credit-application-banner.jpg\" data-object-fit=\"cover\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/credit-application-banner.jpg 2560w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/credit-application-banner-768x240.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/credit-application-banner-1024x320.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/credit-application-banner-1536x480.jpg 1536w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/credit-application-banner-2048x640.jpg 2048w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" /><div class=\"wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow\">\n<p class=\"has-text-align-center has-large-font-size\"></p>\n</div></div>\n\n\n\n<div class=\"wp-block-group alignwide intro-content is-vertical is-layout-flex wp-container-core-group-layout-1 wp-block-group-is-layout-flex\">\n<h1 class=\"wp-block-heading alignwide has-primary-color has-text-color has-h-2-font-size\">Credit Application</h1>\n\n\n\n<p class=\"has-primary-color has-text-color has-h-3-font-size\"><strong><?php echo $row['name']; ?>  offers a complete line of quality building material products for your construction project.</strong></p>\n</div>\n</div>\n\n\n\n<div class=\"wp-block-group alignwide pattern-section-intro is-content-justification-left is-layout-constrained wp-container-core-group-layout-3 wp-block-group-is-layout-constrained\">\n<p>Maximize our services when you open a <?php echo $row['name']; ?>  credit account\u00a0to make it easier for you to get what you need and get right back to work.</p>\n\n\n\n<p>Fill out your Credit Application &amp; Sales Agreement linked below, print, sign, then email it to our Credit Manager for review.</p>\n\n\n\n<div class=\"wp-block-buttons alignwide is-layout-flex wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button is-style-bg-primary\"><a class=\"wp-block-button__link wp-element-button\" href=\"mailto:<?php echo $row['email']; ?>\">Email Credit Manager</a></div>\n\n\n\n<div class=\"wp-block-button is-style-bg-dark\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/NEBS-Credit-Application-and-TCs-6.22.23.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">Download Credit Application</a></div>\n</div>\n</div>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Credit Application <?php echo $row['name']; ?>  offers a complete line of quality building material products for your construction project. Maximize our services when you open a <?php echo $row['name']; ?>  credit account\u00a0to make it easier for you to get what you need and get right back to work. Fill out your Credit Application &amp; Sales\u2026</p>\n",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": { "footnotes": "" },
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Credit Application - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/credit-application/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Credit Application - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Credit Application <?php echo $row['name']; ?>  offers a complete line of quality building material products for your construction project. Maximize our services when you open a <?php echo $row['name']; ?>  credit account\u00a0to make it easier for you to get what you need and get right back to work. Fill out your Credit Application &amp; Sales\u2026\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/credit-application/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2024-09-13T18:54:38+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/credit-application-banner.jpg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/credit-application/\",\"url\":\"https://<?php echo $row['url']; ?>/credit-application/\",\"name\":\"Credit Application - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2023-03-15T20:51:08+00:00\",\"dateModified\":\"2024-09-13T18:54:38+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/credit-application/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Credit Application - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/credit-application/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Credit Application - <?php echo $row['name']; ?> ",
+    "og_description": "Credit Application <?php echo $row['name']; ?>  offers a complete line of quality building material products for your construction project. Maximize our services when you open a <?php echo $row['name']; ?>  credit account\u00a0to make it easier for you to get what you need and get right back to work. Fill out your Credit Application &amp; Sales\u2026",
+    "og_url": "https://<?php echo $row['url']; ?>/credit-application/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_modified_time": "2024-09-13T18:54:38+00:00",
+    "og_image": [
+      {
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/06/credit-application-banner.jpg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": { "Est. reading time": "1 minute" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/credit-application/",
+          "url": "https://<?php echo $row['url']; ?>/credit-application/",
+          "name": "Credit Application - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2023-03-15T20:51:08+00:00",
+          "dateModified": "2024-09-13T18:54:38+00:00",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/credit-application/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages/43" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=43"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/pages/43/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=43"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

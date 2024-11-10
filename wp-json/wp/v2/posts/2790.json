@@ -1,0 +1,237 @@
+{
+  "id": 2790,
+  "date": "2021-04-28T17:22:15",
+  "date_gmt": "2021-04-28T21:22:15",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2790" },
+  "modified": "2023-09-11T09:46:12",
+  "modified_gmt": "2023-09-11T13:46:12",
+  "slug": "sustainable-building-trex",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/sustainable-building-trex/",
+  "title": {
+    "rendered": "Go Green with Trex Decking: A Sustainable Building Solution"
+  },
+  "content": {
+    "rendered": "<p><span data-mce-type=\"bookmark\" style=\"width: 0px;overflow: hidden;line-height: 0\" class=\"mce_SELRES_start\"><span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">\ufeff</span><span data-mce-type=\"bookmark\" style=\"width: 0px;overflow: hidden;line-height: 0\" class=\"mce_SELRES_start\">\ufeff</span>\ufeff</span>As we\u2019ve seen over the decades, what\u2019s \u201cin\u201d or what\u2019s popular is constantly changing. For the building and construction industry, it could be interior design, architecture trends, or which city is the new hot spot for building\u2014regardless of the trend\u2019s current popularity, we know that will likely change in the coming years. </p>\n<p>\nHowever, there is one trend that will always be in style no matter what the day is: sustainable building. Lucky for you, <a href=\"https://<?php echo $row['url']; ?>/trex-decking-benefits/\">Trex decking</a> is the perfect solution for building green when it comes to your outdoor living project.</p>\n<h3>What Makes Trex Decking Sustainable? </h3>\n<p>Trex composite decking is made from <a href=\"https://www.trex.com/why-trex/eco-friendly-decking/\" traget=\"_blank\" rel=\"noopener\">95% reclaimed wood and plastic film</a>\u2014recycling at its finest. The following reasons are why Trex decking is the perfect choice for your sustainable building project:</p>\n<ul>\n\u2022\t<strong>Reclaimed wood</strong>. Trex sources local reclaimed wood for composite decking, minimizing landfill waste and tree use.<br />\n\u2022\t<strong>Recycled plastic film</strong>. Trex combines reclaimed wood with recycled plastic film from paper towel overwrap, sandwich bags, newspaper sleeves, and grocery bags.</ul>\n</ul>\n<p>Composite decking the best choice when it comes to sustainable building. The average 500-square foot composite deck contains 140,000 recycled plastic bags, making Trex one of the largest plastic bag recyclers in the country. If you\u2019re looking to minimize your carbon footprint and build green, using Trex decking for your outdoor living project is a no-brainer. </p>\n<h3>How is Trex Decking Made? </h3>\n<p>If you\u2019re not already convinced that it\u2019s important to find sustainable building products, let\u2019s take a look at the production process of Trex decking:</p>\n<ul>\n<p>1.\tBuy reclaimed wood/sawdust and recycled plastic film;<br />\n2.\tClean and ground film into granules;<br />\n3.\tCombine and heat sawdust and film;<br />\n4.\tMix mixture and form into boards;<br />\n5.\tCool and cut boards;<br />\n6.\tInspect boards for color accuracy, strength, and defects; and<br />\n7.\tWrap and ship boards.</ul>\n</ul>\n<p>Not only is Trex decking an eco-friendly product, but the manufacturing process is just as green when it comes to eliminating environmental waste. Almost 100% of Trex\u2019s factory runoff from production is recycled and reused for the next project!</p>\n<h3>Build Green with <?php echo $row['name']; ?> and Trex Decking </h3>\n<p>Now that you know just how green composite decking is, it\u2019s time to use it for your outdoor living project. At <?php echo $row['name']; ?> , we believe that the future of the construction industry is sustainable building\u2014that\u2019s why we carry a variety of <a href=\"https://<?php echo $row['url']; ?>/discover-trex/\">Trex decking products</a> for all your decking needs. </p>\n<p>\n<a href=\"https://goo.gl/maps/x6wT35D1AFqYZEf4A\" target=\"_blank\" rel=\"noopener\">Stop by our downtown <?php echo $row['country']; ?> showroom</a> or <a href=\"https://<?php echo $row['url']; ?>/contact-us/\">give us a call today</a> to speak with one of our decking experts about the Trex products we carry. We can supply you with composite decking, railing, outdoor lighting, and decking and railing duos to ensure that you\u2019re building a beautiful and relaxing outdoor living space while saving the environment. Sustainable building is the future\u2014it\u2019s time to go green!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>\ufeff\ufeff\ufeffAs we\u2019ve seen over the decades, what\u2019s \u201cin\u201d or what\u2019s popular is constantly changing. For the building and construction industry, it could be interior design, architecture trends, or which city is the new hot spot for building\u2014regardless of the trend\u2019s current popularity, we know that will likely change in the coming years. However, there is\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 2791,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [5, 6, 30, 40, 235, 7, 28, 8],
+  "tags": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Go Green with Trex Decking: A Sustainable Building Solution \u2192 <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"Trex decking is the perfect solution for sustainable building. Contact a <?php echo $row['name']; ?> decking expert to learn more about Trex composite decking.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/sustainable-building-trex/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Go Green with Trex Decking: A Sustainable Building Solution \u2192 <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Trex decking is the perfect solution for sustainable building. Contact a <?php echo $row['name']; ?> decking expert to learn more about Trex composite decking.\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/sustainable-building-trex/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2021-04-28T21:22:15+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:12+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2021/04/39883124_10161020890015554_7179577394825527296_n.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2048\" />\n\t<meta property=\"og:image:height\" content=\"1071\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"2 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/sustainable-building-trex/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/sustainable-building-trex/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"Go Green with Trex Decking: A Sustainable Building Solution\",\"datePublished\":\"2021-04-28T21:22:15+00:00\",\"dateModified\":\"2023-09-11T13:46:12+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/sustainable-building-trex/\"},\"wordCount\":479,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"articleSection\":[\"Builder\",\"Building in <?php echo $row['country']; ?>\",\"Building Trends\",\"Contractor\",\"Decks\",\"Developer\",\"Homeowner\",\"Remodeler\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/sustainable-building-trex/\",\"url\":\"https://<?php echo $row['url']; ?>/sustainable-building-trex/\",\"name\":\"Go Green with Trex Decking: A Sustainable Building Solution \u2192 <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2021-04-28T21:22:15+00:00\",\"dateModified\":\"2023-09-11T13:46:12+00:00\",\"description\":\"Trex decking is the perfect solution for sustainable building. Contact a <?php echo $row['name']; ?> decking expert to learn more about Trex composite decking.\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/sustainable-building-trex/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"https://<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Go Green with Trex Decking: A Sustainable Building Solution \u2192 <?php echo $row['name']; ?> ",
+    "description": "Trex decking is the perfect solution for sustainable building. Contact a <?php echo $row['name']; ?> decking expert to learn more about Trex composite decking.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/sustainable-building-trex/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Go Green with Trex Decking: A Sustainable Building Solution \u2192 <?php echo $row['name']; ?> ",
+    "og_description": "Trex decking is the perfect solution for sustainable building. Contact a <?php echo $row['name']; ?> decking expert to learn more about Trex composite decking.",
+    "og_url": "https://<?php echo $row['url']; ?>/sustainable-building-trex/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2021-04-28T21:22:15+00:00",
+    "article_modified_time": "2023-09-11T13:46:12+00:00",
+    "og_image": [
+      {
+        "width": 2048,
+        "height": 1071,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2021/04/39883124_10161020890015554_7179577394825527296_n.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "2 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/sustainable-building-trex/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/sustainable-building-trex/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "Go Green with Trex Decking: A Sustainable Building Solution",
+          "datePublished": "2021-04-28T21:22:15+00:00",
+          "dateModified": "2023-09-11T13:46:12+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/sustainable-building-trex/"
+          },
+          "wordCount": 479,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "articleSection": [
+            "Builder",
+            "Building in <?php echo $row['country']; ?>",
+            "Building Trends",
+            "Contractor",
+            "Decks",
+            "Developer",
+            "Homeowner",
+            "Remodeler"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/sustainable-building-trex/",
+          "url": "https://<?php echo $row['url']; ?>/sustainable-building-trex/",
+          "name": "Go Green with Trex Decking: A Sustainable Building Solution \u2192 <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2021-04-28T21:22:15+00:00",
+          "dateModified": "2023-09-11T13:46:12+00:00",
+          "description": "Trex decking is the perfect solution for sustainable building. Contact a <?php echo $row['name']; ?> decking expert to learn more about Trex composite decking.",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/sustainable-building-trex/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "https://<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2790" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2790"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2790/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2791"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2790"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2790"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2790"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

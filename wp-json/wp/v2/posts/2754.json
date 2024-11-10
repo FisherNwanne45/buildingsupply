@@ -1,0 +1,233 @@
+{
+  "id": 2754,
+  "date": "2020-12-21T14:27:18",
+  "date_gmt": "2020-12-21T19:27:18",
+  "guid": { "rendered": "https://<?php echo $row['url']; ?>/?p=2754" },
+  "modified": "2023-09-11T09:46:24",
+  "modified_gmt": "2023-09-11T13:46:24",
+  "slug": "condo-design-trends-<?php echo $row['country']; ?>",
+  "status": "publish",
+  "type": "post",
+  "link": "https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/",
+  "title": {
+    "rendered": "2021 Condo Design Trends for <?php echo $row['country']; ?>"
+  },
+  "content": {
+    "rendered": "<p>Condos are a big part of the <?php echo $row['country']; ?> lifestyle. In a city hemmed by the ocean on one side, with a <a href=\"https://<?php echo $row['url']; ?>/solutions-for-building-more-housing-units-in-<?php echo $row['country']; ?>/\">shortage in available housing units</a>, developers are building upwards instead of outwards\u2014and that means apartment-style condos are rising in popularity. What does the interior design look like? There are lots of trends emerging for 2021. Here are some of our favorites!</p>\n<h2><strong>1. Lighting as Much for Decoration as Illumination</strong></h2>\n<p>This is a big trend that will be growing more popular in 2021. Whether through lamps or carefully selected chandeliers, lighting serves a dual purpose in the modern condo. It\u2019s meant to both illuminate and decorate, usually through creative designs and finishes that make light fixtures catch the eye. While recessed lighting will still be popular, statement pieces to accompany them are also the norm\u2014and they\u2019re typically strategically placed in order to not only be eye catching but to highlight certain parts of the room to which you\u2019d like to draw attention. For example, in bathrooms, concealed lighting behind mirrors or beneath the vanity serves to not only light up the bathroom but also add a bit of style, too.</p>\n<h2><strong>2. Color Schemes Favor Light and Fresh</strong></h2>\n<p>Modern apartment design\u2014particularly in places like <?php echo $row['country']; ?> where interior spaces might be smaller than average\u2014focuses on keeping finishes light colors. This comes with a big advantage in that light colors reflect a lot of light, which makes rooms feel more spacious. White is a timeless classic that will always be in style, and for 2021, it\u2019s also looking like cool light gray tones will be popular, too.</p>\n<h2><strong>3. Black and White Color Schemes Will be Popular, Too</strong></h2>\n<p>Black and white color schemes have been trendy for a while\u2014as illustrated by the continuing popularity of things like tuxedo kitchens. This is expected to remain true for 2021, although in condos and smaller spaces, the current trend emphasizes using small amounts of black to pick out details among white and light gray color schemes. This can mean black stools at a gray kitchen island or black pendant lighting in a room designed in shades of white and gray.</p>\n<h2><strong>4. Minimalism in Design and D\u00e9cor</strong></h2>\n<p>This trend is expected to become a big one for 2021, and for much the same reasons why light colors are becoming more popular. Minimalism focuses on using fewer elements, usually simplistic in design, to decorate and furnish interior spaces. People love it for the clean, classic look\u2014and also because this design style by default minimizes a cramped or cluttered feeling, which is a huge plus when you want to make smaller spaces feel bigger and more open.</p>\n<h2><strong>5. Functional Rooms Overtake Formal Rooms</strong></h2>\n<p>One trend that is fading, particularly in condos, apartments and other smaller dwellings, is the idea of the formal room. This means that things like formal living rooms or formal dining rooms are on the way out. The trend that is replacing these spaces? Functional areas that are useful every day and not just when entertaining. Expect more eat-in kitchens or living rooms that combine family entertainment along with a cozy place to host your friends.</p>\n<h2><strong>6. Closed Storage is Making a Comeback</strong></h2>\n<p>In recent years, open storage has been extremely trendy. This means things like shelving where the contents stored on those shelves are as much decorative as they are functional. In kitchens, the old trend included glass doors or open shelves that displayed dishes, mugs and other useful items. Today, however, the concept of closed storage is coming back. This means that rather than making your tools, dishes and other useful things part of the d\u00e9cor, designers will be looking at ways to install cabinets and other hideaway storage fixtures in order to keep clutter confined behind closed doors.</p>\n<h2><strong>7. Cottagecore is the New Buzzword</strong></h2>\n<p>With so many people staying at home these days, a surprising new trend has emerged, it it\u2019s one that will continue to grow throughout 2021. It\u2019s called \u201ccottagecore\u201d and it\u2019s all about making interior spaces cozy and artistic. To pull off the look, designers are using vintage elements like carefully chosen antiques as well as comfortable throws, pillows and other textiles to create spaces that invite relaxation.</p>\n<h2><strong>8. Easy Cleaning is Key</strong></h2>\n<p>This is perhaps another trend borne of the pandemic. More people staying at home means more cooking at home and more making messes at home. With that, many are concerned with the ability to sanitize and disinfect easily. People are looking more and more for surfaces that are easy to clean. This means high gloss in the kitchen, smooth floors that can be mopped in a minute, and uncomplicated designs that won\u2019t require hours to scrub bits of dirt out of nooks and crannies.</p>\n<h2><strong>9. Closed Floor Plans are Back in Style</strong></h2>\n<p>Open floor plans were huge for a long while, particularly in apartments and condos where space was already limited. The idea was that opening up the kitchen, living and dining areas gave all three a bigger sense of space. Here again, however, the new stay at home and work from home lifestyle has caused a shift in trends. With the kids home all the time, and with work happening in the home office, people are looking for more privacy\u2014and that means walling off some areas of the home in order to get a break from others and to limit distractions.</p>\n<p>The past year has caused a lot of changes to our lifestyles, and that is definitely reflecting in condo design trends for 2021. However, there are still a few classic trends\u2014like minimalism and color schemes\u2014that will be rising in prominence, too. The things listed above are likely to be the big ones for the coming year!</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Condos are a big part of the <?php echo $row['country']; ?> lifestyle. In a city hemmed by the ocean on one side, with a shortage in available housing units, developers are building upwards instead of outwards\u2014and that means apartment-style condos are rising in popularity. What does the interior design look like? There are lots of trends emerging for\u2026</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 2755,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "footnotes": "" },
+  "categories": [37, 5, 7, 28],
+  "tags": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>2021 Condo Design Trends for <?php echo $row['country']; ?> - <?php echo $row['name']; ?> </title>\n<meta name=\"description\" content=\"Wondering what the big condo design trends will be for 2021? Here&#039;s a look into some of the things that are likely to be big in <?php echo $row['country']; ?>!\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"2021 Condo Design Trends for <?php echo $row['country']; ?> - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Wondering what the big condo design trends will be for 2021? Here&#039;s a look into some of the things that are likely to be big in <?php echo $row['country']; ?>!\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:published_time\" content=\"2020-12-21T19:27:18+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-11T13:46:24+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2020/12/boston-condo-design-trends.png\" />\n\t<meta property=\"og:image:width\" content=\"1280\" />\n\t<meta property=\"og:image:height\" content=\"859\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"author\" content=\"briannabeetstra\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:creator\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"briannabeetstra\" />\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data2\" content=\"5 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/#article\",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/\"},\"author\":{\"name\":\"briannabeetstra\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\"},\"headline\":\"2021 Condo Design Trends for <?php echo $row['country']; ?>\",\"datePublished\":\"2020-12-21T19:27:18+00:00\",\"dateModified\":\"2023-09-11T13:46:24+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/\"},\"wordCount\":958,\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"articleSection\":[\"<?php echo $row['country']; ?> Condo\",\"Builder\",\"Developer\",\"Homeowner\"],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/\",\"url\":\"https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/\",\"name\":\"2021 Condo Design Trends for <?php echo $row['country']; ?> - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2020-12-21T19:27:18+00:00\",\"dateModified\":\"2023-09-11T13:46:24+00:00\",\"description\":\"Wondering what the big condo design trends will be for 2021? Here's a look into some of the things that are likely to be big in <?php echo $row['country']; ?>!\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]},{\"@type\":\"Person\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356\",\"name\":\"briannabeetstra\",\"url\":\"https://<?php echo $row['url']; ?>/author/briannabeetstra/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "2021 Condo Design Trends for <?php echo $row['country']; ?> - <?php echo $row['name']; ?> ",
+    "description": "Wondering what the big condo design trends will be for 2021? Here's a look into some of the things that are likely to be big in <?php echo $row['country']; ?>!",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "2021 Condo Design Trends for <?php echo $row['country']; ?> - <?php echo $row['name']; ?> ",
+    "og_description": "Wondering what the big condo design trends will be for 2021? Here's a look into some of the things that are likely to be big in <?php echo $row['country']; ?>!",
+    "og_url": "https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_published_time": "2020-12-21T19:27:18+00:00",
+    "article_modified_time": "2023-09-11T13:46:24+00:00",
+    "og_image": [
+      {
+        "width": 1280,
+        "height": 859,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2020/12/boston-condo-design-trends.png",
+        "type": "image/png"
+      }
+    ],
+    "author": "briannabeetstra",
+    "twitter_card": "summary_large_image",
+    "twitter_creator": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": {
+      "Written by": "briannabeetstra",
+      "Est. reading time": "5 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/#article",
+          "isPartOf": {
+            "@id": "https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/"
+          },
+          "author": {
+            "name": "briannabeetstra",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356"
+          },
+          "headline": "2021 Condo Design Trends for <?php echo $row['country']; ?>",
+          "datePublished": "2020-12-21T19:27:18+00:00",
+          "dateModified": "2023-09-11T13:46:24+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/"
+          },
+          "wordCount": 958,
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "articleSection": [
+            "<?php echo $row['country']; ?> Condo",
+            "Builder",
+            "Developer",
+            "Homeowner"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/",
+          "url": "https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/",
+          "name": "2021 Condo Design Trends for <?php echo $row['country']; ?> - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2020-12-21T19:27:18+00:00",
+          "dateModified": "2023-09-11T13:46:24+00:00",
+          "description": "Wondering what the big condo design trends will be for 2021? Here's a look into some of the things that are likely to be big in <?php echo $row['country']; ?>!",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/condo-design-trends-<?php echo $row['country']; ?>/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://<?php echo $row['url']; ?>/#/schema/person/3e745eb2eb7422930d2525a0b7071356",
+          "name": "briannabeetstra",
+          "url": "https://<?php echo $row['url']; ?>/author/briannabeetstra/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2754" }
+    ],
+    "collection": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/comments?post=2754"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/posts/2754/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/2755"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=2754"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/categories?post=2754"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/tags?post=2754"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

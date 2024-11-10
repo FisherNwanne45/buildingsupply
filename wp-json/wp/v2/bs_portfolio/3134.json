@@ -1,0 +1,162 @@
+{
+  "id": 3134,
+  "date": "2023-04-06T12:54:21",
+  "date_gmt": "2023-04-06T16:54:21",
+  "guid": {
+    "rendered": "https://nebldgsupply.wpengine.com/?post_type=bs_portfolio&#038;p=3134"
+  },
+  "modified": "2023-04-18T10:50:39",
+  "modified_gmt": "2023-04-18T14:50:39",
+  "slug": "endicott-place",
+  "status": "publish",
+  "type": "bs_portfolio",
+  "link": "https://<?php echo $row['url']; ?>/project/endicott-place/",
+  "title": { "rendered": "Endicott Place" },
+  "content": {
+    "rendered": "\n<div class=\"wp-block-group alignfull pattern-intro-banner is-layout-constrained wp-block-group-is-layout-constrained\">\n<div class=\"wp-block-cover alignfull\" style=\"min-height:47vh\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-transparent-background-color has-background-dim-0 has-background-dim\"></span><img loading=\"lazy\" decoding=\"async\" width=\"1781\" height=\"1186\" class=\"wp-block-cover__image-background wp-image-3135\" alt=\"\" src=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/endicott-place.jpg\" style=\"object-position:50% 36%\" data-object-fit=\"cover\" data-object-position=\"50% 36%\" srcset=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/endicott-place.jpg 1781w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/endicott-place-768x511.jpg 768w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/endicott-place-1024x682.jpg 1024w, https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/endicott-place-1536x1023.jpg 1536w\" sizes=\"(max-width: 1781px) 100vw, 1781px\" /><div class=\"wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow\">\n<p class=\"has-text-align-center has-large-font-size\"></p>\n</div></div>\n\n\n\n<div class=\"wp-block-group alignwide intro-content is-vertical is-layout-flex wp-container-core-group-layout-1 wp-block-group-is-layout-flex\"><h1 class=\"wp-block-post-title has-h-2-font-size\">Endicott Place</h1></div>\n</div>\n\n\n    <div class=\"is-layout-flex alignwide wp-block-blockshoon-portfolio-meta\">\n                        <div class=\"wp-block-column is-layout-flow\">\n                    <h2 class=\"wp-block-heading has-h-5-font-size\" style=\"margin-bottom:var(--wp--preset--spacing--10)\">Client</h2>\n                    <p class=\"has-large-font-size\">Endicott Place</p>\n                </div>\n                            <div class=\"wp-block-column is-layout-flow\">\n                    <h2 class=\"wp-block-heading has-h-5-font-size\" style=\"margin-bottom:var(--wp--preset--spacing--10)\">Industry</h2>\n                    <p class=\"has-large-font-size\">Residential</p>\n                </div>\n                            <div class=\"wp-block-column is-layout-flow\">\n                    <h2 class=\"wp-block-heading has-h-5-font-size\" style=\"margin-bottom:var(--wp--preset--spacing--10)\">Date</h2>\n                    <p class=\"has-large-font-size\">2015</p>\n                </div>\n                </div>\n\n\n\n<h2 class=\"wp-block-heading has-h-3-font-size\">Challenge / Opportunity</h2>\n\n\n\n<p class=\"has-large-font-size\">Endicott Place: a 15 building, 112 unit project with a variety of layouts.</p>\n\n\n\n<p class=\"has-large-font-size\"><?php echo $row['name']; ?> was contracted by Ad Meliora Development, a real estate developer, to handle the wood framing at Endicott Place, as well as supply and installation of the windows, exterior doors, asphalt roofing, siding, and decking.</p>\n\n\n\n<h2 class=\"wp-block-heading has-h-3-font-size\">The <?php echo $row['name']; ?> Difference</h2>\n\n\n\n<p class=\"has-large-font-size\"><?php echo $row['name']; ?> streamlined the process for Ad Meliora. The <?php echo $row['name']; ?> team was responsible for doing the research, laying the groundwork, and presenting Ad Meliora with a single quote for both labor and materials. Once the quote was accepted, <?php echo $row['name']; ?> began project managing their portion of the build from start to finish, allowing Ad Meliora to tackle other aspects of the project.</p>\n\n\n\n<p class=\"has-large-font-size\">\u201cWe worked with the developer to ensure that he had what he needed without him having to make additional effort. The developer then doesn\u2019t have to worry about deliveries or whether there\u2019s enough stock or labor for the job. We take care of all of that,\u201d said Richie Goulding, project manager at <?php echo $row['name']; ?> for Endicott Place. </p>\n\n\n\n<p class=\"has-large-font-size\"><?php echo $row['name']; ?> also stands by their quote. Until the end. If the project incurs delays or additional costs, <?php echo $row['name']; ?> takes responsibility. This demonstrates the company\u2019s commitment to quality work and integrity. It also provides something to developers that is truly priceless: peace of mind.</p>\n\n\n\n<p class=\"has-large-font-size\">\u201cIf the final number ends up being different than the quote, that\u2019s a risk we take on ourselves. [The developer\u2019s] headache and gamble is less, because they know their number ahead of time,\u201d said Goulding.</p>\n\n\n\n<figure class=\"wp-block-pullquote\"><blockquote><p>Great communication and good attention to detail on both a daily basis and a more long-term basis over the course of the project. One of the biggest setbacks [with other sub-contractors] is a lack of communication and a lack of follow through when certain commitments are made &#8212; a lot of times people will let you down when they say they\u2019re going to do something. What\u2019s good about Richie &amp; his crew at <?php echo $row['name']; ?> is that they actually do what they tell you they are going to do and communicate well with you throughout the process.</p><cite>Nick Soughley, Ad Meliora Development</cite></blockquote></figure>\n",
+    "protected": false
+  },
+  "featured_media": 3135,
+  "menu_order": 0,
+  "template": "",
+  "meta": {
+    "_meta_portfolio_client": "Endicott Place",
+    "_meta_portfolio_industry": "Residential",
+    "_meta_portfolio_date": "2015",
+    "_meta_portfolio_type": ""
+  },
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v21.9.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Endicott Place - <?php echo $row['name']; ?> </title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://<?php echo $row['url']; ?>/project/endicott-place/\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Endicott Place - <?php echo $row['name']; ?> \" />\n<meta property=\"og:description\" content=\"Challenge / Opportunity Endicott Place: a 15 building, 112 unit project with a variety of layouts. <?php echo $row['name']; ?> was contracted by Ad Meliora Development, a real estate developer, to handle the wood framing at Endicott Place, as well as supply and installation of the windows, exterior doors, asphalt roofing, siding, and decking. The <?php echo $row['name']; ?> Difference NEBS\u2026\" />\n<meta property=\"og:url\" content=\"https://<?php echo $row['url']; ?>/project/endicott-place/\" />\n<meta property=\"og:site_name\" content=\"<?php echo $row['name']; ?> \" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\" />\n<meta property=\"article:modified_time\" content=\"2023-04-18T14:50:39+00:00\" />\n<meta property=\"og:image\" content=\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/endicott-place.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1781\" />\n\t<meta property=\"og:image:height\" content=\"1186\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:site\" content=\"@NEBS_<?php echo $row['country']; ?>\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"2 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://<?php echo $row['url']; ?>/project/endicott-place/\",\"url\":\"https://<?php echo $row['url']; ?>/project/endicott-place/\",\"name\":\"Endicott Place - <?php echo $row['name']; ?> \",\"isPartOf\":{\"@id\":\"https://<?php echo $row['url']; ?>/#website\"},\"datePublished\":\"2023-04-06T16:54:21+00:00\",\"dateModified\":\"2023-04-18T14:50:39+00:00\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://<?php echo $row['url']; ?>/project/endicott-place/\"]}]},{\"@type\":\"WebSite\",\"@id\":\"https://<?php echo $row['url']; ?>/#website\",\"url\":\"https://<?php echo $row['url']; ?>/\",\"name\":\"<?php echo $row['name']; ?> \",\"description\":\"<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.\",\"publisher\":{\"@id\":\"https://<?php echo $row['url']; ?>/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://<?php echo $row['url']; ?>/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://<?php echo $row['url']; ?>/#organization\",\"name\":\"<?php echo $row['name']; ?> \",\"url\":\"https://<?php echo $row['url']; ?>/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\",\"url\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"contentUrl\":\"https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png\",\"width\":318,\"height\":84,\"caption\":\"<?php echo $row['name']; ?> \"},\"image\":{\"@id\":\"https://<?php echo $row['url']; ?>/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>\",\"https://twitter.com/NEBS_<?php echo $row['country']; ?>\",\"https://www.instagram.com/newenglandbuilding/\",\"https://www.linkedin.com/company/new-england-building-supply\",\"https://www.pinterest.com/newenglandbuildingsupply\",\"https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Endicott Place - <?php echo $row['name']; ?> ",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://<?php echo $row['url']; ?>/project/endicott-place/",
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Endicott Place - <?php echo $row['name']; ?> ",
+    "og_description": "Challenge / Opportunity Endicott Place: a 15 building, 112 unit project with a variety of layouts. <?php echo $row['name']; ?> was contracted by Ad Meliora Development, a real estate developer, to handle the wood framing at Endicott Place, as well as supply and installation of the windows, exterior doors, asphalt roofing, siding, and decking. The <?php echo $row['name']; ?> Difference NEBS\u2026",
+    "og_url": "https://<?php echo $row['url']; ?>/project/endicott-place/",
+    "og_site_name": "<?php echo $row['name']; ?> ",
+    "article_publisher": "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+    "article_modified_time": "2023-04-18T14:50:39+00:00",
+    "og_image": [
+      {
+        "width": 1781,
+        "height": 1186,
+        "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/04/endicott-place.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "twitter_card": "summary_large_image",
+    "twitter_site": "@NEBS_<?php echo $row['country']; ?>",
+    "twitter_misc": { "Est. reading time": "2 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://<?php echo $row['url']; ?>/project/endicott-place/",
+          "url": "https://<?php echo $row['url']; ?>/project/endicott-place/",
+          "name": "Endicott Place - <?php echo $row['name']; ?> ",
+          "isPartOf": { "@id": "https://<?php echo $row['url']; ?>/#website" },
+          "datePublished": "2023-04-06T16:54:21+00:00",
+          "dateModified": "2023-04-18T14:50:39+00:00",
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://<?php echo $row['url']; ?>/project/endicott-place/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://<?php echo $row['url']; ?>/#website",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "name": "<?php echo $row['name']; ?> ",
+          "description": "<?php echo $row['country']; ?>&#039;s hometown building supplier, delivering to construction sites around <?php echo $row['country']; ?>. Lumber delivery, windows, kitchen and bath design for homeowners, builders, developers, remodelers and architects.",
+          "publisher": {
+            "@id": "https://<?php echo $row['url']; ?>/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://<?php echo $row['url']; ?>/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://<?php echo $row['url']; ?>/#organization",
+          "name": "<?php echo $row['name']; ?> ",
+          "url": "https://<?php echo $row['url']; ?>/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/",
+            "url": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "contentUrl": "https://<?php echo $row['url']; ?>/wp-content/uploads/2023/03/nebs-logo.png",
+            "width": 318,
+            "height": 84,
+            "caption": "<?php echo $row['name']; ?> "
+          },
+          "image": {
+            "@id": "https://<?php echo $row['url']; ?>/#/schema/logo/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+            "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
+            "https://www.instagram.com/newenglandbuilding/",
+            "https://www.linkedin.com/company/new-england-building-supply",
+            "https://www.pinterest.com/newenglandbuildingsupply",
+            "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
+          ]
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/bs_portfolio/3134"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/bs_portfolio"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/types/bs_portfolio"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media/3135"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://<?php echo $row['url']; ?>/wp-json/wp/v2/media?parent=3134"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
