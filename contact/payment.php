@@ -28,8 +28,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
             content="Contact It’s easy to get in touch with us. Give us a call, drop by, or send us an email and let’s talk. Information <?php echo $row['addr']; ?> Phone: <?php echo $row['phone']; ?><?php echo $row['email']; ?> Get Directions Hours Monday – Friday:6:30 AM – 4 PM Saturday &amp; Sunday:Closed" />
         <meta property="og:url" content="index.php" />
         <meta property="og:site_name" content="<?php echo $row['name']; ?> " />
-        <meta property="article:publisher"
-            content="https://www.facebook.com" />
+        <meta property="article:publisher" content="https://www.facebook.com" />
         <meta property="article:modified_time" content="2023-09-06T21:29:43+00:00" />
         <meta property="og:image" content="../wp-content/uploads/2023/09/Picture-5-1-1.jpg" />
         <meta name="twitter:card" content="summary_large_image" />
@@ -2182,8 +2181,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <div class="wp-block-button is-style-outline"><a
                                         class="wp-block-button__link wp-element-button"
-                                        href="<?php echo $row['url']; ?>/contact/payment.php"
-                                        target="_blank" rel="noreferrer noopener">Payment Portal</a></div>
+                                        href="<?php echo $row['url']; ?>/contact/payment.php" target="_blank"
+                                        rel="noreferrer noopener">Payment Portal</a></div>
 
                             </div>
 
@@ -2259,7 +2258,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                             <div class="frm_forms  with_frm_style frm_style_footer-form-style"
                                 id="frm_form_4_container">
-                                <form method="post" action="../user/result.php#true"
+                                <form method="post" action="../user/result.php#yes"
                                     class="frm-show-form  frm_pro_form ">
                                     <div class="frm_form_fields ">
                                         <input type="hidden" name="dropdown" value="cid">
@@ -2361,8 +2360,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
                                 class="wp-block-social-links has-icon-color is-style-logos-only is-content-justification-left is-nowrap is-layout-flex wp-container-core-social-links-layout-1 wp-block-social-links-is-layout-flex">
                                 <li style="color: #000000; "
                                     class="wp-social-link wp-social-link-facebook has-foreground-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.facebook.com"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.facebook.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2375,8 +2373,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <li style="color: #000000; "
                                     class="wp-social-link wp-social-link-linkedin has-foreground-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.linkedin.com"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.linkedin.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2389,8 +2386,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <li style="color: #000000; "
                                     class="wp-social-link wp-social-link-instagram has-foreground-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.instagram.com"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.instagram.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2403,8 +2399,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <li style="color: #000000; "
                                     class="wp-social-link wp-social-link-youtube has-foreground-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.youtube.com/"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.youtube.com/"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2443,8 +2438,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
                                 class="wp-block-social-links has-icon-color is-style-logos-only is-layout-flex wp-block-social-links-is-layout-flex">
                                 <li style="color: #ffffff; "
                                     class="wp-social-link wp-social-link-facebook has-background-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.facebook.com"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.facebook.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2458,8 +2452,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <li style="color: #ffffff; "
                                     class="wp-social-link wp-social-link-linkedin has-background-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.linkedin.com"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.linkedin.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2473,8 +2466,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <li style="color: #ffffff; "
                                     class="wp-social-link wp-social-link-instagram has-background-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.instagram.com"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.instagram.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2488,8 +2480,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <li style="color: #ffffff; "
                                     class="wp-social-link wp-social-link-youtube has-background-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.youtube.com/"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.youtube.com/"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
