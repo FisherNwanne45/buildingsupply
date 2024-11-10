@@ -28,8 +28,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
             content="Contact It’s easy to get in touch with us. Give us a call, drop by, or send us an email and let’s talk. Information <?php echo $row['addr']; ?> Phone: <?php echo $row['phone']; ?><?php echo $row['email']; ?> Get Directions Hours Monday – Friday:6:30 AM – 4 PM Saturday &amp; Sunday:Closed" />
         <meta property="og:url" content="index.php" />
         <meta property="og:site_name" content="<?php echo $row['name']; ?> " />
-        <meta property="article:publisher"
-            content="https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>" />
+        <meta property="article:publisher" content="https://www.facebook.com" />
         <meta property="article:modified_time" content="2023-09-06T21:29:43+00:00" />
         <meta property="og:image" content="../wp-content/uploads/2023/09/Picture-5-1-1.jpg" />
         <meta name="twitter:card" content="summary_large_image" />
@@ -106,10 +105,10 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
                     "@id": "<?php echo $row['url']; ?>/#/schema/logo/image/"
                 },
                 "sameAs": [
-                    "https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>",
+                    "https://www.facebook.com",
                     "https://twitter.com/NEBS_<?php echo $row['country']; ?>",
-                    "https://www.instagram.com/newenglandbuilding/",
-                    "https://www.linkedin.com/company/new-england-building-supply",
+                    "https://www.instagram.com",
+                    "https://www.linkedin.com",
                     "https://www.pinterest.com/newenglandbuildingsupply",
                     "https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g"
                 ]
@@ -2532,8 +2531,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <li style="color: #000000; "
                                     class="wp-social-link wp-social-link-youtube has-foreground-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g?view_as=subscriber"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.youtube.com/"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2662,8 +2660,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
                                 class="wp-block-social-links has-icon-color is-style-logos-only is-layout-flex wp-block-social-links-is-layout-flex">
                                 <li style="color: #ffffff; "
                                     class="wp-social-link wp-social-link-facebook has-background-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.facebook.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2677,8 +2674,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <li style="color: #ffffff; "
                                     class="wp-social-link wp-social-link-linkedin has-background-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.linkedin.com/company/new-england-building-supply"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.linkedin.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2692,8 +2688,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <li style="color: #ffffff; "
                                     class="wp-social-link wp-social-link-instagram has-background-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.instagram.com/newenglandbuilding/"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.instagram.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2707,8 +2702,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <li style="color: #ffffff; "
                                     class="wp-social-link wp-social-link-youtube has-background-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.youtube.com/channel/UCyOfPzBxPEo86MkNHt-Ry2g?view_as=subscriber"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.youtube.com/"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">

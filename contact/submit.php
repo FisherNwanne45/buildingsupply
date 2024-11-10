@@ -26,16 +26,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     try {
         // Server settings
         $mail->isSMTP();
-        $mail->Host = 'smtp.your-email-provider.com';  // Set your SMTP server
+        $mail->Host = 'smtp.hostinger.com';  // Set your SMTP server
         $mail->SMTPAuth = true;
-        $mail->Username = 'your-email@example.com';    // SMTP username
-        $mail->Password = 'your-email-password';       // SMTP password
+        $mail->Username = 'noreply@jjbuildingsupply.com';    // SMTP username
+        $mail->Password = 'fresh_SUPPLY024';       // SMTP password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = 587;
 
         // Recipients
-        $mail->setFrom('your-email@example.com', 'Your Name');
-        $mail->addAddress('recipient@example.com', 'Recipient Name');  // Add a recipient
+        $mail->setFrom('noreply@jjbuildingsupply.com', 'JJB Website');
+        $mail->addAddress('info@jjbuildingsupply.com', 'JJB Admin');  // Add a recipient
 
         // Content
         $mail->isHTML(true);
@@ -2246,8 +2246,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <div class="wp-block-button is-style-outline"><a
                                         class="wp-block-button__link wp-element-button"
-                                        href="<?php echo $row['url']; ?>/contact/payment.php"
-                                        target="_blank" rel="noreferrer noopener">Payment Portal</a></div>
+                                        href="<?php echo $row['url']; ?>/contact/payment.php" target="_blank"
+                                        rel="noreferrer noopener">Payment Portal</a></div>
 
                             </div>
 
