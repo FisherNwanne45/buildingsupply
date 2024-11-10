@@ -2182,8 +2182,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <div class="wp-block-button is-style-outline"><a
                                         class="wp-block-button__link wp-element-button"
-                                        href="<?php echo $row['url']; ?>/contact/payment.php"
-                                        target="_blank" rel="noreferrer noopener">Payment Portal</a></div>
+                                        href="<?php echo $row['url']; ?>/contact/payment.php" target="_blank"
+                                        rel="noreferrer noopener">Payment Portal</a></div>
 
                             </div>
 
@@ -2462,14 +2462,15 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
 
 
-                            <p class="has-large-font-size">Phone: <a href="tel:6174555900">(617)
-                                    445-5900</a><br><?php echo $row['email']; ?></p>
+                            <p class="has-large-font-size">Phone: <a
+                                    href="tel:<?php echo $row['phone']; ?>"><?php echo $row['phone']; ?></a>
+                                <br><?php echo $row['email']; ?>
+                                <br><?php echo $row['email2']; ?>
+                            </p>
 
 
 
-                            <p class="link-arrow has-large-font-size"><a
-                                    href="https://maps.google.com/maps/dir//174+Hampden+St+<?php echo $row['country']; ?>,+MA+02119/@42.3272085,-71.0748912,16z/data=!4m5!4m4!1m0!1m2!1m1!1s0x89e37a381812c70d:0x2984a5c6e70696b4"
-                                    target="_blank" rel="noreferrer noopener">Get Directions</a></p>
+
                         </div>
 
 
