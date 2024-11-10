@@ -32,8 +32,7 @@ include_once ('session.php');
             content="Contact It’s easy to get in touch with us. Give us a call, drop by, or send us an email and let’s talk. Information <?php echo $row['addr']; ?> Phone: <?php echo $row['phone']; ?><?php echo $row['email']; ?> Get Directions Hours Monday – Friday:6:30 AM – 4 PM Saturday &amp; Sunday:Closed" />
         <meta property="og:url" content="index.php" />
         <meta property="og:site_name" content="<?php echo $row['name']; ?> " />
-        <meta property="article:publisher"
-            content="https://www.facebook.com" />
+        <meta property="article:publisher" content="https://www.facebook.com" />
         <meta property="article:modified_time" content="2023-09-06T21:29:43+00:00" />
         <meta property="og:image" content="../wp-content/uploads/2023/09/Picture-5-1-1.jpg" />
         <meta name="twitter:card" content="summary_large_image" />
@@ -2154,7 +2153,7 @@ include_once ('session.php');
                                         </ul>
                                     </li>
                                     <li class=" wp-block-navigation-item current-menu-item wp-block-navigation-link"><a
-                                            class="wp-block-navigation-item__content" href="index.php"
+                                            class="wp-block-navigation-item__content" href="../contact/index.php"
                                             aria-current="page"><span class="wp-block-navigation-item__label">Contact
                                                 Us</span></a></li>
                                 </ul>
@@ -2467,8 +2466,7 @@ if (!isset($_POST['Submit'])) {
                                 class="wp-block-social-links has-icon-color is-style-logos-only is-layout-flex wp-block-social-links-is-layout-flex">
                                 <li style="color: #ffffff; "
                                     class="wp-social-link wp-social-link-facebook has-background-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.facebook.com"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.facebook.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2482,8 +2480,7 @@ if (!isset($_POST['Submit'])) {
 
                                 <li style="color: #ffffff; "
                                     class="wp-social-link wp-social-link-linkedin has-background-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.linkedin.com"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.linkedin.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2497,8 +2494,7 @@ if (!isset($_POST['Submit'])) {
 
                                 <li style="color: #ffffff; "
                                     class="wp-social-link wp-social-link-instagram has-background-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.instagram.com"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.instagram.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2512,8 +2508,7 @@ if (!isset($_POST['Submit'])) {
 
                                 <li style="color: #ffffff; "
                                     class="wp-social-link wp-social-link-youtube has-background-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.youtube.com/"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.youtube.com/"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
