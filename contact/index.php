@@ -2493,8 +2493,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
                                 class="wp-block-social-links has-icon-color is-style-logos-only is-content-justification-left is-nowrap is-layout-flex wp-container-core-social-links-layout-1 wp-block-social-links-is-layout-flex">
                                 <li style="color: #000000; "
                                     class="wp-social-link wp-social-link-facebook has-foreground-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.facebook.com/newenglandbuildingsupplydowntown<?php echo $row['country']; ?>"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.facebook.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2507,8 +2506,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <li style="color: #000000; "
                                     class="wp-social-link wp-social-link-linkedin has-foreground-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.linkedin.com/company/new-england-building-supply"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.linkedin.com"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
@@ -2521,8 +2519,7 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                                 <li style="color: #000000; "
                                     class="wp-social-link wp-social-link-instagram has-foreground-color wp-block-social-link">
-                                    <a rel=" noopener nofollow" target="_blank"
-                                        href="https://www.instagram.com/newenglandbuilding/"
+                                    <a rel=" noopener nofollow" target="_blank" href="https://www.instagram.com/"
                                         class="wp-block-social-link-anchor"><svg width="24" height="24"
                                             viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg"
                                             aria-hidden="true" focusable="false">
