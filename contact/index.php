@@ -2459,6 +2459,8 @@ include($_SERVER['DOCUMENT_ROOT'] . '/user/config.php');
 
                             <p class="has-large-font-size"><?php echo $row['addr']; ?></p>
 
+                            <p class="has-large-font-size"><?php echo $row['addr2']; ?></p>
+
 
 
                             <p class="has-large-font-size">Phone: <a

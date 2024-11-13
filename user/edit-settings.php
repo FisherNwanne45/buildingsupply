@@ -65,7 +65,7 @@ include('adminsession.php');
                             <?php
 include_once 'config.php';
 if(count($_POST)>0) {
-mysqli_query($conn,"UPDATE site set phone='" . $_POST['phone'] . "',email='" . $_POST['email'] . "',email2='" . $_POST['email2'] . "',name='" . $_POST['name'] . "',country='" . $_POST['country'] . "',addr='" . $_POST['addr'] . "' WHERE id='" . $_POST['id'] . "'");
+mysqli_query($conn,"UPDATE site set phone='" . $_POST['phone'] . "',email='" . $_POST['email'] . "',email2='" . $_POST['email2'] . "',name='" . $_POST['name'] . "',country='" . $_POST['country'] . "',addr2='" . $_POST['addr2'] . "',addr='" . $_POST['addr'] . "' WHERE id='" . $_POST['id'] . "'");
 $message = "Record Modified Successfully";
 
 header("Location: ");
@@ -116,6 +116,15 @@ $row= mysqli_fetch_array($result);
 
                                             </div>
                                         </div>
+                                        <div class="control-group">
+                                            <label class="control-label" for="basicinput">Change Second Address</label>
+                                            <div class="controls">
+
+                                                <input type="text" placeholder="Enter New Address" class="span8"
+                                                    type="text" name="addr2" value="<?php echo $row['addr2']; ?>">
+
+                                            </div>
+                                        </div>
 
 
 
@@ -123,7 +132,7 @@ $row= mysqli_fetch_array($result);
                                             <label class="control-label" for="basicinput">Change Site Phone</label>
                                             <div class="controls">
 
-                                                <input type="text" placeholder="Enter New Address" class="span8"
+                                                <input type="text" placeholder="Enter New phone" class="span8"
                                                     type="text" name="phone" value="<?php echo $row['phone']; ?>">
 
                                             </div>
@@ -135,7 +144,7 @@ $row= mysqli_fetch_array($result);
                                             <label class="control-label" for="basicinput">Change Site Email</label>
                                             <div class="controls">
 
-                                                <input type="text" placeholder="Enter New Address" class="span8"
+                                                <input type="text" placeholder="Enter New Email" class="span8"
                                                     type="text" name="email" value="<?php echo $row['email']; ?>">
 
                                             </div>
@@ -145,7 +154,7 @@ $row= mysqli_fetch_array($result);
                                             <label class="control-label" for="basicinput">Second Site Email</label>
                                             <div class="controls">
 
-                                                <input type="text" placeholder="Enter New Address" class="span8"
+                                                <input type="text" placeholder="Enter Second Email" class="span8"
                                                     type="text" name="email2" value="<?php echo $row['email2']; ?>">
 
                                             </div>
